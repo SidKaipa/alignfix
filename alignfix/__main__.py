@@ -159,7 +159,7 @@ def write_failure(o_file, name, query_count):
 
     with open(o_file, "a") as f:
         f.write(">" + name + "\n")
-        f.write("Query not found!!)
+        f.write("Query not found!!")
         f.write("Query not found!!")
         f.write("Score: " + str(-1) + "\n")
     f.close()
