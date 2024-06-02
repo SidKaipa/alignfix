@@ -9,16 +9,16 @@ import sys
 import time
 def print_error(msg):
     """
-   Writing an error message
+    Writing an error message
 
-   Parameters
-   ----------
-   msg : string
-       the error message to be printed
-   Returns
-   -------
-   void
-   """
+    Parameters
+    ----------
+    msg : string
+        the error message to be printed
+    Returns
+    -------
+    void
+    """
     sys.stderr.write("[ERROR]: {msg}\n".format(msg=msg))
     sys.exit(1)
 def output_benchmark(file, time_reading, time_aligning, query_count, query_failures):
