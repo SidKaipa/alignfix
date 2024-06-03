@@ -1,0 +1,104 @@
+>reads0
+Query not found!!Query not found!!Score: -1
+>reads1
+Query not found!!Query not found!!Score: -1
+>reads2
+Query not found!!Query not found!!Score: -1
+>reads3
+TTCCA-C-----TCTCG-GA--GATA-------CGC-----AGTAAGATCGTGTTGGCGAGT---GACCGCC---GCTGATACAG-GACACTACTCCG--TA
+TTACAGCAGGAGTTACGTGATCGATACAGATGGCGCTCTTTGGGGAGATCGTGTTGGCGAGTCGGGAG-GCCAAAGCTC-TGGAGTGA-ACTCCTCGGCTTA
+Score: -62
+Start position in database sequence: 109757.0
+End position in database sequence: 109858.0
+>reads4
+Query not found!!Query not found!!Score: -1
+>reads5
+Query not found!!Query not found!!Score: -1
+>reads6
+Query not found!!Query not found!!Score: -1
+>reads7
+Query not found!!Query not found!!Score: -1
+>reads8
+Query not found!!Query not found!!Score: -1
+>reads9
+Query not found!!Query not found!!Score: -1
+>reads10
+Query not found!!Query not found!!Score: -1
+>reads11
+Query not found!!Query not found!!Score: -1
+>reads12
+Query not found!!Query not found!!Score: -1
+>reads13
+Query not found!!Query not found!!Score: -1
+>reads14
+Query not found!!Query not found!!Score: -1
+>reads15
+Query not found!!Query not found!!Score: -1
+>reads16
+Query not found!!Query not found!!Score: -1
+>reads17
+Query not found!!Query not found!!Score: -1
+>reads18
+Query not found!!Query not found!!Score: -1
+>reads19
+Query not found!!Query not found!!Score: -1
+>reads20
+Query not found!!Query not found!!Score: -1
+>reads21
+Query not found!!Query not found!!Score: -1
+>reads22
+Query not found!!Query not found!!Score: -1
+>reads23
+Query not found!!Query not found!!Score: -1
+>reads24
+Query not found!!Query not found!!Score: -1
+>reads25
+Query not found!!Query not found!!Score: -1
+>reads26
+Query not found!!Query not found!!Score: -1
+>reads27
+Query not found!!Query not found!!Score: -1
+>reads28
+Query not found!!Query not found!!Score: -1
+>reads29
+Query not found!!Query not found!!Score: -1
+>reads30
+Query not found!!Query not found!!Score: -1
+>reads31
+Query not found!!Query not found!!Score: -1
+>reads32
+Query not found!!Query not found!!Score: -1
+>reads33
+Query not found!!Query not found!!Score: -1
+>reads34
+Query not found!!Query not found!!Score: -1
+>reads35
+Query not found!!Query not found!!Score: -1
+>reads36
+Query not found!!Query not found!!Score: -1
+>reads37
+Query not found!!Query not found!!Score: -1
+>reads38
+Query not found!!Query not found!!Score: -1
+>reads39
+Query not found!!Query not found!!Score: -1
+>reads40
+Query not found!!Query not found!!Score: -1
+>reads41
+Query not found!!Query not found!!Score: -1
+>reads42
+Query not found!!Query not found!!Score: -1
+>reads43
+Query not found!!Query not found!!Score: -1
+>reads44
+Query not found!!Query not found!!Score: -1
+>reads45
+Query not found!!Query not found!!Score: -1
+>reads46
+Query not found!!Query not found!!Score: -1
+>reads47
+Query not found!!Query not found!!Score: -1
+>reads48
+Query not found!!Query not found!!Score: -1
+>reads49
+Query not found!!Query not found!!Score: -1

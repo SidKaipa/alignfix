@@ -1,0 +1,116 @@
+>read26.0
+Query not found!!Query not found!!Score: -1
+>read26.1
+Query not found!!Query not found!!Score: -1
+>read26.2
+Query not found!!Query not found!!Score: -1
+>read26.3
+Query not found!!Query not found!!Score: -1
+>read26.4
+Query not found!!Query not found!!Score: -1
+>read26.5
+Query not found!!Query not found!!Score: -1
+>read26.6
+GATGTTGGGCTACACTCATCAGGAATGCGC
+GATGTTGGGCTACACTCAACAAGAATGCTC
+Score: 8
+Start position in database sequence: 19328.0
+End position in database sequence: 19357.0
+>read26.7
+Query not found!!Query not found!!Score: -1
+>read26.8
+TACGCAGGTAAACCCTGCGCGCCTTGTGTG
+TACGCAGGTAAACCCTGAGCGCCGTGTCTG
+Score: 8
+Start position in database sequence: 4708.0
+End position in database sequence: 4737.0
+>read26.9
+Query not found!!Query not found!!Score: -1
+>read26.10
+Query not found!!Query not found!!Score: -1
+>read26.11
+Query not found!!Query not found!!Score: -1
+>read26.12
+Query not found!!Query not found!!Score: -1
+>read26.13
+Query not found!!Query not found!!Score: -1
+>read26.14
+Query not found!!Query not found!!Score: -1
+>read26.15
+Query not found!!Query not found!!Score: -1
+>read26.16
+Query not found!!Query not found!!Score: -1
+>read26.17
+Query not found!!Query not found!!Score: -1
+>read26.18
+Query not found!!Query not found!!Score: -1
+>read26.19
+Query not found!!Query not found!!Score: -1
+>read26.20
+Query not found!!Query not found!!Score: -1
+>read26.21
+Query not found!!Query not found!!Score: -1
+>read26.22
+Query not found!!Query not found!!Score: -1
+>read26.23
+Query not found!!Query not found!!Score: -1
+>read26.24
+Query not found!!Query not found!!Score: -1
+>read26.25
+Query not found!!Query not found!!Score: -1
+>read26.26
+Query not found!!Query not found!!Score: -1
+>read26.27
+Query not found!!Query not found!!Score: -1
+>read26.28
+Query not found!!Query not found!!Score: -1
+>read26.29
+Query not found!!Query not found!!Score: -1
+>read26.30
+Query not found!!Query not found!!Score: -1
+>read26.31
+Query not found!!Query not found!!Score: -1
+>read26.32
+Query not found!!Query not found!!Score: -1
+>read26.33
+Query not found!!Query not found!!Score: -1
+>read26.34
+Query not found!!Query not found!!Score: -1
+>read26.35
+Query not found!!Query not found!!Score: -1
+>read26.36
+Query not found!!Query not found!!Score: -1
+>read26.37
+Query not found!!Query not found!!Score: -1
+>read26.38
+Query not found!!Query not found!!Score: -1
+>read26.39
+Query not found!!Query not found!!Score: -1
+>read26.40
+Query not found!!Query not found!!Score: -1
+>read26.41
+Query not found!!Query not found!!Score: -1
+>read26.42
+Query not found!!Query not found!!Score: -1
+>read26.43
+Query not found!!Query not found!!Score: -1
+>read26.44
+AATGTCGGTACATCGGTGAATTGCAAACG
+AATAGCGGTACATCGGTGAATTGCAAACG
+Score: 13
+Start position in database sequence: 13388.0
+End position in database sequence: 13416.0
+>read26.45
+Query not found!!Query not found!!Score: -1
+>read26.46
+Query not found!!Query not found!!Score: -1
+>read26.47
+Query not found!!Query not found!!Score: -1
+>read26.48
+Query not found!!Query not found!!Score: -1
+>read26.49
+GGGATATTAGCAGTACTGGGCTACATTA-A
+GGGATATTAGCAGTACTTGACTACGTTACA
+Score: 1
+Start position in database sequence: 1082.0
+End position in database sequence: 1111.0

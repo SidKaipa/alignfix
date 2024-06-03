@@ -1,0 +1,5 @@
+Time to Read Input: 7.91 s
+Time to Align: 0.23 seconds
+Total Time: 8.13 seconds
+Number of queries that failed: 50
+Percent of queries that aligned: 0.00

@@ -1,0 +1,5064 @@
+>read17.0
+TGGGGCCGTTTTCTGACCTTCACCCCGCAG
+TGGGGCCGTTTTCTGACCTTCACCCCGCCG
+Score: 18
+Start position in database sequence: 863.0
+End position in database sequence: 892.0
+>read17.1
+CAGGAACAGCACTCCACCCCTTGCTATTCA
+CAGGAACAGCACTCCACCCCTTGCTATTCA
+Score: 23
+Start position in database sequence: 13324.0
+End position in database sequence: 13353.0
+>read17.2
+TAGGCTCCGATAGTCGGGTGCGTGCGCAAA
+TAGGCTCCGATAGTCGGGTGCGTGCGCAAA
+Score: 23
+Start position in database sequence: 11743.0
+End position in database sequence: 11772.0
+>read17.3
+GCACGTTCTAGGTTCCTACTCTTCCTGCTA
+GCACGTTCTAGGTTCCTACTCTTCCTGCTA
+Score: 23
+Start position in database sequence: 19797.0
+End position in database sequence: 19826.0
+>read17.4
+TGTGCTCCAGATACCTAAAGTGAATATATA
+TGTGCTCCAGATACCTAAAGTGAATATATA
+Score: 23
+Start position in database sequence: 9244.0
+End position in database sequence: 9273.0
+>read17.5
+ATAGAGGCGTCAGTTTCTCACAACGGAGAA
+ATAGAGGCGTCAGTTTCTCACAACGGAGAA
+Score: 23
+Start position in database sequence: 16920.0
+End position in database sequence: 16949.0
+>read17.6
+CTTTGACGAAGCAAAGGCCTGGGGAAGAG
+CTTCGACGAAGCAAAGGCCTGGGGAAGAG
+Score: 23
+Start position in database sequence: 18170.0
+End position in database sequence: 18198.0
+>read17.7
+AGAAATGAAAAAGGTCTTCTGTGCTCCAGA
+AGAAATGAAAAAGGTCTTCTGTGCTCCAGA
+Score: 23
+Start position in database sequence: 9225.0
+End position in database sequence: 9254.0
+>read17.8
+CGGGAGCCGCGTCTCGCCTTGGCTACATTC
+CGGGAGCCGCGTCTCGCCTTGGCTACATTC
+Score: 23
+Start position in database sequence: 6301.0
+End position in database sequence: 6330.0
+>read17.9
+TGAGTATTCACCTAATGGTGCGAGACAAGC
+TGAGTATTCACCTAATGGTGCGAGACAAGC
+Score: 23
+Start position in database sequence: 7716.0
+End position in database sequence: 7745.0
+>read17.10
+GCGCAGACAGTTTCAGGTCACTGATGGCAG
+GCGCAGACAGTTTCAGGTCACTGATGGCAG
+Score: 23
+Start position in database sequence: 14754.0
+End position in database sequence: 14783.0
+>read17.11
+GTCATTGACGAGTGCCACTGAGTAACATTG
+GTCATTGACGAGTGCCACTGAGTAACATTG
+Score: 23
+Start position in database sequence: 11559.0
+End position in database sequence: 11588.0
+>read17.12
+AACTGGATACACAGAAACAGCCACCCGAGC
+AACTGGATACACAGAAACAGCCACCCGAGC
+Score: 23
+Start position in database sequence: 6157.0
+End position in database sequence: 6186.0
+>read17.13
+TCAAAAACCACGTTGAACAAACGATTCTG
+TTAAAAACCACGTTGAACACACGATTCTG
+Score: 18
+Start position in database sequence: 14704.0
+End position in database sequence: 14732.0
+>read17.14
+ATGCGCAGCATCGCTACGAGCTGAATCGCC
+ATGCGCAGCATCGCTACGAGCTGAATCGCC
+Score: 23
+Start position in database sequence: 1505.0
+End position in database sequence: 1534.0
+>read17.15
+CTAGCTTGAAGGTGGAGCAGGACGCCGCTT
+CTAGCTTGAAGGTGGAGCAGGACGGCGCTT
+Score: 18
+Start position in database sequence: 17837.0
+End position in database sequence: 17866.0
+>read17.16
+GCAGGGACCGTTTTAGATGCCCCAGTTCTG
+GCAGGGACCGTTTTAGATGCCCCAGTTCTG
+Score: 23
+Start position in database sequence: 12693.0
+End position in database sequence: 12722.0
+>read17.17
+ACCCTATCCCCCTCGCTATTGGACAAACCA
+ACCCTATCCCCCTCGCTATTGGACAAACCA
+Score: 23
+Start position in database sequence: 5120.0
+End position in database sequence: 5149.0
+>read17.18
+ATGTGCAAGTACTAGCCCCGCGCGAGCATA
+ATGTGCAAGTACTAGCCCCGCGCGAGCATA
+Score: 23
+Start position in database sequence: 15492.0
+End position in database sequence: 15521.0
+>read17.19
+TGACGAAGCAAAGGCCTGGGGAAGAGTTCG
+TGACGAAGCAAAGGCCTGGGGAAGAGTTCG
+Score: 23
+Start position in database sequence: 18173.0
+End position in database sequence: 18202.0
+>read17.20
+GAGGCTGACCTTAAGTCGCAGGCGCTGATT
+GAGGCTGACCTTAAGTCGCAGGCGCTGATT
+Score: 23
+Start position in database sequence: 8753.0
+End position in database sequence: 8782.0
+>read17.21
+GGAGGACACCCTGCATCAGGGCCCAACAAG
+GGAGGACACCCTGCATCAGGGCCCAACAAG
+Score: 23
+Start position in database sequence: 19907.0
+End position in database sequence: 19936.0
+>read17.22
+TCATCCAGTAGGCTTTCAGATTCACGCATT
+TCATCCAGTAGGCTTTCGGATTCACGCATT
+Score: 18
+Start position in database sequence: 14057.0
+End position in database sequence: 14086.0
+>read17.23
+TGATCGATATATAGGAATCGGCGTGTTCCA
+TGATCGATATATAGGAATCGGCGTGTTCCA
+Score: 23
+Start position in database sequence: 16694.0
+End position in database sequence: 16723.0
+>read17.24
+TGCTAAAACAGCAGCCCATAACGTGTGAAG
+TGCTAAAACAGCAGCCCATAACGTGTGAAG
+Score: 23
+Start position in database sequence: 14440.0
+End position in database sequence: 14469.0
+>read17.25
+ACAACGCCCTTATAAAGCGCCTTGCCAACC
+ACAACGCCCTTATAAAGCGCCTTGCCAACC
+Score: 23
+Start position in database sequence: 7964.0
+End position in database sequence: 7993.0
+>read17.26
+TAGTCTTCACTGCGTCGTGCCGAACTGAAA
+TAGTCTTCACTGCGTCGTGCCGAACTGAAA
+Score: 23
+Start position in database sequence: 3425.0
+End position in database sequence: 3454.0
+>read17.27
+AGTTACAGGCACGTTTGTCGTGGCACTTTA
+AGTTACAGGCACGTTTGTCGTGGCACTTTA
+Score: 23
+Start position in database sequence: 2430.0
+End position in database sequence: 2459.0
+>read17.28
+CATGACTTGTGTGAATCTCACTCTCCATAG
+CATGACTTGTGTGAATCTCACTCTCCATAG
+Score: 23
+Start position in database sequence: 3797.0
+End position in database sequence: 3826.0
+>read17.29
+TGAGATTCTTTCAGGGCCCTTAGCAACAGA
+TGAGATTCTTTCAGGGCCCTTAGCAACAGA
+Score: 23
+Start position in database sequence: 10913.0
+End position in database sequence: 10942.0
+>read17.30
+TCCCTAGATTAAATAGTTCGCCTGGCAAGA
+TCCCTAGATTAAATAGTTCGCCTGGCAAGA
+Score: 23
+Start position in database sequence: 1141.0
+End position in database sequence: 1170.0
+>read17.31
+AGTGGCTTTCAGACGAGCGTCGAATTCTTT
+AGTGGCTTTCAGACGAGCGTCGAATTCTTT
+Score: 23
+Start position in database sequence: 9309.0
+End position in database sequence: 9338.0
+>read17.32
+GACTTTGGGAACCATGGACCAAGTGTTATG
+GACTTTGGGAACCATGGACCAAGTGTTATG
+Score: 23
+Start position in database sequence: 10291.0
+End position in database sequence: 10320.0
+>read17.33
+CGTCAAGCCATGCTGTTCGCCTAAACTAGA
+CGTCAAGCCATGCTGTTCGCCTAAACTAGA
+Score: 23
+Start position in database sequence: 13459.0
+End position in database sequence: 13488.0
+>read17.34
+CTGAGCGCTAACGCCAAATGGCATAAAGGC
+CTGAGCGCTAACGCCAAAAGGCATAAAGGC
+Score: 18
+Start position in database sequence: 9096.0
+End position in database sequence: 9125.0
+>read17.35
+CTTCGCGAGGTTCAACTCATCCAACGGGAT
+CTTCGCGAGGTTCAACGCATCCAACGGGAT
+Score: 18
+Start position in database sequence: 3211.0
+End position in database sequence: 3240.0
+>read17.36
+CTCGCCGACGAATCGCAGGACTTCCCAGAA
+CTCGCCGACGAATCGCAGGACTTCCCAGAA
+Score: 23
+Start position in database sequence: 12139.0
+End position in database sequence: 12168.0
+>read17.37
+GCAAATAGGATGCAGCACGTAGGACACGAT
+GCAAATAGGATGCAGCACGTAGGACACGAT
+Score: 23
+Start position in database sequence: 15075.0
+End position in database sequence: 15104.0
+>read17.38
+CCAATAAATGAACGTAGTGTACTGCATAGT
+CCAATAAATGAACGTAGTGTACTGCATAGT
+Score: 23
+Start position in database sequence: 64.0
+End position in database sequence: 93.0
+>read17.39
+GCTGACAAAGCTCCAAGTGGCGAACCGCAA
+GCTGACAAAGCTCCAAGTGGCGAACCGCAT
+Score: 18
+Start position in database sequence: 11297.0
+End position in database sequence: 11326.0
+>read17.40
+ATTTTAGTCAATGGTGTTTAATCGCTAACG
+ATTTTAGTCAATGGTGTTTAATCGCTAACG
+Score: 23
+Start position in database sequence: 10.0
+End position in database sequence: 39.0
+>read17.41
+GACTGACAGGTATTCCGTTCCTGCAACACG
+GACTGACAGGTATTCCGTTCCTGCAACACG
+Score: 23
+Start position in database sequence: 14583.0
+End position in database sequence: 14612.0
+>read17.42
+GCCTAAGGCAAGGTGCCTCCTTATAATGTA
+GCCTAAGGCAAGGTGCCTCCTTATAATGTA
+Score: 23
+Start position in database sequence: 15824.0
+End position in database sequence: 15853.0
+>read17.43
+GCAGCATCGCTACGAGCTGAATCGCCGGCA
+GCAGCATCGCTACGAGCTGAATCGCCGGCA
+Score: 23
+Start position in database sequence: 1509.0
+End position in database sequence: 1538.0
+>read17.44
+TTTACGCGAGTTAAGCTACCTGCACCTTGC
+TTTACGCGAGTTAAGCTACCTGCACCTTGC
+Score: 23
+Start position in database sequence: 10153.0
+End position in database sequence: 10182.0
+>read17.45
+CTTGCTCCATGGACAGGTGGGGGCTCCTAG
+CTTGCTCCATGGACAGGTGGGGGCTCCTAG
+Score: 23
+Start position in database sequence: 7155.0
+End position in database sequence: 7184.0
+>read17.46
+TAGAAAATCTTTAACTGTTTCTACTTTGCC
+TAGAAAATCTTTTACTGTTTCTACTTTGC-
+Score: 18
+Start position in database sequence: 16336.0
+End position in database sequence: 16365.0
+>read17.47
+GGCCCGCGCCTAGTTGACCTGCCTAGTTAC
+GGCCCGCGCCTAGTTGACCTGCCTAGTTAC
+Score: 23
+Start position in database sequence: 2887.0
+End position in database sequence: 2916.0
+>read17.48
+CCGGAGGGGCGTGCCAGTCTAGCGGGTGAG
+CCGGAGGGGCGTGCCAGTCGAGCGGGTGAG
+Score: 18
+Start position in database sequence: 10744.0
+End position in database sequence: 10773.0
+>read17.49
+GGGGTCAATTCCCCAAGGGTAGATATCAAT
+GGGGTCAATTCCCCAAGGGTAGATATCAAT
+Score: 23
+Start position in database sequence: 18649.0
+End position in database sequence: 18678.0
+>read17.50
+ATGTAACCAACTCCCCCGATGGGCGTAGTT
+ATGTAACCAACTCCCCCGATGGGCGTAGTA
+Score: 18
+Start position in database sequence: 17439.0
+End position in database sequence: 17468.0
+>read17.51
+CGAGAATGTTCTAGTAGGAGTTTGATCGTC
+CGAGAATGTTCTAGTAGGAGTTTGATCGTC
+Score: 23
+Start position in database sequence: 7671.0
+End position in database sequence: 7700.0
+>read17.52
+TTTGATAATGGGTCCTTCGTAATTCGGTCG
+TTTGATAATGGGTCCTTCGTAATTCGGTCG
+Score: 23
+Start position in database sequence: 158.0
+End position in database sequence: 187.0
+>read17.53
+GAACGCTTGCTCCATGGACAGGTGGGGGCT
+GAACGCTTGCTCCATGGACAGGTGGGGGCT
+Score: 23
+Start position in database sequence: 7150.0
+End position in database sequence: 7179.0
+>read17.54
+ATAGACAATAATGGGCTATACTGCGATGTC
+ATAGACAATAATGGGCTATACTGCGATGTC
+Score: 23
+Start position in database sequence: 12571.0
+End position in database sequence: 12600.0
+>read17.55
+GGCGACAACTTTGAAGTTAGTACACGAACA
+GGCGACAACTTTGAAGTTAGTACACGAACA
+Score: 23
+Start position in database sequence: 19703.0
+End position in database sequence: 19732.0
+>read17.56
+TATTCTTTGACTCGCCCGTCCCAGGCGTAG
+TATTCTTTGACTCGCCCGTCCCAGCCGTAG
+Score: 18
+Start position in database sequence: 9646.0
+End position in database sequence: 9675.0
+>read17.57
+ATCCCGCCGTCAGATACAACATCTACTGCA
+ATCCCGCCGTCAGATACAACATCTACTGCA
+Score: 23
+Start position in database sequence: 9703.0
+End position in database sequence: 9732.0
+>read17.58
+TTGTGAGGCTTGGGCCGCGTTCAAAAGTTG
+TTGTGAGGCTTGGGCCGCGTTCAAAAGTTG
+Score: 23
+Start position in database sequence: 12913.0
+End position in database sequence: 12942.0
+>read17.59
+CCGGTTTTGCTCCTTCAGCGAAGGGGAGAG
+CCGGTTTTGCTCCTTCAGCGAAGGGGAGAG
+Score: 23
+Start position in database sequence: 17570.0
+End position in database sequence: 17599.0
+>read17.60
+TTGGGCAGAGCGACCGCTCGACCGTCACGA
+TTGGGCAGAGCGACCGCTCGACCGTCACGA
+Score: 23
+Start position in database sequence: 2085.0
+End position in database sequence: 2114.0
+>read17.61
+TATTCAATCGCAATGCGGTACTGGGTATGA
+TATTCAATCGCAATGCGGTACTGGGTATGA
+Score: 23
+Start position in database sequence: 7109.0
+End position in database sequence: 7138.0
+>read17.62
+ACCAATCAATCAGCTAACAATGGTTCCTAA
+ACCAATCAATCAGCTAACAATGGTTCCTAA
+Score: 23
+Start position in database sequence: 3252.0
+End position in database sequence: 3281.0
+>read17.63
+CGGTGTATTAACTATGGTGGTCGGTGGGGT
+CGGTGTATTAACTATGGTGGTCGGTGGGGT
+Score: 23
+Start position in database sequence: 8365.0
+End position in database sequence: 8394.0
+>read17.64
+TCAAAGGAGATTCGCTTTAGCACATTGGAA
+TCAAAGGAGATTCGCTTTAGCACATTGGAA
+Score: 23
+Start position in database sequence: 13705.0
+End position in database sequence: 13734.0
+>read17.65
+TGGGGGACTACTGCGGGCGGATAAACCGTA
+TGGGGGACTACTGCGGGCGGATAAACCGTA
+Score: 23
+Start position in database sequence: 18260.0
+End position in database sequence: 18289.0
+>read17.66
+TCGAGTCTTATGTATCCATTGTACGCTGGC
+TCGAGTCTTATGTATCCATTGTACGCTGGC
+Score: 23
+Start position in database sequence: 11108.0
+End position in database sequence: 11137.0
+>read17.67
+AAGGGTAAAAGCTTTCAACCATGGCTACGT
+AAGGGTAAAAGCTTTCAACCATGGCTACGT
+Score: 23
+Start position in database sequence: 1211.0
+End position in database sequence: 1240.0
+>read17.68
+TCTCAGAGGACGTGGGGTAATCGCCGGCAC
+TCTCAGAGGACGTGGGGTAATCGCCGGCAC
+Score: 23
+Start position in database sequence: 4409.0
+End position in database sequence: 4438.0
+>read17.69
+AGAGGGCACAGGCCGCTCTGAAACGAGGTG
+AGAGGGCACAGGCCGCTCTGAAACGAGTGG
+Score: 13
+Start position in database sequence: 17470.0
+End position in database sequence: 17499.0
+>read17.70
+TATAAACAGTATTATCCGTGTACCAGGCGG
+TATAAACAGTATTATCCGTGTACCAGGCGG
+Score: 23
+Start position in database sequence: 8816.0
+End position in database sequence: 8845.0
+>read17.71
+AACCGACGTAGGCATAACTCACTATTACAT
+AACCGACGTAGGCATAACTCACTATTACAT
+Score: 23
+Start position in database sequence: 5611.0
+End position in database sequence: 5640.0
+>read17.72
+GGTCAACTCCCGGTTACTGCTTCGTCGTCC
+GGTCAACTCCCGGTTACTGCTTCGTCGTCC
+Score: 23
+Start position in database sequence: 3321.0
+End position in database sequence: 3350.0
+>read17.73
+TCCTAAAGGCGTGTGTCGGAGTTGTATGAT
+TCCTAAAGGCGTGTGTCCGAGTTGTATGAT
+Score: 18
+Start position in database sequence: 4209.0
+End position in database sequence: 4238.0
+>read17.74
+CTCGCCCCTGCACGGGTGGTGGGGGTCCGA
+CTCGCCCCTGCACGGGTGGTGGGGGTCCGA
+Score: 23
+Start position in database sequence: 4842.0
+End position in database sequence: 4871.0
+>read17.75
+ACGGCGTCTGTACAGTGCTGGCCCATGCAA
+ACGGCGTCTGTACAGTGCTGGCCCATGCAA
+Score: 23
+Start position in database sequence: 8945.0
+End position in database sequence: 8974.0
+>read17.76
+AAGAAGTAATACAACCCGATGCATTCCGTC
+AAGAAGTAATACAACCCGATGCATTCCGTC
+Score: 23
+Start position in database sequence: 9885.0
+End position in database sequence: 9914.0
+>read17.77
+AAATCGAATCAACTCCCATGGGTGCATTAT
+AAATCGAATCAACTCCCATGGGTGCTTTAT
+Score: 18
+Start position in database sequence: 974.0
+End position in database sequence: 1003.0
+>read17.78
+GGAAAGAATGAGGCGATGCAAACTGTCCGC
+GGAAAGAATGAGGCGATGCAAACTGTCCGC
+Score: 23
+Start position in database sequence: 4066.0
+End position in database sequence: 4095.0
+>read17.79
+ATCCGAAAATAAGTTTACCCCGTTAGAGTT
+ATCCGAAAATAAGTTTACCCCGTTAGAGTT
+Score: 23
+Start position in database sequence: 2404.0
+End position in database sequence: 2433.0
+>read17.80
+GAGACGGGGGCCATCAGTGTCCCAGATACC
+GAGACGGGGGCCATCAGTGTCCCAGATACC
+Score: 23
+Start position in database sequence: 18781.0
+End position in database sequence: 18810.0
+>read17.81
+GCCAAACTCCCCATACTCTCGCTTCGTCTC
+GCCAAACTCCCCATACTCTCGCTTCGTCTC
+Score: 23
+Start position in database sequence: 19380.0
+End position in database sequence: 19409.0
+>read17.82
+CGCTCGATTGGGGCTAGACGAATACGACCT
+CGCTCGATTGGGGCTAGACGAATACGACCT
+Score: 23
+Start position in database sequence: 16159.0
+End position in database sequence: 16188.0
+>read17.83
+GTACTAGCCCCGCGCGAGCATAAGGTTCGG
+GTACTAGCCCCGCGCGAGCATAAGGTTCGG
+Score: 23
+Start position in database sequence: 15500.0
+End position in database sequence: 15529.0
+>read17.84
+CACCCGTTACAGGAACAGCACTCCACCCCT
+CACCCGTTACAGGAACAGCACTCCACCCCT
+Score: 23
+Start position in database sequence: 13315.0
+End position in database sequence: 13344.0
+>read17.85
+GAGATATGCGAATTAAGTGCGGAGTTGGTC
+GAGATATGCGAATTAAGTGCGGAGTTGGTC
+Score: 23
+Start position in database sequence: 16825.0
+End position in database sequence: 16854.0
+>read17.86
+CGCTAGGTCATGACTACACCATAGACTGTG
+CGCTAGGTCATGACTACACCATAGACTGTG
+Score: 23
+Start position in database sequence: 12229.0
+End position in database sequence: 12258.0
+>read17.87
+CCTAGTACCAGCTTTCCGTCGGGCTAGAG
+CCTAGTACCAGGTTTCCGTCGGGCTAGAG
+Score: 23
+Start position in database sequence: 4508.0
+End position in database sequence: 4536.0
+>read17.88
+GATGAACGATCTTGAGCAATCGACAATATG
+GATGAACGATCTTGAGCAATCGACAATATG
+Score: 23
+Start position in database sequence: 1478.0
+End position in database sequence: 1507.0
+>read17.89
+TAGCCCTTTGGTATGGATGTCAGGAGTCAA
+TAGCCCTTTGGTATGGATGTCAGGAGTCAA
+Score: 23
+Start position in database sequence: 11145.0
+End position in database sequence: 11174.0
+>read17.90
+CTACCTTCGGACTAAGATTTCCATACCGCT
+CTACCTTCGGACTAAGATTTCCATACCGCT
+Score: 23
+Start position in database sequence: 7313.0
+End position in database sequence: 7342.0
+>read17.91
+TGTGTTGGATGCGTTAAATTGGTACCAGCG
+TGTGTTGGATGCGTTAAATTGGTACCAGCG
+Score: 23
+Start position in database sequence: 5786.0
+End position in database sequence: 5815.0
+>read17.92
+GTTTGTCGTGTTACCTTCCTCGTCTACTAG
+GTTTGTCGTGTTACCTTCCTCGTCTACTAG
+Score: 23
+Start position in database sequence: 6473.0
+End position in database sequence: 6502.0
+>read17.93
+AGATAGAAAATCTTTAACTGTTTCTACTTT
+AGATAGAAAATCTTTAACTGTTTCTACTTT
+Score: 23
+Start position in database sequence: 16333.0
+End position in database sequence: 16362.0
+>read17.94
+CCAGATTCAGGGGAGTTGCTATGTACATCT
+CCAGATTCAGGGGAGTTGCTATGTACATCT
+Score: 23
+Start position in database sequence: 3349.0
+End position in database sequence: 3378.0
+>read17.95
+Query not found!!Query not found!!Score: -1
+>read17.96
+TACAGCTACTCTGGTGCATGCATTGGTTTG
+TACAGCTACTCTGGTGCATGCATTGGTTTG
+Score: 23
+Start position in database sequence: 11476.0
+End position in database sequence: 11505.0
+>read17.97
+CTAATTTTCCTATACCTACAAGCAAGGTCA
+CTAATTTTCCTATACCTACAAGCAAGGTCA
+Score: 23
+Start position in database sequence: 3296.0
+End position in database sequence: 3325.0
+>read17.98
+CTACTCGGCTCACCTGACACTCCATGCGTG
+CTACTCGGCTCACCTGACACTCCATGCGTG
+Score: 23
+Start position in database sequence: 18717.0
+End position in database sequence: 18746.0
+>read17.99
+TAATGACTAGACGGAGTGCTCCCGTAAGGC
+TAATGACTAGACGGAGTGCTCCCGTTAGGC
+Score: 18
+Start position in database sequence: 18356.0
+End position in database sequence: 18385.0
+>read17.100
+CTTGCTATGGTGCGGGGCTGAGTGCGGGTA
+CTTGCTATGGTGCGGGGCTGAGTGCGGGTA
+Score: 23
+Start position in database sequence: 19455.0
+End position in database sequence: 19484.0
+>read17.101
+GTTTTGGAACCCACACAAACATAGTCCGCG
+GTTTTGGAACCCACACAAACATAGTCCGCG
+Score: 23
+Start position in database sequence: 15201.0
+End position in database sequence: 15230.0
+>read17.102
+GGATCCTGTAGAGACGACTACGGCTTCAAA
+GGATCCTGTAGAGACGACTACGGCTTCAAA
+Score: 23
+Start position in database sequence: 604.0
+End position in database sequence: 633.0
+>read17.103
+TTTGCCGACTAGAGTGTGGTCCCACTCTCC
+TTTGCCGACTAGAGTGTGGTCCCACTCTCC
+Score: 23
+Start position in database sequence: 14846.0
+End position in database sequence: 14875.0
+>read17.104
+TGCACCCACGACCAAAGGCTAAGTACTAT
+TCCACCCACGACCAAAGGCTAAGTACTAT
+Score: 23
+Start position in database sequence: 1728.0
+End position in database sequence: 1756.0
+>read17.105
+AAGGCCGCCTCCAATTTTACCAGGCAGCGT
+AAGGCCGCCTCCAATTTTACCAGGCAGCGT
+Score: 23
+Start position in database sequence: 13840.0
+End position in database sequence: 13869.0
+>read17.106
+TCAGGTGATGTTAACAGGGAGTCCCTGATA
+TCAGGTGATGTTAACAGGGAGTCCCTGATA
+Score: 23
+Start position in database sequence: 8852.0
+End position in database sequence: 8881.0
+>read17.107
+AAGCTGAGTTAAATGGCTACGCGGTGTATT
+AAGCTGAGTTAAATGGCTACGCGGTGTATT
+Score: 23
+Start position in database sequence: 8344.0
+End position in database sequence: 8373.0
+>read17.108
+TGTATTCAACCACCCAGGTCGACTCAGTCT
+TGTATTCAACCAACCAGGTCGACTCAGTC-
+Score: 18
+Start position in database sequence: 14302.0
+End position in database sequence: 14331.0
+>read17.109
+TTAGGTGGATACGCGAGACGGACTGATTCA
+TTAGGTGGATACGCGAGACGGACTGATTCA
+Score: 23
+Start position in database sequence: 19318.0
+End position in database sequence: 19347.0
+>read17.110
+TGGTACATGACTTGTGTGAATCTCACTCTC
+TGGTACATGACTTGTGTGAATCTCACTCTC
+Score: 23
+Start position in database sequence: 3792.0
+End position in database sequence: 3821.0
+>read17.111
+CATTGACGAGTGCCACTGAGTAACATTGCC
+CATTGACGAGTGCCACTGAGTAACATTGCC
+Score: 23
+Start position in database sequence: 11561.0
+End position in database sequence: 11590.0
+>read17.112
+ATGGGTGCATTATGTATTAAGCCCGTCTAA
+ATGGGTGCATTATGTATTAAGCCCGTCTAA
+Score: 23
+Start position in database sequence: 991.0
+End position in database sequence: 1020.0
+>read17.113
+ACCCTGCATCAGGGCCCAACAAGAAGAGCG
+ACCCTGCATCAGGGCCCAACAAGAAGAGCG
+Score: 23
+Start position in database sequence: 19914.0
+End position in database sequence: 19943.0
+>read17.114
+TATGATACCTACCTTCGGACTAAGATTTCC
+TATGATACCTACCTTCGGACTTAGATTTCC
+Score: 18
+Start position in database sequence: 7305.0
+End position in database sequence: 7334.0
+>read17.115
+AACCATGGACCAAGTGTTATGATATGGCCG
+AACCATGGACCAAGTGTTATGATATGGCCG
+Score: 23
+Start position in database sequence: 10300.0
+End position in database sequence: 10329.0
+>read17.116
+AAGCATGGAGTGCCAACCGGAAAGATACCG
+AAGCATGGAGTGCCAACCGGAAAGATACCG
+Score: 23
+Start position in database sequence: 5320.0
+End position in database sequence: 5349.0
+>read17.117
+ACGACGCCGACTTTGGGAACCATGGACCAA
+ACGACGCCGACTTTGGGAACCATGGACCAA
+Score: 23
+Start position in database sequence: 10283.0
+End position in database sequence: 10312.0
+>read17.118
+GTCGAAGCGGTCATCAAAGTATCTTACGCC
+GTCGAAGCGGTCATCAAAGTATCTTACGCC
+Score: 23
+Start position in database sequence: 12012.0
+End position in database sequence: 12041.0
+>read17.119
+CAATCACCACGTCCATGGGTTCACATCGT
+CAATCCCCACGTCCATGGGTTCACATCGT
+Score: 23
+Start position in database sequence: 10372.0
+End position in database sequence: 10400.0
+>read17.120
+CCGGTGCCACATGTCTTGTAGGTCTCTATA
+CCGGTGCCACATGTCTTGGAGGTCTCTATA
+Score: 18
+Start position in database sequence: 11932.0
+End position in database sequence: 11961.0
+>read17.121
+TCATCTTGTCACTAGTTCTATTACTAAGTC
+TCATCTTGTCACTAGTTCTATTACTAAGTC
+Score: 23
+Start position in database sequence: 2526.0
+End position in database sequence: 2555.0
+>read17.122
+TGTAAGACAAGTGGAGGCCGTCGGGAACCG
+TGTAAGACAAGTGGAGGCCGTCGGGAACCG
+Score: 23
+Start position in database sequence: 9744.0
+End position in database sequence: 9773.0
+>read17.123
+AGTCTTTGACGAAGCAAAGGCCTGGGGAAG
+AGTCTTTGACGAGGCAAAGGCCTGGGGAA-
+Score: 18
+Start position in database sequence: 18167.0
+End position in database sequence: 18196.0
+>read17.124
+CTCCGCTGACGCACATGGTCTTGCCACTCA
+CTCCGCTGACGCACATGGTCTTGCCACTCA
+Score: 23
+Start position in database sequence: 17151.0
+End position in database sequence: 17180.0
+>read17.125
+ACTTGTTTCTTTCCCATAAATGTACCTGTA
+ACTTGTTTCTTTCCCATAAATGTACCTGTA
+Score: 23
+Start position in database sequence: 16373.0
+End position in database sequence: 16402.0
+>read17.126
+GACCGTAGTCCATCTTGATACGTGTCAGAA
+GACCGTAGTCCATCTTGATACGTGTCAGAA
+Score: 23
+Start position in database sequence: 18858.0
+End position in database sequence: 18887.0
+>read17.127
+CTTTTCTTCACTAAACGAAGTTACCGTTTG
+CTTTTCTTCACTAAACGAAGTTACCGTTTG
+Score: 23
+Start position in database sequence: 3857.0
+End position in database sequence: 3886.0
+>read17.128
+GCCGCTTACCGGCTTGATTCGTAAGCCCGG
+GCCGCTTACCGGCTTGATTCGTAAGCCCGG
+Score: 23
+Start position in database sequence: 17860.0
+End position in database sequence: 17889.0
+>read17.129
+CTACCTTCGGACTAAGATTTCCATACCGCT
+CTACCTTCGGACTAAGATTTCCATACCGCT
+Score: 23
+Start position in database sequence: 7313.0
+End position in database sequence: 7342.0
+>read17.130
+ATGCTAGGGCTCCAATACACCTATTTCTGG
+ATGCTAGGGCTCCAATACACCTATTTCTGG
+Score: 23
+Start position in database sequence: 18452.0
+End position in database sequence: 18481.0
+>read17.131
+CAGGCTTACTGCCTAAGGTTGAGTGAGGGA
+CAGGCTTACTGCCTAAGGTTGAGTGAGGGA
+Score: 23
+Start position in database sequence: 9960.0
+End position in database sequence: 9989.0
+>read17.132
+AGGCGTGCTAGTGAAGGCCGCCTCCAATTT
+AGGCGTGCTAGTGAAGGCCGCCTCCAATTT
+Score: 23
+Start position in database sequence: 13827.0
+End position in database sequence: 13856.0
+>read17.133
+TGCGAAGCTGAGTTAAATGGCTACGCGGT
+TGCGTAGCTGAGTTAAATGGCTACGCGGT
+Score: 23
+Start position in database sequence: 8340.0
+End position in database sequence: 8368.0
+>read17.134
+GCAGATGATAGCCACAACGCCCTTATAAAG
+GCAGATGATAGCCACAACGCCCTTATAAAG
+Score: 23
+Start position in database sequence: 7951.0
+End position in database sequence: 7980.0
+>read17.135
+GTGAACACCAGGATCCAGTTCTGCCAGAGC
+GTGAACACCAGGATCCAGTTCTGCCAGAGC
+Score: 23
+Start position in database sequence: 8906.0
+End position in database sequence: 8935.0
+>read17.136
+TGCTCGTAGCCAGTAGAAGCTGCTACACCG
+TGCTCGTAGCCAGTAGAAGCTGCTACACCG
+Score: 23
+Start position in database sequence: 10441.0
+End position in database sequence: 10470.0
+>read17.137
+CGGGTGCGTGCGCAAAAGGCGCGGTCAGG
+CGGGTGCGAGCGCAAAAGGCGCGGTCAGG
+Score: 23
+Start position in database sequence: 11757.0
+End position in database sequence: 11785.0
+>read17.138
+ACCCGCTTCATTGGGCAGAGCGACCGCTCG
+ACCCGCTTCATTGGGCAGAGCGACCGCTTG
+Score: 18
+Start position in database sequence: 2075.0
+End position in database sequence: 2104.0
+>read17.139
+TGCGTTCGCTTCATATTGGTCAGCCAGCTG
+TGCGTTCGCTTCATATTGGTCAGCCAGCTG
+Score: 23
+Start position in database sequence: 3115.0
+End position in database sequence: 3144.0
+>read17.140
+TTATAAGGCCGTGTTGAATAACGTGACGGA
+TTATAAGGCCGTGTTGAATAACGTGACGGA
+Score: 23
+Start position in database sequence: 5679.0
+End position in database sequence: 5708.0
+>read17.141
+CTTTAATGTCAAGCTAAAGATCCGAGTGGG
+CTTTAATGTCAAGCTAAAGATCCGAGTGGG
+Score: 23
+Start position in database sequence: 1242.0
+End position in database sequence: 1271.0
+>read17.142
+GGGAGAGTAGTCTTCACTGCGTCGTGCCG
+GGTAGAGTAGTCTTCACTGCGTCGTGCCG
+Score: 23
+Start position in database sequence: 3418.0
+End position in database sequence: 3446.0
+>read17.143
+GCCACACCCTAAGCAGGACCCCCGTCTGGG
+GCCACACCCTAAGCAGGACCCCCGTCTGGG
+Score: 23
+Start position in database sequence: 3072.0
+End position in database sequence: 3101.0
+>read17.144
+AATAGCTGATCTCCGACTATGAACACTCGC
+AATAGCTGATCTCCGACTATGAACACTCGC
+Score: 23
+Start position in database sequence: 16118.0
+End position in database sequence: 16147.0
+>read17.145
+TCGGACGGCGGATTGTATAGGATCCTGTAG
+TCGGACGGCGGATTGTATAGGATCCTGTAG
+Score: 23
+Start position in database sequence: 585.0
+End position in database sequence: 614.0
+>read17.146
+TGTGCGCGACTCCTAACCAGCAACGAAAGG
+TGTGCGCGACTCCTAACCAGCAACGAAAGG
+Score: 23
+Start position in database sequence: 5361.0
+End position in database sequence: 5390.0
+>read17.147
+CTTATCTGAGTGAAACGGCCCCATTATTTT
+CTTATCTGAGTGAAACGGCCCCATTATTTT
+Score: 23
+Start position in database sequence: 3692.0
+End position in database sequence: 3721.0
+>read17.148
+TCGGCTCCTAGCGCAGGATGCTGGAGTGCA
+TCGGCTCCTAGCGCAGGATGCTGGAGTGCA
+Score: 23
+Start position in database sequence: 15781.0
+End position in database sequence: 15810.0
+>read17.149
+TCCCATAAGCAAAATGGTGCGAAACCGGCT
+TCCCATAAGCAAAATGGTGCGAAACCGGCT
+Score: 23
+Start position in database sequence: 9188.0
+End position in database sequence: 9217.0
+>read17.150
+GTTGCGGACCGGCCGGATCAGTGGCCGCAA
+GTTGCGGACCGGCCGGATCAGTGGCCGCAA
+Score: 23
+Start position in database sequence: 6515.0
+End position in database sequence: 6544.0
+>read17.151
+CCGGATCAGTGGCCGCAAAGCAACTGCGTT
+CCGGATCAGTGGCCGCAAAGCAACTGCGTT
+Score: 23
+Start position in database sequence: 6527.0
+End position in database sequence: 6556.0
+>read17.152
+TGAAATCACGCCCCTCCGTTGCAGGCCACG
+TGAAATCACGCCCCTCCGTTGCAGGCCACG
+Score: 23
+Start position in database sequence: 19188.0
+End position in database sequence: 19217.0
+>read17.153
+TCATTGTACACGAATTCGACGAATACGACC
+TCATTGTACACGAATTCGACGAATACGACC
+Score: 23
+Start position in database sequence: 6119.0
+End position in database sequence: 6148.0
+>read17.154
+TCGATTCGGAAAATTACCGTTAGGTGGATA
+TCGATTCGGAAAATTACCGTTAGGTGGATA
+Score: 23
+Start position in database sequence: 19299.0
+End position in database sequence: 19328.0
+>read17.155
+GCCGCCTGATCGATATATAGGAATCGGCGT
+GCCGCCTGATCGATATATAGGAATCGGCGT
+Score: 23
+Start position in database sequence: 16688.0
+End position in database sequence: 16717.0
+>read17.156
+GGTTTTGCTCCTTCAGCGAAGGGGAGAGA
+GGTTTAGCTCCTTCAGCGAAGGGGAGAGA
+Score: 23
+Start position in database sequence: 17572.0
+End position in database sequence: 17600.0
+>read17.157
+TTCAATAGCTCCATAACACTGACGCGTTAT
+TTCAATAGCTCCATAACACTGACGCGTTAT
+Score: 23
+Start position in database sequence: 4267.0
+End position in database sequence: 4296.0
+>read17.158
+TAATACCGCCTCATTGTACACGAATTCGAC
+TAATACCGCCTCATTGTACACGAATTCGAC
+Score: 23
+Start position in database sequence: 6109.0
+End position in database sequence: 6138.0
+>read17.159
+TCTACACCGTCGATTATTGACGGTCATAGC
+TCTACACCGTCGATTATTGACGGTCATAGC
+Score: 23
+Start position in database sequence: 683.0
+End position in database sequence: 712.0
+>read17.160
+TGTATTAACTATGGTGGTCGGTGGGGTGCC
+TGTATTAACTATGGTGGTCGGTGGGGTGCC
+Score: 23
+Start position in database sequence: 8368.0
+End position in database sequence: 8397.0
+>read17.161
+CCAGGCGTAGTCTTAACCTCAAAGGCTGCC
+CCAGGCGTAGTCTTAACCTCAAACGCTGCC
+Score: 18
+Start position in database sequence: 9666.0
+End position in database sequence: 9695.0
+>read17.162
+CCACTTGTTTCTTTCCCATAAATGTACCTG
+CCACTTGTTTCTTTCCCATAAATGTACCTG
+Score: 23
+Start position in database sequence: 16371.0
+End position in database sequence: 16400.0
+>read17.163
+TTCAATCGCAATGCGGTACTGGGTATGAT
+TTCAATCTCAATGCGGTACTGGGTATGAT
+Score: 23
+Start position in database sequence: 7111.0
+End position in database sequence: 7139.0
+>read17.164
+TGCGGAGTTATCGATAGCGGCTGAGGAGC
+TGCGGAGCTATCGATAGCGGCTGAGGAGC
+Score: 23
+Start position in database sequence: 6333.0
+End position in database sequence: 6361.0
+>read17.165
+GGGCTAAAAGTTACGGTCACACCGTACTAG
+GGGCTAAAAGTTACGGTCACACCGTACTAG
+Score: 23
+Start position in database sequence: 10246.0
+End position in database sequence: 10275.0
+>read17.166
+TCGGAACGCTTGCTCCATGGACAGGTGGGG
+TCGGAACGCTTGCTCCATGGACAGGTGGGG
+Score: 23
+Start position in database sequence: 7147.0
+End position in database sequence: 7176.0
+>read17.167
+TACCCTCGCTCGTTACCTACGGGAGTTCAA
+TACCCTCGCTCGTTACCTACGGGAGTTCAA
+Score: 23
+Start position in database sequence: 13565.0
+End position in database sequence: 13594.0
+>read17.168
+Query not found!!Query not found!!Score: -1
+>read17.169
+ATTCCGGAGACGGAACCTTGGCCCCCCCAC
+ATTCCGGAGACGGAACCTTGGCCCCCCCAC
+Score: 23
+Start position in database sequence: 6046.0
+End position in database sequence: 6075.0
+>read17.170
+CAAAAGGCGCGGTCAGGCGGGTATGCTGTG
+CAAAAGGCGCGGTCAGGCGGGTATGCTTTG
+Score: 18
+Start position in database sequence: 11769.0
+End position in database sequence: 11798.0
+>read17.171
+AATCTTTAACTGTTTCTACTTTGCCGCTTC
+AATCTTTAACTGTTTCTACTTTGCCGCTTC
+Score: 23
+Start position in database sequence: 16341.0
+End position in database sequence: 16370.0
+>read17.172
+CAGAACTTAAGAGATAGACAATAATGGGCT
+CAGAACTTAAGAGATAGACAATAATGGGCT
+Score: 23
+Start position in database sequence: 12558.0
+End position in database sequence: 12587.0
+>read17.173
+GCTGTGCTGGGGGAGGCCATTGCAGGGTTT
+GCTGTGCTGGGGGAGGTCATTGCAGGGTTT
+Score: 18
+Start position in database sequence: 9798.0
+End position in database sequence: 9827.0
+>read17.174
+TTGTTGGTTGGTGTGTTCCACAAGGATGAT
+TTGTTGGTTGGTGTGTTCCACAAGGATGAT
+Score: 23
+Start position in database sequence: 14662.0
+End position in database sequence: 14691.0
+>read17.175
+GGACCAGACATAACCAAGGGTCCTGAGTGC
+GGACCAGACATAACCAAGGGTCCTGGGTGC
+Score: 18
+Start position in database sequence: 15047.0
+End position in database sequence: 15076.0
+>read17.176
+CTCAATAAAACATCATCGGGATCTGCATAG
+CTCAATAAAACATCATCGGGATCTGCATAG
+Score: 23
+Start position in database sequence: 8421.0
+End position in database sequence: 8450.0
+>read17.177
+TATGTATTAAGCCCGTCTAATCTTATGGAT
+TATGTATTAAGCCCGTCTAATCTTATGGAT
+Score: 23
+Start position in database sequence: 1001.0
+End position in database sequence: 1030.0
+>read17.178
+AACTAACATAAGACCTTCTGGGTACTGGCA
+AACTAACATAAGACCTTCTGGGTACTGGCA
+Score: 23
+Start position in database sequence: 16750.0
+End position in database sequence: 16779.0
+>read17.179
+CTATTATAGGGCGTTAACGCGACTTGGAAG
+CTATTATAGGGCGTTAACGCGACTTGGAAG
+Score: 23
+Start position in database sequence: 1971.0
+End position in database sequence: 2000.0
+>read17.180
+TATACGCCGATTCGCTTGTAGGGACAACTC
+TATACGCCGATTCGCTTGTAGGGACAACTC
+Score: 23
+Start position in database sequence: 9506.0
+End position in database sequence: 9535.0
+>read17.181
+CCTGTACACGGCTGCGGTAGTGTGCACGG
+CCTGTAGACGGCTGCGGTAGTGTGCACGG
+Score: 23
+Start position in database sequence: 9921.0
+End position in database sequence: 9949.0
+>read17.182
+GGGCCATCAAGGCCCGACGCTGAGATAGAA
+GGGCCATCAAGGCCCGACGCTGAGATAGAA
+Score: 23
+Start position in database sequence: 16311.0
+End position in database sequence: 16340.0
+>read17.183
+CGCACTAACATTGCTAGGTAGGCAAAGTT
+CGCGCTAACATTGCTAGGTAGGCAAAGTT
+Score: 23
+Start position in database sequence: 15137.0
+End position in database sequence: 15165.0
+>read17.184
+GGGGCCGTTTTCTGACCTTCACCCCGCAGT
+GGGGCCGTTTTCTGACCTTCACCCCGCAGT
+Score: 23
+Start position in database sequence: 864.0
+End position in database sequence: 893.0
+>read17.185
+GCTGACCTTAAGTCGCAGGCGCTGATTTTG
+GCTGACCTTAAGTCGCAGGCGCTGATTTTG
+Score: 23
+Start position in database sequence: 8756.0
+End position in database sequence: 8785.0
+>read17.186
+ATTGTCCCATGCGTACACAGACTAAGTCGA
+ATTGTCCCATGCGTACACAGACTAAGTCGA
+Score: 23
+Start position in database sequence: 15633.0
+End position in database sequence: 15662.0
+>read17.187
+CTCAACGAATCCCAATCACCACGTCCATGG
+CTCAACGAATCCCAATCACCACGTCCATGG
+Score: 23
+Start position in database sequence: 10360.0
+End position in database sequence: 10389.0
+>read17.188
+GGAACCAAATAGTTTAGATGGGAGTACGCG
+GGAACCAAATAGTTTAGATGGGAGTACGCG
+Score: 23
+Start position in database sequence: 1808.0
+End position in database sequence: 1837.0
+>read17.189
+ACGTAGGCATAACTCACTATTACATTAAAC
+ACGTAGGCATAACTCACTATTACATTAAAC
+Score: 23
+Start position in database sequence: 5616.0
+End position in database sequence: 5645.0
+>read17.190
+CCACCTTGAGAGTATATAGAACCATAAAC
+CCACCTTGGGAGTATATAGAACCATAGAC
+Score: 18
+Start position in database sequence: 3589.0
+End position in database sequence: 3617.0
+>read17.191
+CTCGCTCGTTACCTACGGGAGTTCAACTA
+ATCGCTCGTTACCTACGGGAGTTCAACTA
+Score: 23
+Start position in database sequence: 13569.0
+End position in database sequence: 13597.0
+>read17.192
+TATGACATAAGATGGGCGCAGAGGTTAGTG
+TATGACATAAGATGGGCGCAGAGGTTAGTG
+Score: 23
+Start position in database sequence: 14104.0
+End position in database sequence: 14133.0
+>read17.193
+CATGAACGGGTTCGTATTTCAATAATTTTT
+CATGAACGGGTTCGTATTTCAATAATTTTT
+Score: 23
+Start position in database sequence: 10711.0
+End position in database sequence: 10740.0
+>read17.194
+CTATTCGTTTCGGAACCAACGTACCGGAGG
+CTATTCGTTTCGGAACCAACGTACCGGAGG
+Score: 23
+Start position in database sequence: 8709.0
+End position in database sequence: 8738.0
+>read17.195
+GGCTCGACAGCAGCCAGGCGGCATGCGCTC
+GGCTCGACAGCAGCCAGGCGGCATGCGCTC
+Score: 23
+Start position in database sequence: 19656.0
+End position in database sequence: 19685.0
+>read17.196
+CTCGTTCTTAGCGCATGTAGTCTCTTTGTG
+CTCGTTCTTAGCGCATGTAGTCTCTTTGTG
+Score: 23
+Start position in database sequence: 1669.0
+End position in database sequence: 1698.0
+>read17.197
+ACCACGGATGGGGTCTTTATGCGGCTACAT
+ACCACGGATGGGGTCTTTATGCGGCTACAT
+Score: 23
+Start position in database sequence: 18895.0
+End position in database sequence: 18924.0
+>read17.198
+AAGGAGGTAGTTACGGGCAGTCATAAGCTA
+AAGGAGGTAGTTACGGGCAGTCATAAGCTA
+Score: 23
+Start position in database sequence: 7418.0
+End position in database sequence: 7447.0
+>read17.199
+GAAGAGGGAAGAGCAATGAGCGCTGATAGA
+GAAGAGGGAAGAGCAATGAGCGCTGATAGA
+Score: 23
+Start position in database sequence: 14466.0
+End position in database sequence: 14495.0
+>read17.200
+CGTAGTCCATCTTGATACGTGTCAGAAACA
+CGTAGTCCATCTTGATACGTGTCAGAAACA
+Score: 23
+Start position in database sequence: 18861.0
+End position in database sequence: 18890.0
+>read17.201
+AGTTCCACTGACCTGATTGTCGGATTTCGT
+AGTTCCACTGACCTGATTGTCGGATTTCGT
+Score: 23
+Start position in database sequence: 2339.0
+End position in database sequence: 2368.0
+>read17.202
+GCGTAATTGTTTACCCTATCCCCCTCGCTA
+GCGTAATTGTTTACCCTATCCCCCTCGCTA
+Score: 23
+Start position in database sequence: 5108.0
+End position in database sequence: 5137.0
+>read17.203
+CGATGCAAACTGTCCGCCTTGTGAGGACCT
+CGATGCAAACTGTCCGCCTTGTGAGGACCT
+Score: 23
+Start position in database sequence: 4079.0
+End position in database sequence: 4108.0
+>read17.204
+GATCTTTCGTTCGGAACGCTTGCTCCATGG
+GATCTTTCGTTCGGAACGCTTGCTCCATGG
+Score: 23
+Start position in database sequence: 7137.0
+End position in database sequence: 7166.0
+>read17.205
+AACCGCAAGTCGGTTCATTAGATCAATACT
+AACCGCAAGTCGGTTCATTAGATCAATACT
+Score: 23
+Start position in database sequence: 11319.0
+End position in database sequence: 11348.0
+>read17.206
+ATGAACACTCGCGAGCTTTCGCACGCTCGA
+ATGAACACTCGCGAGCTTTCGCACGCTCGA
+Score: 23
+Start position in database sequence: 16136.0
+End position in database sequence: 16165.0
+>read17.207
+AATATCCTACGCGCGGAGCACCACATACGAT
+AATATCCTACGCGAGGAGCACCACATACGA-
+Score: 20
+Start position in database sequence: 4178.0
+End position in database sequence: 4208.0
+>read17.208
+CAACAAGGTTAACCTAACGCACGCACTGGC
+CAACAAGGTTAACCTAACGCACGCACTGGC
+Score: 23
+Start position in database sequence: 19544.0
+End position in database sequence: 19573.0
+>read17.209
+CCAGGCCGGTAGCAGGTTGTATTGGAACCA
+CCAGGCCGGTAGCAGGTTGTATTGGAACCA
+Score: 23
+Start position in database sequence: 1785.0
+End position in database sequence: 1814.0
+>read17.210
+AGAAGCAATCCGGTCGCGATTCATTGCCGG
+AGAAGCAATCCGGTCGCGATTCATTGCCGG
+Score: 23
+Start position in database sequence: 4342.0
+End position in database sequence: 4371.0
+>read17.211
+AATAGGGGCAAGAACCTCCATAAGAACTAC
+AATAGGGGCAAGAACCTCCATAAGAACTAC
+Score: 23
+Start position in database sequence: 11982.0
+End position in database sequence: 12011.0
+>read17.212
+CAGGCAACTCAGAGATAACCCTACCCACCA
+CAGGCAACTCAGAGATAACCCTACCCACCA
+Score: 23
+Start position in database sequence: 4005.0
+End position in database sequence: 4034.0
+>read17.213
+ACGGTAGTGTATTACGTGGAATGGGCTAG
+ACGGTAGTGTGTTACGTGGAATGGGCTAG
+Score: 23
+Start position in database sequence: 18212.0
+End position in database sequence: 18240.0
+>read17.214
+TGCGACAGCTGTAACAGGTGTGAACACCAG
+TGCGACAGCTGTAACAGGTGTGAACACCAG
+Score: 23
+Start position in database sequence: 8887.0
+End position in database sequence: 8916.0
+>read17.215
+TTAGTCAATGGTGTTTAATCGCTAACGGTC
+TTAGTCAATGGTGTTTAATCGCTAACGGTC
+Score: 23
+Start position in database sequence: 13.0
+End position in database sequence: 42.0
+>read17.216
+AGCTTTCCGTCGGGCTAGAGGATGTAAAGA
+AGCTTTCCGTCGGGCTAGAGGATGTAAAGA
+Score: 23
+Start position in database sequence: 4517.0
+End position in database sequence: 4546.0
+>read17.217
+CGCCCCTGCACGGGTGGTGGGGGTCCGATG
+CGCCCCTGCACGGGTGGTGGGGGTCCGATG
+Score: 23
+Start position in database sequence: 4844.0
+End position in database sequence: 4873.0
+>read17.218
+GACTAAGTACGACAAGCATGGAGTGCCAAC
+GACTAAGTACGACAAGCATGGAGTGCCAAC
+Score: 23
+Start position in database sequence: 5307.0
+End position in database sequence: 5336.0
+>read17.219
+ACCCTAGAAAGTTACAACGCCTTTCAAATA
+ACCCTAGAAAGTTACAACGCCTTTCAAATA
+Score: 23
+Start position in database sequence: 6719.0
+End position in database sequence: 6748.0
+>read17.220
+GAACAACTTCTTTGGCTCCTTGTTACTATG
+GAACAACTTCTTTGGCTCCTTGTTACTATG
+Score: 23
+Start position in database sequence: 7380.0
+End position in database sequence: 7409.0
+>read17.221
+TTCAACAAACAGATTACGGCTCTGGTCCGG
+TTCAACAAACAGATTACGGCTCTGGTCCGG
+Score: 23
+Start position in database sequence: 755.0
+End position in database sequence: 784.0
+>read17.222
+TGGCGGTTTTCCGAATTGCCTCACCGTTCG
+TGGCGGTTTTCCGAATTGCCTCACCGTTCG
+Score: 23
+Start position in database sequence: 818.0
+End position in database sequence: 847.0
+>read17.223
+ACAGAACATGTCGCTGAGAGTCTGTTCCCT
+ACAGAACATGTCGCTGAGAGTCTGTTCCCT
+Score: 23
+Start position in database sequence: 16059.0
+End position in database sequence: 16088.0
+>read17.224
+CGACAGCTGTAACAGGTGTGAACACCAGG
+CGACAGCTCTAACAGGTGTGAACACCAGG
+Score: 23
+Start position in database sequence: 8889.0
+End position in database sequence: 8917.0
+>read17.225
+ATAACTCACTATTACATTAAACGCACAAAC
+ATAACTCACTATTACATTAAACGCACAAAC
+Score: 23
+Start position in database sequence: 5624.0
+End position in database sequence: 5653.0
+>read17.226
+CATACGAGTAGGATGAGCCCAATTGGCCGC
+CATACGAGTAGGATGAGCCCAATTGGCCGC
+Score: 23
+Start position in database sequence: 524.0
+End position in database sequence: 553.0
+>read17.227
+TCGAGATGAGTATTCACCTAATGGTGCGAG
+TCGAGATGAGTATTCACCTAATGGTGCGAG
+Score: 23
+Start position in database sequence: 7710.0
+End position in database sequence: 7739.0
+>read17.228
+CTGCGGATTATTGAAGTAATAGCCGAACAA
+CTGCGGATTATTGAAGTAATAGCCGAACAA
+Score: 23
+Start position in database sequence: 15736.0
+End position in database sequence: 15765.0
+>read17.229
+GGCCCGCGCTGGGAAAGAATACTGCGGTG
+GGCCCGCACTGGGAAAGAATACTGCGGTG
+Score: 23
+Start position in database sequence: 14927.0
+End position in database sequence: 14955.0
+>read17.230
+CACGTCCATGGGTTCACATCGTATCTCCAT
+CACGTCCATGGGTTCACATCGTATCTCCAT
+Score: 23
+Start position in database sequence: 10379.0
+End position in database sequence: 10408.0
+>read17.231
+TAGCAATGGTGCAAGAGAATGCCAGTTCT
+TAGCAAAGGTGCAAGAGAATGCCAGTTCT
+Score: 23
+Start position in database sequence: 239.0
+End position in database sequence: 267.0
+>read17.232
+ATTCACAGTATCGGGGATCGGCGCAAAATA
+ATTCACAGTATCGGGGATCGGCGCAAAATA
+Score: 23
+Start position in database sequence: 18516.0
+End position in database sequence: 18545.0
+>read17.233
+ACTGGCAAGACCTCGAATTGACGTCTCCGG
+ACTGGCAAGACCTCGAATTGACGTCTCCGG
+Score: 23
+Start position in database sequence: 19568.0
+End position in database sequence: 19597.0
+>read17.234
+CCCCCTTGACCTGGGTACATCCCACGTTCA
+CCCCCTTGACCTGGGTACATCCCACGTTCA
+Score: 23
+Start position in database sequence: 14267.0
+End position in database sequence: 14296.0
+>read17.235
+ACACAGCGCTCAGGACGCGCGTACCAACAG
+ACACAGCGCTCAGGACGCGCGTACCAACAG
+Score: 23
+Start position in database sequence: 5500.0
+End position in database sequence: 5529.0
+>read17.236
+TAATGAGCCTCGTGCGATGGTTTGAATACG
+TAATGAGCCTCGTGCGATGGTTTGAATACG
+Score: 23
+Start position in database sequence: 18321.0
+End position in database sequence: 18350.0
+>read17.237
+GCTCCCAGGACGTACTCGGGAAATTTGCTC
+GCTCCCAGGACGTACTCGGGAAATTTGCTC
+Score: 23
+Start position in database sequence: 10804.0
+End position in database sequence: 10833.0
+>read17.238
+TATTGAAATACTCTACCGCCTGAACCATTC
+TATTGAAATACTCTACCGCCTGAACCATTC
+Score: 23
+Start position in database sequence: 6020.0
+End position in database sequence: 6049.0
+>read17.239
+GGCAGCCGTTCTAATTCATTCTCTTCTTCT
+GGCAGCCGTTCTAATTCATTCTCTTCTTCT
+Score: 23
+Start position in database sequence: 3664.0
+End position in database sequence: 3693.0
+>read17.240
+CCCGGGGGGCGTCACTATGGAGCGCGCAGG
+CCCGGGGGGCGTCACTATGGAGCGCGCAGG
+Score: 23
+Start position in database sequence: 19624.0
+End position in database sequence: 19653.0
+>read17.241
+CAAGGCCCGACGCTGAGATAGAAAATCTTT
+CAAGGCCCGACGCTGAGATAGAAAATCTTT
+Score: 23
+Start position in database sequence: 16318.0
+End position in database sequence: 16347.0
+>read17.242
+TCCCGTCAAAAGGTCGTCAAATACCACTGC
+TCCCGTCAAAAGGTCGTCAAATACCACTGC
+Score: 23
+Start position in database sequence: 7492.0
+End position in database sequence: 7521.0
+>read17.243
+TTGGCGGCAGGGCCCGCGCTGGGAAAGAAT
+TTGGCGGCAGGGCCCGCGCTGGGAAAGAAT
+Score: 23
+Start position in database sequence: 14917.0
+End position in database sequence: 14946.0
+>read17.244
+CCGAATCCCCGTTTACGCGAGTTAAGCTAC
+CCGAATCCCCGTTTACGCGAGTTAAGCTAC
+Score: 23
+Start position in database sequence: 10142.0
+End position in database sequence: 10171.0
+>read17.245
+TTGGTTAACCATGTCACCAGATTAATGTGG
+TTGGTTAACCATGTCACCAGATTAATGTGG
+Score: 23
+Start position in database sequence: 18583.0
+End position in database sequence: 18612.0
+>read17.246
+CACGTTTGTCGTGGCACTTTAGACTTTACA
+CACGTTTGTCGTGGCACTGTAGACTTTACA
+Score: 18
+Start position in database sequence: 2439.0
+End position in database sequence: 2468.0
+>read17.247
+GATTCGGAAAATTACCGTTAGGTGGATACG
+GATTCGGAAAATTACCGTTAGGTGGATACG
+Score: 23
+Start position in database sequence: 19301.0
+End position in database sequence: 19330.0
+>read17.248
+CATTATGCTTCCCACCCCTGTAAATCGACA
+CATTATGCTTCCCACCCCTGTAAATCGACA
+Score: 23
+Start position in database sequence: 10033.0
+End position in database sequence: 10062.0
+>read17.249
+CCTTACATCTAGGGGCAATTCACGTGGATT
+CCTTACATCTAGGGGCAATTCACGTGGATT
+Score: 23
+Start position in database sequence: 11362.0
+End position in database sequence: 11391.0
+>read17.250
+AGAATGTACAAAGACCTGACCCCGATATAG
+AGAATGTACAAAGACCTGACCCCGATATAG
+Score: 23
+Start position in database sequence: 10062.0
+End position in database sequence: 10091.0
+>read17.251
+TAACATGTTTGTATTTGTATGGTCTTTGTA
+TAACATGTTTGTATTTGTATGGTCTTTGTA
+Score: 23
+Start position in database sequence: 2252.0
+End position in database sequence: 2281.0
+>read17.252
+GGCCCGCGCCTAGTTGACCTGCCTAGTTAC
+GGCCCGCGCCTAGTTGACCTGCCTAGTTAC
+Score: 23
+Start position in database sequence: 2887.0
+End position in database sequence: 2916.0
+>read17.253
+CAGTCACCACCAGGATTGCGCCCCATGGGA
+CAGTCACCACCAGGATTGCGCCCCATGGGA
+Score: 23
+Start position in database sequence: 8464.0
+End position in database sequence: 8493.0
+>read17.254
+TGCCGCACTCCGCTGACGCACATGGTCTTG
+TGCCGCACTCCGCTGACGCACATGGTCTTG
+Score: 23
+Start position in database sequence: 17144.0
+End position in database sequence: 17173.0
+>read17.255
+CTTTGGGATGGGTGATGGTGACTTTATATT
+CTTTGGGATGGGTGATGGTGACTTTATATT
+Score: 23
+Start position in database sequence: 6945.0
+End position in database sequence: 6974.0
+>read17.256
+GCTCACTTCTTAATAGAAACTGGAGTGCGC
+GCTCACTTCTTAATAGAAACTGGAGTGCGC
+Score: 23
+Start position in database sequence: 14340.0
+End position in database sequence: 14369.0
+>read17.257
+GAGTCAATGTCGGCAGGCAACTCAGAGATA
+GAGTCAATGTCGGCAGACAACTCAGAGATA
+Score: 18
+Start position in database sequence: 3992.0
+End position in database sequence: 4021.0
+>read17.258
+TCGCGTAGCCAAAAAGACGCCGCGTTTACC
+TCGCGTAGCCAAAAAGACGCCGCGTTAACC
+Score: 18
+Start position in database sequence: 6862.0
+End position in database sequence: 6891.0
+>read17.259
+AACATATCGGATCGAATAAAGAAGAAGTAA
+AACATATCGGATCGAATAAAGAAGAAGTAA
+Score: 23
+Start position in database sequence: 9864.0
+End position in database sequence: 9893.0
+>read17.260
+CTACAACCGTCAATTGCCCATCGAACGAAG
+CTACAACCGTCAATTGCCCATCGAACGAAG
+Score: 23
+Start position in database sequence: 1327.0
+End position in database sequence: 1356.0
+>read17.261
+GCAGGACGCCGCTTACCGGCTTGATTCGTA
+GCAGGACGCCGCTTACCGGCTTGATTCGTA
+Score: 23
+Start position in database sequence: 17853.0
+End position in database sequence: 17882.0
+>read17.262
+AAGAATAATAGAAATGAGATCAGCGCAACT
+AAGAATAATAGAAATGAGATCAGCGCAACT
+Score: 23
+Start position in database sequence: 19097.0
+End position in database sequence: 19126.0
+>read17.263
+GTAACGGGACCTGGTGTACCCCTCCCAATA
+GTAACGGGACCTGGTGTACCCCTCCCAAGA
+Score: 18
+Start position in database sequence: 16457.0
+End position in database sequence: 16486.0
+>read17.264
+TGGGGTAATCGCCGGCACTGTTAGCCCTTA
+TGGGGTAATCGCCGGCACTGTTAGCCCTTA
+Score: 23
+Start position in database sequence: 4421.0
+End position in database sequence: 4450.0
+>read17.265
+CCTCTTGCCGCTGAGGTGCAATGTACTTT
+CCACTTGCCGCTGAGGTGCAATGTACTTT
+Score: 23
+Start position in database sequence: 3832.0
+End position in database sequence: 3860.0
+>read17.266
+AATAGCCCTTTGGTATGGATGTCAGGAGTC
+AATAGCCCTTTGGTATGGATGTCAGGAGTC
+Score: 23
+Start position in database sequence: 11143.0
+End position in database sequence: 11172.0
+>read17.267
+TGTGAGGACCTAAGCCCTTATTTAACTCAG
+TGTGAGGACCTAAGCCCTTATTTAACTCAG
+Score: 23
+Start position in database sequence: 4098.0
+End position in database sequence: 4127.0
+>read17.268
+AGAGGTTCTTTCCAACAGTTTAGAAGTCCC
+AGAGGTTCTTTCCAACAGTTTAGAAGTCCC
+Score: 23
+Start position in database sequence: 7225.0
+End position in database sequence: 7254.0
+>read17.269
+ATTAATAGCACCCTCAACGAATCCCAATCA
+ATTAATAGCACCCTCAACGAATCCCAATCG
+Score: 18
+Start position in database sequence: 10348.0
+End position in database sequence: 10377.0
+>read17.270
+TGATGTTAAGAAGGTGATCTAGGGTGCCCA
+TGATGTTAAGAAGGTGATCTAGGGTGCCCA
+Score: 23
+Start position in database sequence: 4626.0
+End position in database sequence: 4655.0
+>read17.271
+ACTTGCTACCAGAAAAGTACTGCAACCCAA
+ACTTGCTACCAGAAAAGTACTTCAACCCAA
+Score: 18
+Start position in database sequence: 3456.0
+End position in database sequence: 3485.0
+>read17.272
+TGCATGGAAACATATCGGATCGAATAAAGA
+TGCATGGAAACATATCGGATCGAACAAAGA
+Score: 18
+Start position in database sequence: 9856.0
+End position in database sequence: 9885.0
+>read17.273
+CAGCAATACGGGAGATCAAGTATCATGCCG
+CAGCAATACGGGAGATCAAGTATCATGCCG
+Score: 23
+Start position in database sequence: 12836.0
+End position in database sequence: 12865.0
+>read17.274
+ATGTCACCAGATTAATGTGGAAGATACCAT
+ATGTCACCAGATTAATGTGGAAGATACCAT
+Score: 23
+Start position in database sequence: 18593.0
+End position in database sequence: 18622.0
+>read17.275
+CTTCCAGGAGTTGCGCTTAGAAAGGGATCT
+CTTCCAGGAGTTGCGCTTAGAAAGGGATCT
+Score: 23
+Start position in database sequence: 19046.0
+End position in database sequence: 19075.0
+>read17.276
+TGAACTTTGCGGCGTTATAAGCGTATATCA
+TGAACTTTGCGGCGTTATAAGCGTATATCG
+Score: 18
+Start position in database sequence: 15974.0
+End position in database sequence: 16003.0
+>read17.277
+CTGAAATGATATGACCGCGCGTCTAGAGA
+CTCGAATGATATGACCGCGCGTCTAGAGA
+Score: 18
+Start position in database sequence: 17353.0
+End position in database sequence: 17381.0
+>read17.278
+TAGCCGAAGGCGTGGATCGTGGCCATCCGA
+TAGCCGAAGGCGTGGATCGTGGCCATCCGA
+Score: 23
+Start position in database sequence: 2380.0
+End position in database sequence: 2409.0
+>read17.279
+ATGTGCTATACGGGCATACGAGTAGGATGA
+ATGTGCTATACGGGCATACGAGTAGGATGA
+Score: 23
+Start position in database sequence: 510.0
+End position in database sequence: 539.0
+>read17.280
+CCAGGCAGTGTGTTGGATGCGTTAAATTGG
+CCAGGCAGTGTGTTGGATGCGTTAAATTGG
+Score: 23
+Start position in database sequence: 5778.0
+End position in database sequence: 5807.0
+>read17.281
+AAGCCATGAACGCATCAAAACGCTAAAGAT
+AAGCCATGAACGCATCAAAACGCTAAAGAT
+Score: 23
+Start position in database sequence: 6570.0
+End position in database sequence: 6599.0
+>read17.282
+AGGGTCCTGAGTGCAAATAGGATGCAGCAC
+AGGGTCCTGAGTGCAAATAGGATGCAGCAC
+Score: 23
+Start position in database sequence: 15063.0
+End position in database sequence: 15092.0
+>read17.283
+AGATTGCGCCCTATTCCCATTACAAATGCA
+AGATTGCGCCCTATTCCCATTACAAATGCA
+Score: 23
+Start position in database sequence: 18033.0
+End position in database sequence: 18062.0
+>read17.284
+AATCTGATGGGAGTAGCAGGTGGCCACTTT
+AATCTGATGGGAGTAGCAGGTGGCCACTTT
+Score: 23
+Start position in database sequence: 15575.0
+End position in database sequence: 15604.0
+>read17.285
+CTGTTAGCCCTTATCTTCATACAGGTCAAT
+CTGTTAGCCCTTATCTTCATACAGGTTAAT
+Score: 18
+Start position in database sequence: 4438.0
+End position in database sequence: 4467.0
+>read17.286
+TGAGCACGTCACTGTCAGAGACGGGGGCCA
+TGAGCACGTCACTGTCAGAGACGGGGGCCA
+Score: 23
+Start position in database sequence: 18764.0
+End position in database sequence: 18793.0
+>read17.287
+GCATGGCAGTGATGTACAATCCGCTGCTCG
+GCATGGCAGTGATGTACAATCCGCTGCTCG
+Score: 23
+Start position in database sequence: 10642.0
+End position in database sequence: 10671.0
+>read17.288
+GACGTAGGCCAAATTCGCGATTCGAATCCG
+GACGTAGGCCAAATTCGCGATTCGAATCCG
+Score: 23
+Start position in database sequence: 10115.0
+End position in database sequence: 10144.0
+>read17.289
+TACAAGCGGAGTAAAGGGCTCCCAGGACGT
+TACAAGCGGAGTAAAGGGCTCCCAGGACGT
+Score: 23
+Start position in database sequence: 10787.0
+End position in database sequence: 10816.0
+>read17.290
+CTTCGCGGCCCGTCGCGCGTACCTGATATC
+CTTCGCGGCCCGTCGCGCGTACCTGATATC
+Score: 23
+Start position in database sequence: 15270.0
+End position in database sequence: 15299.0
+>read17.291
+TTGACCTGGGTACATCCCACGTTCACTTGA
+TTGACCTGGGTACATCCCACGTTCACTTGA
+Score: 23
+Start position in database sequence: 14272.0
+End position in database sequence: 14301.0
+>read17.292
+CGAGCAAAATGCATTTTTGCCGACTAGAGT
+CGAGCAAAATGCATTTTTGCCGACTAGAGT
+Score: 23
+Start position in database sequence: 14831.0
+End position in database sequence: 14860.0
+>read17.293
+AATCACCACGTCCATGGGTTCACATCGTA
+AATCACCACGCCCATGGGTTCACATCGTA
+Score: 23
+Start position in database sequence: 10373.0
+End position in database sequence: 10401.0
+>read17.294
+GGCCTCATGATCACCATTCGGCGAGAATAA
+GGCCTCATGATCACCATTCGGCGAGAATAA
+Score: 23
+Start position in database sequence: 2290.0
+End position in database sequence: 2319.0
+>read17.295
+CAAGCGGTAACGAGCGCGGCACGAGAGTTT
+CAAGCGGTAACGAGCGCGGCACGAGAGTTT
+Score: 23
+Start position in database sequence: 457.0
+End position in database sequence: 486.0
+>read17.296
+CGCGCGCAATGATCCAATGGCTTCATGGGT
+CGCGCGCAATGATCCAATGGCTTCATGGGT
+Score: 23
+Start position in database sequence: 8277.0
+End position in database sequence: 8306.0
+>read17.297
+TCTGGCGATACATATGCATGATTAGGATA
+GCTGGCGATACATATGCATGATTAGGATA
+Score: 23
+Start position in database sequence: 2932.0
+End position in database sequence: 2960.0
+>read17.298
+CGTCATGTAGCCACATCACCGGGCTAAAAG
+CGTCATGTAGCCACATCACCGGGCTAAAAG
+Score: 23
+Start position in database sequence: 10226.0
+End position in database sequence: 10255.0
+>read17.299
+GAATCCGAATCCCCGTTTACGCGAGTTAAG
+GAATCCGAATCCCCGTTTACGCGAGTTAAG
+Score: 23
+Start position in database sequence: 10138.0
+End position in database sequence: 10167.0
+>read17.300
+TACTCGGTGCACCGTCGAATATGCGACACC
+TACTCGGTGCACCGTCGAATATGCGACACC
+Score: 23
+Start position in database sequence: 7860.0
+End position in database sequence: 7889.0
+>read17.301
+GCACCGGCTCCCCAGCAATACGGGAGATCA
+GCACCGGCTCCCCAGCAATACGGGAGATCA
+Score: 23
+Start position in database sequence: 12824.0
+End position in database sequence: 12853.0
+>read17.302
+CCCCGACGAGATTGGATATGAATGGACTCT
+CCCCGACGAGATTGGATATGAATGGACTCT
+Score: 23
+Start position in database sequence: 8247.0
+End position in database sequence: 8276.0
+>read17.303
+CCGAGGTACGGAAAGAATGAGGCGATGCAA
+CCGAGGTACGGAAAGAATGAGGCGATGCAA
+Score: 23
+Start position in database sequence: 4057.0
+End position in database sequence: 4086.0
+>read17.304
+ACCATAAACATCATCGATGGTATAGCTACC
+ACCATAAACATCATCGATGGTATAGCTACC
+Score: 23
+Start position in database sequence: 3609.0
+End position in database sequence: 3638.0
+>read17.305
+GATTCTGATCTTTCTTCGAGTTTTACGCGC
+GATTCTGATCTTTCTTCGAGTTTTACGCGC
+Score: 23
+Start position in database sequence: 14726.0
+End position in database sequence: 14755.0
+>read17.306
+ACGCGAGTTAAGCTACCTGCACCTTGCACA
+-CGCGAGTTAAGCTACCTGCACCTTGCACA
+Score: 23
+Start position in database sequence: 10156.0
+End position in database sequence: 10185.0
+>read17.307
+TTAGACCGGAGGGGCGTGCCAGTCTAGCGG
+TTAGACCGGAGGGGCGTGCCAGTCTAGCGG
+Score: 23
+Start position in database sequence: 10739.0
+End position in database sequence: 10768.0
+>read17.308
+TTGTGTTGATAGCACTGCATGACAGACTGA
+TTGTGTTGATAGCACTGCATGACAGACTGA
+Score: 23
+Start position in database sequence: 14559.0
+End position in database sequence: 14588.0
+>read17.309
+CAGGAGGCAACGTCTAATATACGGACCTTA
+CAGGAGGCAACGTCTAATAGACGGACCTTA
+Score: 18
+Start position in database sequence: 6908.0
+End position in database sequence: 6937.0
+>read17.310
+CATGACCAGCTGTCTGGCGATACATATGCA
+CATGACCAGCTGTCTGGCGATACATATGCA
+Score: 23
+Start position in database sequence: 2920.0
+End position in database sequence: 2949.0
+>read17.311
+TATGCTTTTAAGTGCCGATAATTTCAATAC
+TATGCTTTTAAGTGCCGATAATTTCAATAC
+Score: 23
+Start position in database sequence: 16487.0
+End position in database sequence: 16516.0
+>read17.312
+TAACTATCCCATAAGCAAAATGGTGCGAAA
+TAACTATCCCATAAGCAAAATGGTGCGAAA
+Score: 23
+Start position in database sequence: 9182.0
+End position in database sequence: 9211.0
+>read17.313
+CGGGCTAGAGGATGTAAAGATTAAAGCAGA
+CGGGCTAGAGGATGTAAAGATTAAAGCAGA
+Score: 23
+Start position in database sequence: 4527.0
+End position in database sequence: 4556.0
+>read17.314
+TGGAAAGTGTATTCCATAGGGTTTGGCGGC
+TGGAAAGTGTATTCCATAGGGTTTGGCGGC
+Score: 23
+Start position in database sequence: 14895.0
+End position in database sequence: 14924.0
+>read17.315
+AGTGAATCACCGCTCGTCGAAATGCGGAT
+AGTGAATCACCGCTCGTCGAAATGCGGAT
+Score: 23
+Start position in database sequence: 2966.0
+End position in database sequence: 2994.0
+>read17.316
+CACCTATTTCTGGATCTTATTTCGAGCCG
+CACCTAGTTCTGGATCTTATTTCGAGCCG
+Score: 23
+Start position in database sequence: 18469.0
+End position in database sequence: 18497.0
+>read17.317
+GTGGGGTGCCCCGAACCTTAACTGCAGATA
+GTGGGGTGCCCCGAACCTTAACTGCAGATA
+Score: 23
+Start position in database sequence: 8388.0
+End position in database sequence: 8417.0
+>read17.318
+AATGTACAAAGACCTGACCCCGATATAGT
+AACGTACAAAGACCTGACCCCGATATAGT
+Score: 23
+Start position in database sequence: 10064.0
+End position in database sequence: 10092.0
+>read17.319
+AATACTGGTGTATTGTTGTGGACAATCGTT
+AATACTGGTGTATTGTTGTGGACAATCGTT
+Score: 23
+Start position in database sequence: 13380.0
+End position in database sequence: 13409.0
+>read17.320
+ACGTGTACCGGTTTTAGGGGGTTCCCCTTT
+ACGTGTACCGGTTTTAGGGGGTTCCCCTTT
+Score: 23
+Start position in database sequence: 3891.0
+End position in database sequence: 3920.0
+>read17.321
+TTGAGGCTGACCTTAAGTCGCAGGCGCTGA
+TTGAGGCTGACCTTAAGTCGCAGGCGCTGA
+Score: 23
+Start position in database sequence: 8751.0
+End position in database sequence: 8780.0
+>read17.322
+AGTTACGGTCACACCGTACTAGGGTACACA
+AGTTACGGTCACACCGTACTAGGGTACACA
+Score: 23
+Start position in database sequence: 10254.0
+End position in database sequence: 10283.0
+>read17.323
+GTGCTAAAACAGCAGCCCATAACGTGTGA
+GTGCTAAAACATCAGCCCATAACGTGTGA
+Score: 23
+Start position in database sequence: 14439.0
+End position in database sequence: 14467.0
+>read17.324
+CCATGAACGCATCAAAACGCTAAAGATAGC
+CCATGAACGCATCAAAACGCTAAAGATCGC
+Score: 18
+Start position in database sequence: 6573.0
+End position in database sequence: 6602.0
+>read17.325
+TTAAACTAAAATAATCTACAGCCCCTACTT
+TTAAACTAAAATAATCTACAGCCCCTACTT
+Score: 23
+Start position in database sequence: 19856.0
+End position in database sequence: 19885.0
+>read17.326
+TAATTAGCAACAAAGACTAAGTACGACAAG
+TAATTAGCAACAAAGACTAAGTACGACAAG
+Score: 23
+Start position in database sequence: 5293.0
+End position in database sequence: 5322.0
+>read17.327
+GGCCCGTCGGATTATAAGGCCGTGTTGAAT
+GGCCCGTCGGATTATAAGGCCGTGATGAAT
+Score: 18
+Start position in database sequence: 5668.0
+End position in database sequence: 5697.0
+>read17.328
+GAATCCGGTAAGTGGTCTGGCAAGCAGCC
+GAATTCGGTAAGTGGTCTGGCAAGCAGCC
+Score: 23
+Start position in database sequence: 10470.0
+End position in database sequence: 10498.0
+>read17.329
+TTCCGCCCGCGCGAGCCCCAACAGAGAGGA
+TTCCGCCCGCGCGAGCCCCAACAGAGAGGA
+Score: 23
+Start position in database sequence: 1625.0
+End position in database sequence: 1654.0
+>read17.330
+GAGTCTTATGTATCCATTGTACGCTGGCCT
+GAGTCTTATGTATCCATGGTACGCTGGCCT
+Score: 18
+Start position in database sequence: 11110.0
+End position in database sequence: 11139.0
+>read17.331
+GGCGAGGTTTGAGCGCACTAACATTGCTAG
+GGCGAGGTTTGAGCGCACTAACATTGCTAG
+Score: 23
+Start position in database sequence: 15124.0
+End position in database sequence: 15153.0
+>read17.332
+TGGATGCGTTAAATTGGTACCAGCGGAACG
+TGGATGCGTTAAATTGGTACCAGCGGAACG
+Score: 23
+Start position in database sequence: 5791.0
+End position in database sequence: 5820.0
+>read17.333
+Query not found!!Query not found!!Score: -1
+>read17.334
+CTGGGTACATCCCACGTTCACTTGATGTAT
+CTGGGTACATCCCACGTTCACTTGATGTAT
+Score: 23
+Start position in database sequence: 14277.0
+End position in database sequence: 14306.0
+>read17.335
+GATCAACAGTCTGAGTGAGAGGGATACACA
+GATCAACAGTCTGAGTGAGAGGGATACACA
+Score: 23
+Start position in database sequence: 9419.0
+End position in database sequence: 9448.0
+>read17.336
+TAGTTAGACGTAGCAATGGTGCAAGAGAAT
+TAGTTAGACGTAGCAATGGTGCAAGAGAAT
+Score: 23
+Start position in database sequence: 229.0
+End position in database sequence: 258.0
+>read17.337
+GATGAAACTGAACCGAGCGAACCGCTGAAA
+GATGAAACTGAACCGAGCGAACCGCTGAAA
+Score: 23
+Start position in database sequence: 15388.0
+End position in database sequence: 15417.0
+>read17.338
+CTTCTTCTTATCTGAGTGAAACGGCCCCAT
+CTTCTTCTTATCTGAGTGAAACGGCCCCAT
+Score: 23
+Start position in database sequence: 3686.0
+End position in database sequence: 3715.0
+>read17.339
+ATTCATCTGCAGCATAAGTTCAGACTGCTC
+ATTCATCTGCAGCATAAGTTCAGACTGCTC
+Score: 23
+Start position in database sequence: 6243.0
+End position in database sequence: 6272.0
+>read17.340
+AGAAGAGCGCTAGTCCCTAAAGGGAGACCG
+AGAAGAGCGCTAGTCCCTAAAGGGGGACCG
+Score: 18
+Start position in database sequence: 19935.0
+End position in database sequence: 19964.0
+>read17.341
+AGGCCCGGTTTTGCTCCTTCAGCGAAGGGG
+AGGCCCGGTTTTGCTCCTTCAGCGAAGGGG
+Score: 23
+Start position in database sequence: 17566.0
+End position in database sequence: 17595.0
+>read17.342
+ATCAGTGGCCGCAAAGCAACTGCGTTACT
+ATCAGGGGCCGCAAAGCAACTGCGTTACT
+Score: 23
+Start position in database sequence: 6531.0
+End position in database sequence: 6559.0
+>read17.343
+AGGTATGTTCCCTAGCACGGATTTACGATT
+AGGTATGTTCCCTAGCACGGATTTACGATT
+Score: 23
+Start position in database sequence: 13791.0
+End position in database sequence: 13820.0
+>read17.344
+AACTAGGATTCCGCATGAAGATGAACCCCT
+AACTAGGATTCCGCATGAAGATGAACCCCT
+Score: 23
+Start position in database sequence: 19123.0
+End position in database sequence: 19152.0
+>read17.345
+CCCTTTCCGCTCGTCAGCGGGGTCGGATTG
+CCCTTTCCGCTCGTCAGCGGGGTCGGATTG
+Score: 23
+Start position in database sequence: 3915.0
+End position in database sequence: 3944.0
+>read17.346
+TTACATGAGTGGCAGGCCGCCGGCCCCTAA
+TTACATGAGTGGCAGGCCGCCGGCCCCTAA
+Score: 23
+Start position in database sequence: 17249.0
+End position in database sequence: 17278.0
+>read17.347
+CTGGGGTTTGAGTACCTTATGGGGGTACTG
+CTGGGGTTTGAGTACCTTATGGGGGTACTG
+Score: 23
+Start position in database sequence: 15312.0
+End position in database sequence: 15341.0
+>read17.348
+GACCTTCACCCCGCAGTGTGTGATATGTCG
+GACCTTCACCCCGCAGTGTGTGATATGTAG
+Score: 18
+Start position in database sequence: 877.0
+End position in database sequence: 906.0
+>read17.349
+AGTGCGGGTAGAAGATCAATGCGTTAGAAC
+AGTGCGGGTAGAAGATCAATGCGTTAGAAC
+Score: 23
+Start position in database sequence: 19475.0
+End position in database sequence: 19504.0
+>read17.350
+GTGATCCTATTCGATCTGTCTGACAAAGGA
+GTGATCCTATTCGATCTGTCTGACAAAGGA
+Score: 23
+Start position in database sequence: 2184.0
+End position in database sequence: 2213.0
+>read17.351
+GCTTGGCGCGTTGCTGCGTCGCAAATCTC
+GCTTGGCCCGTTGCTGCGTCGCAAATCTC
+Score: 23
+Start position in database sequence: 5052.0
+End position in database sequence: 5080.0
+>read17.352
+GCTGCTGAACGAAAGGAAGAGTCCGAGGCC
+GCTGCTGAACGAAAGGAAGGGTCCGAGGCC
+Score: 18
+Start position in database sequence: 4972.0
+End position in database sequence: 5001.0
+>read17.353
+ACGTTGAACAAACGATTCTGATCTTTCTTC
+ACGTTGAACAAACGATTCTGATCTTTCTTC
+Score: 23
+Start position in database sequence: 14713.0
+End position in database sequence: 14742.0
+>read17.354
+TGCTATACACGACGGCACCAGTCGTTGGCC
+TGCTATACACGACGGCACCAGTCGTTGGCC
+Score: 23
+Start position in database sequence: 4796.0
+End position in database sequence: 4825.0
+>read17.355
+TGCTACCAGAAAAGTACTGCAACCCAACAC
+TGCTACCAGAAAAGTACTGCAACCCAACAC
+Score: 23
+Start position in database sequence: 3459.0
+End position in database sequence: 3488.0
+>read17.356
+CCCCCTGGGATTAGTCTATTGGGGGCAGT
+CCCCATGGGATTAGTCTATTGGGGGCAGT
+Score: 23
+Start position in database sequence: 8091.0
+End position in database sequence: 8119.0
+>read17.357
+GGTGCAATGTACTTTTCTTCACTAAACGAA
+GGTGCAATGTACTTTTCTTCACTAAACGAA
+Score: 23
+Start position in database sequence: 3846.0
+End position in database sequence: 3875.0
+>read17.358
+AGTGCTGGCCCATGCAACTAGGGAAAGTCT
+AGTGCTGGCCCATGCAACTAGGGAAAGTCT
+Score: 23
+Start position in database sequence: 8958.0
+End position in database sequence: 8987.0
+>read17.359
+TTTAAGTGCCGATAATTTCAATACGCATTA
+TTTAAGTGCCGATAATTTCAATACGCATTA
+Score: 23
+Start position in database sequence: 16493.0
+End position in database sequence: 16522.0
+>read17.360
+AATCCGAGAGATTCAGTTGCTTCAGCCCGT
+AATCCGAGAGATTCAGTTGCTTCAGCCCGT
+Score: 23
+Start position in database sequence: 2022.0
+End position in database sequence: 2051.0
+>read17.361
+CTATGAACACTCGCGAGCTTTCGCACGCT
+CTATTAACACTCGCGAGCTTTCGCACGCT
+Score: 23
+Start position in database sequence: 16134.0
+End position in database sequence: 16162.0
+>read17.362
+CAAGGAAGCAAGACATTGGCATAAACTGCT
+CAAGGAAGCAAGACATTGGCATAAACTGCT
+Score: 23
+Start position in database sequence: 365.0
+End position in database sequence: 394.0
+>read17.363
+AGGTTTAGGGTGTAGACCGTCAGTGGCCA
+AGGTTTAGGGGGTAGACCGTCAGTGGCCA
+Score: 23
+Start position in database sequence: 10196.0
+End position in database sequence: 10224.0
+>read17.364
+ACCGAACGAGAATGTTCTAGTAGGAGTTTG
+ACCGAACGAGAATGTTCTAGTAGGAGGTTG
+Score: 18
+Start position in database sequence: 7665.0
+End position in database sequence: 7694.0
+>read17.365
+ATGCTGCAACATTCACGAGTCAATCTCGTC
+ATGCTGCAACATTCACGAGTCAATCTCGTC
+Score: 23
+Start position in database sequence: 198.0
+End position in database sequence: 227.0
+>read17.366
+GGGTCATACAAGCGGAGTAAAGGGCTCCCA
+GGGTCATACAAGCGGAGTAAAGGGCTCCCA
+Score: 23
+Start position in database sequence: 10781.0
+End position in database sequence: 10810.0
+>read17.367
+GAGCCGATGTTGGTACATGACTTGTGTGAA
+GAGCCGATGTTGGTACATGACTTGTGTGAA
+Score: 23
+Start position in database sequence: 3782.0
+End position in database sequence: 3811.0
+>read17.368
+GGGAGACGAGCTGGAAGAGTCCAAGGATCA
+GGGAGACGAGCTGGAAGAGTCCAAGGATCA
+Score: 23
+Start position in database sequence: 5842.0
+End position in database sequence: 5871.0
+>read17.369
+CACTAGTTCTATTACTAAGTCTGTTTCTTT
+CACTAGTTCTATTACTAAGTCTGTTTCTTT
+Score: 23
+Start position in database sequence: 2535.0
+End position in database sequence: 2564.0
+>read17.370
+CAAGATAGAGGCGTCAGTTTCTCACAACGG
+CAAGATAGAGGCGTCAGTTTCTCACAACGG
+Score: 23
+Start position in database sequence: 16916.0
+End position in database sequence: 16945.0
+>read17.371
+CACGATCATAATGACGGGAGCCTCACGTGC
+CACGATCATAATGACGGGAGCCTCACGTGC
+Score: 23
+Start position in database sequence: 5017.0
+End position in database sequence: 5046.0
+>read17.372
+TTTAAGCCTGTGATGAAACTGAACCGAGCG
+TTTAAGCCTGTGATGAAACTGAACCGAGCG
+Score: 23
+Start position in database sequence: 15377.0
+End position in database sequence: 15406.0
+>read17.373
+TTTTTAGCGTAATAATATGCACTCACACGT
+TTTTTAGCGTAATAATATGCACTCACACGT
+Score: 23
+Start position in database sequence: 7276.0
+End position in database sequence: 7305.0
+>read17.374
+GGGGTGCCCCGAACCTTAACTGCAGATATG
+GGGGTGCCCCGAACCTTAACTGCAGATATG
+Score: 23
+Start position in database sequence: 8390.0
+End position in database sequence: 8419.0
+>read17.375
+TCCAAAAGTGATCCTATTCGATCTGTCTGA
+TCCAAAAGTGATCCTATTCGATTTGTCTGA
+Score: 18
+Start position in database sequence: 2177.0
+End position in database sequence: 2206.0
+>read17.376
+TACTGACATCCCCGCGGACTCGCGTCGTGT
+TACTGACATCCCCGCGGACTCGCGTCGTGT
+Score: 23
+Start position in database sequence: 12654.0
+End position in database sequence: 12683.0
+>read17.377
+TGATTCGTAAGCCCGGCACCATTGAGCCCC
+TGATTCGTAAGCCCGGCACCATTGAGCCCC
+Score: 23
+Start position in database sequence: 17874.0
+End position in database sequence: 17903.0
+>read17.378
+CAAGTCCACTTTGTCTCCAGGCCGGTAGCA
+CAAGTCCACTTTGTCTCCAGGCCGGTAGCA
+Score: 23
+Start position in database sequence: 1769.0
+End position in database sequence: 1798.0
+>read17.379
+TTTGCGCAGTTTATCGCTGCTGAACGAAAG
+TTTGCGCAGTTTATCGCTGCTGAACGAAAG
+Score: 23
+Start position in database sequence: 4957.0
+End position in database sequence: 4986.0
+>read17.380
+CGCCGCTTACCGGCTTGATTCGTAAGCCCG
+CGCCGCTTACCGGCTTGATTCGTAAGCCCG
+Score: 23
+Start position in database sequence: 17859.0
+End position in database sequence: 17888.0
+>read17.381
+TTGCACAGGATTGCTCCAGGTTTAGGGTGT
+TTGCACAGGATTGCTCCAGGTTTAGGGTGT
+Score: 23
+Start position in database sequence: 10179.0
+End position in database sequence: 10208.0
+>read17.382
+GTCCCTGCTTAAACTAAAATAATCTACAGC
+GTCCCTGCTTAAACTAAAATAATCTACAGC
+Score: 23
+Start position in database sequence: 19848.0
+End position in database sequence: 19877.0
+>read17.383
+CTTCAGGGTGCACCATTCCCTGCCCACCTC
+CTTCAGGGTGCACCATTCCCTGCCCACCTC
+Score: 23
+Start position in database sequence: 2646.0
+End position in database sequence: 2675.0
+>read17.384
+TACCTTATGGGGGTACTGGCGACGGAGGCG
+TACCTTATGGGGGTACTGGCGACGGAGGCG
+Score: 23
+Start position in database sequence: 15324.0
+End position in database sequence: 15353.0
+>read17.385
+GGATTGGCCGTAGCAGGTGATGAACGATCT
+GGATTGGCCGTAGCAGGTGATGAACGATCT
+Score: 23
+Start position in database sequence: 1460.0
+End position in database sequence: 1489.0
+>read17.386
+CTAATCAACTATTGTCCCATGCGTACACAG
+CTAATCAACTATTGTCCCATGCGTACACAG
+Score: 23
+Start position in database sequence: 15623.0
+End position in database sequence: 15652.0
+>read17.387
+CCCTATTCCCATTACAAATGCAGTGTAAGA
+CCCTATTCCCATTACAAATGCAGTGTAAGA
+Score: 23
+Start position in database sequence: 18041.0
+End position in database sequence: 18070.0
+>read17.388
+ACGAAAGGGTCGGCCAATACCAGTTCTAAG
+ACGAAAGGGTCGGCCAATACCAGTTCTAAG
+Score: 23
+Start position in database sequence: 5383.0
+End position in database sequence: 5412.0
+>read17.389
+CCTTACATGCGCTTCGCAGAGTTCCGTAA
+CCTTACATGCGCTTCGCAGAGTTCCGTAA
+Score: 23
+Start position in database sequence: 13074.0
+End position in database sequence: 13102.0
+>read17.390
+GGACGCTAACAACACCCGTTACAGGAACAG
+GGACGCTAACAACACCCGTTACAGGAACAG
+Score: 23
+Start position in database sequence: 13303.0
+End position in database sequence: 13332.0
+>read17.391
+CGTAGAGAGTATCGTAACTATCCCATAAGC
+CGTAGAGAGTATCGTAACTATCCCATAAGC
+Score: 23
+Start position in database sequence: 9168.0
+End position in database sequence: 9197.0
+>read17.392
+CTCCAATTCGCCAACAGTTCGGGCGCCGGA
+CTCCAATTCGCCAACAGTTCGGGCGCCGGA
+Score: 23
+Start position in database sequence: 2115.0
+End position in database sequence: 2144.0
+>read17.393
+TACACGAACATAGTGTTCGGCCGCGTATGA
+TACACGAACATAGTGTTCGGCCGCGTATGA
+Score: 23
+Start position in database sequence: 19723.0
+End position in database sequence: 19752.0
+>read17.394
+ACAAACAGATTACGGCTCTGGTCCGGTTAC
+ACAAACAGATTACGGCTCTGGTCCGGTTTC
+Score: 18
+Start position in database sequence: 759.0
+End position in database sequence: 788.0
+>read17.395
+GGAATCTGCCGCCTCAGATGCCACTCGAT
+GGAATCTGGCGCCTCAGATGCCACTCGAT
+Score: 23
+Start position in database sequence: 2758.0
+End position in database sequence: 2786.0
+>read17.396
+AGCACCAGGCAGTGTGTTGGATGCGTTAAA
+AGCACCAGGCAGTGTGTTGGATGCGTTAAA
+Score: 23
+Start position in database sequence: 5774.0
+End position in database sequence: 5803.0
+>read17.397
+AAAGGCGCGGTCAGGCGGGTATGCTGTGAC
+AAAGGCGCGGTCAGGCGGGTATGCTGTGAC
+Score: 23
+Start position in database sequence: 11771.0
+End position in database sequence: 11800.0
+>read17.398
+TCAGACTGCTCTGGGTCTAGGGGCGTTCTC
+TCAGACTGCTCTGGGTCTAGGGGCGTTCTC
+Score: 23
+Start position in database sequence: 6262.0
+End position in database sequence: 6291.0
+>read17.399
+GCCACTCAGGTCCTAGCGCTCATGATCGAG
+GCCACTCAGGTCCTAGCGCTCATGATCGAG
+Score: 23
+Start position in database sequence: 17173.0
+End position in database sequence: 17202.0
+>read17.400
+CACTCACTTGGCCAGGCCCTCACCACTTA
+CACTCACTTGGTCAGGCCCTCACCACTTA
+Score: 23
+Start position in database sequence: 12750.0
+End position in database sequence: 12778.0
+>read17.401
+TCTTCTTATCTGAGTGAAACGGCCCCATT
+TCTTCTTATGTGAGTGAAACGGCCCCATT
+Score: 23
+Start position in database sequence: 3688.0
+End position in database sequence: 3716.0
+>read17.402
+CTAAAGGCGTGTGTCGGAGTTGTATGATA
+CTAAAGGCCTGTGTCGGAGTTGTATGATA
+Score: 23
+Start position in database sequence: 4211.0
+End position in database sequence: 4239.0
+>read17.403
+ACAGAACATGTCGCTGAGAGTCTGTTCCCT
+ACAGAACATGTCGCTGAGAGTCTGTTCCCT
+Score: 23
+Start position in database sequence: 16059.0
+End position in database sequence: 16088.0
+>read17.404
+TTAAGAGATAGACAATAATGGGCTATACTG
+TTAAGAGATAGACAATAATGGGCTATACTG
+Score: 23
+Start position in database sequence: 12564.0
+End position in database sequence: 12593.0
+>read17.405
+CATACACATAACGAGTCGACCGGTACGGGC
+CATACACATAACGAGTCGACCGGTACGGGC
+Score: 23
+Start position in database sequence: 6822.0
+End position in database sequence: 6851.0
+>read17.406
+AGTTGCTTCAGCCCGTTTTAGTAATCGTTG
+AGTTGCTTCAGCCCGTTTTAGTAATCGTTG
+Score: 23
+Start position in database sequence: 2036.0
+End position in database sequence: 2065.0
+>read17.407
+CCACCTCCTCCTAGAAAGACAACAGCAGTC
+CCACCTCCTCCTAGAAAGACAACAGCAGTC
+Score: 23
+Start position in database sequence: 2669.0
+End position in database sequence: 2698.0
+>read17.408
+TGGGAGCGGAGATGTGTTAAGCAATAACAA
+TGGGAGCGGAGATGTGTCAAGCAATAACAA
+Score: 18
+Start position in database sequence: 17020.0
+End position in database sequence: 17049.0
+>read17.409
+CTAGGTCATGACTACACCATAGACTGTGCG
+CTAGGTCATGACTACACCATAGACTTTGCG
+Score: 18
+Start position in database sequence: 12231.0
+End position in database sequence: 12260.0
+>read17.410
+TTGATCAGGGGGTCCGAATCCTAACGGTGA
+TTGATCAGGGGGTCCGAATCCTAACGGTGA
+Score: 23
+Start position in database sequence: 12099.0
+End position in database sequence: 12128.0
+>read17.411
+AGCATAAGTTCAGACTGCTCTGGGTCTAGG
+AGCATAAGTTCAGACTGCTCTGGGTCTAGG
+Score: 23
+Start position in database sequence: 6253.0
+End position in database sequence: 6282.0
+>read17.412
+GCAGCGATCATTTGCGAACTAGAGGGCCAC
+GCAGCGATCATTTGCGAACTAGAGGGCCAC
+Score: 23
+Start position in database sequence: 10675.0
+End position in database sequence: 10704.0
+>read17.413
+ACCAACAGCAGATGATAGCCACAACGCCCT
+ACCAACAGCAGATGATAGCCACAACGCCCT
+Score: 23
+Start position in database sequence: 7944.0
+End position in database sequence: 7973.0
+>read17.414
+GGCGCCAGTATTCGAAAACGCATGCAAGTA
+GGCGCCAGTATTCGAAAACGCATGCAAGTA
+Score: 23
+Start position in database sequence: 18383.0
+End position in database sequence: 18412.0
+>read17.415
+TCCCATAAATGTACCTGTAAGCGGTGTAAC
+TCCCATAAATGTACCTGTAAGCGGTGTAAC
+Score: 23
+Start position in database sequence: 16384.0
+End position in database sequence: 16413.0
+>read17.416
+AAGATTTCATAACCGCTAGGGATCGGTTAA
+AAGATTTCATAACCGCTAGGGATCGGTTAA
+Score: 23
+Start position in database sequence: 12351.0
+End position in database sequence: 12380.0
+>read17.417
+TACCTGATATCGTAATTCATCGCCTGGGGT
+TACCTGATATCGTAATTCATCGCCTGGGGT
+Score: 23
+Start position in database sequence: 15289.0
+End position in database sequence: 15318.0
+>read17.418
+GAGATTGGATATGAATGGACTCTCGCGCGC
+GAGATTGGATATGAATGGACTCTCGCGCGC
+Score: 23
+Start position in database sequence: 8254.0
+End position in database sequence: 8283.0
+>read17.419
+AATACGCATTATCCCAATGCCGGAAAAGC
+AATAGGCATTATCCCAATGCCGGAAAAGC
+Score: 23
+Start position in database sequence: 16512.0
+End position in database sequence: 16540.0
+>read17.420
+CACTGCTATACACGACGGCACCAGTCGTTG
+CACTGCTATACACGACGGCACCAGTCGATG
+Score: 18
+Start position in database sequence: 4793.0
+End position in database sequence: 4822.0
+>read17.421
+CGAGAGTTTACTGGTAACCTACTGTGCGGC
+CGAGAGTTTACTGGTAACCTACTGTGCGGC
+Score: 23
+Start position in database sequence: 478.0
+End position in database sequence: 507.0
+>read17.422
+CGTACTCGGGAAATTTGCTCTGGCAAACAT
+CGTACTCGGGAAATTTGCTCTGGCAAACAT
+Score: 23
+Start position in database sequence: 10814.0
+End position in database sequence: 10843.0
+>read17.423
+TCGGCCGCGTATGATGTTAGGTCGGTTTCG
+TCGGCCGCGTATGATGTTAGGTCGGTTTCG
+Score: 23
+Start position in database sequence: 19739.0
+End position in database sequence: 19768.0
+>read17.424
+GAAACACTCCCAATTCTGAAGTGGCTCTT
+GAAACAGTCCCAATTCTGAAGTGGCTGTT
+Score: 18
+Start position in database sequence: 11411.0
+End position in database sequence: 11439.0
+>read17.425
+CCTCAAAGGCTGCCGGGTAGTATCCCGCCG
+CCTCAAAGGCTGCCGGGTAGTATCCCGCCG
+Score: 23
+Start position in database sequence: 9682.0
+End position in database sequence: 9711.0
+>read17.426
+AGCCATGCTGTTCGCCTAAACTAGACACAG
+AGCCATGCTGTTCGCCTAAACTAGACACAG
+Score: 23
+Start position in database sequence: 13464.0
+End position in database sequence: 13493.0
+>read17.427
+CTAGGGAGTGGCCGAACGCTATCGGAGTCC
+CTAGGGAGTGGCCGAACGCTATCGGAGTCC
+Score: 23
+Start position in database sequence: 19968.0
+End position in database sequence: 19997.0
+>read17.428
+CGGTAGTTACGTGATTCTGTATAATCTGA
+CGGTAGTTGCGTGATTCTGTATAATCTGA
+Score: 23
+Start position in database sequence: 15553.0
+End position in database sequence: 15581.0
+>read17.429
+TCTTACTTATGGTGCGAGCAAAATGCATTT
+TCTTACTTATGGTGCGAGCAAAATGCATTT
+Score: 23
+Start position in database sequence: 14817.0
+End position in database sequence: 14846.0
+>read17.430
+TCGTACTTGGCATTCTTACTTATGGTGCGA
+TCGTACTTGGCATTCTTACTTATGGTGCGA
+Score: 23
+Start position in database sequence: 14804.0
+End position in database sequence: 14833.0
+>read17.431
+GCACATAGGACAAGCCCCGCCCCTCTGCTC
+GCACATAGGACAAGCCCCGCCCCTCTGCTC
+Score: 23
+Start position in database sequence: 10416.0
+End position in database sequence: 10445.0
+>read17.432
+GCTTCGTCGTCCAGATTCAGGGGAGTTGCT
+GCTTCGTCGTCCAGATTCAGGGGAGTTGCT
+Score: 23
+Start position in database sequence: 3339.0
+End position in database sequence: 3368.0
+>read17.433
+AGGTACGGAAAGAATGAGGCGATGCAAACT
+AGGTACGGAAAGAATGAGGCGATGCAAACT
+Score: 23
+Start position in database sequence: 4060.0
+End position in database sequence: 4089.0
+>read17.434
+CAGCTTACCGCTTGCTATGGTGCGGGGCTG
+CAGCTTACCGCTTGCTATGGTGCGGGGCTG
+Score: 23
+Start position in database sequence: 19445.0
+End position in database sequence: 19474.0
+>read17.435
+AATAGGCAGATAGGCCACGAACAACTTCTT
+AATAGGCAGATAGGCCACGAACAACTTCTT
+Score: 23
+Start position in database sequence: 7362.0
+End position in database sequence: 7391.0
+>read17.436
+CAAGCGACCCCTTTGCTCCCATTATTCAAT
+CAAGCGACCCCTTTGCTCCCATTATTCAAT
+Score: 23
+Start position in database sequence: 7087.0
+End position in database sequence: 7116.0
+>read17.437
+TGACCGGGGGCTACACCAGCAAAGTTATTG
+TGACCGGGGGCTACACCAGCAAAGTTATTG
+Score: 23
+Start position in database sequence: 17073.0
+End position in database sequence: 17102.0
+>read17.438
+GCCGCTGAGGTGCAATGTACTTTTCTTCAC
+GCCGCTGAGGTGCAATGTACTTTTCTTCAC
+Score: 23
+Start position in database sequence: 3838.0
+End position in database sequence: 3867.0
+>read17.439
+GAGAGGTCTAGAATTGGAGATTAGGATTG
+GAGAGGTCTAGCATTGGAGATTAGGATTG
+Score: 23
+Start position in database sequence: 13216.0
+End position in database sequence: 13244.0
+>read17.440
+TCTCTCTACGAATGAGCCGGGTCTCTAGCG
+TCTCTCTACGAATGAGCCGGGTCTCTAGCG
+Score: 23
+Start position in database sequence: 13187.0
+End position in database sequence: 13216.0
+>read17.441
+ATAGCCCCAGGTCGGGCCCCTTCCGTCATT
+ATAGCCCCAGGTCGGGCCCCTTCCGTCATT
+Score: 23
+Start position in database sequence: 7626.0
+End position in database sequence: 7655.0
+>read17.442
+GTTGAGGCCCGCGCCTAGTTGACCTGCCTA
+GTTGAGGCCCGCTCCTAGTTGACCTGCCT-
+Score: 18
+Start position in database sequence: 2882.0
+End position in database sequence: 2911.0
+>read17.443
+TGTGCGAGTTTATAAGACGCTGGGGACGCT
+TGTGCGAGTTTATAAGACGCTCGGGACGCT
+Score: 18
+Start position in database sequence: 13280.0
+End position in database sequence: 13309.0
+>read17.444
+CCCACTCTCCCGGGAAGGGCGAGGCAAGAT
+CCCACTCTCCCGGGAAGGGCGAGGCAAGAT
+Score: 23
+Start position in database sequence: 14866.0
+End position in database sequence: 14895.0
+>read17.445
+ATCCTAACGGTGATACTAACAAACTCGCCG
+ATCCTAACGGTGATACTAACAAACTCGCCG
+Score: 23
+Start position in database sequence: 12116.0
+End position in database sequence: 12145.0
+>read17.446
+TATCACGGTTCGCTGTCCCGGGCCCATAAA
+TATCACGGTTCGCTGTCCCGGGCCCATAAA
+Score: 23
+Start position in database sequence: 947.0
+End position in database sequence: 976.0
+>read17.447
+GCCACGAAACGCATGAACGGGTTCGTATTT
+GCCACGAAACGCATGAACGGGTTCGTATTT
+Score: 23
+Start position in database sequence: 10700.0
+End position in database sequence: 10729.0
+>read17.448
+TATGCTCCACAACTACGGTGAGGGCCCCAG
+TATGCTCCACAACTACGGTGAGGGCCCCAG
+Score: 23
+Start position in database sequence: 15170.0
+End position in database sequence: 15199.0
+>read17.449
+AGCTTACCGCTTGCTATGGTGCGGGGCTGA
+AGCTTACCGCTTGCTATGGTGCGGGGCTGA
+Score: 23
+Start position in database sequence: 19446.0
+End position in database sequence: 19475.0
+>read17.450
+TGCTGTGACCTTGGCCACAAATTCTGGGGA
+TGCTGTGACCTTGGCCACAAATTCTGGGGA
+Score: 23
+Start position in database sequence: 11792.0
+End position in database sequence: 11821.0
+>read17.451
+TTCTCTCTTCGGTAAAGTGCCGATAAGGTG
+TTCTCTCTTCGGTAAAGTGCCGATAAGGTG
+Score: 23
+Start position in database sequence: 11893.0
+End position in database sequence: 11922.0
+>read17.452
+GCGCTGCGGCCCAGGAGCGAGTACGATCAG
+GCGCTGCGGCCCAGGAGCGAGTACGATCAG
+Score: 23
+Start position in database sequence: 12606.0
+End position in database sequence: 12635.0
+>read17.453
+GAAGAGCAATGAGCGCTGATAGATGATTC
+GAAGAGCACTGAGCGCTGATAGATGATTC
+Score: 23
+Start position in database sequence: 14473.0
+End position in database sequence: 14501.0
+>read17.454
+GCCACGAACAACTTCTTTGGCTCCTTGTTA
+GCCACGAACAACTTCTTTGGCTCCTTGTTA
+Score: 23
+Start position in database sequence: 7375.0
+End position in database sequence: 7404.0
+>read17.455
+GCTTCGATTTGCACCCCCCGTAGCCGCAAG
+GCTTCGATTTGCACCCCCCGTAGCCGCTAG
+Score: 18
+Start position in database sequence: 17320.0
+End position in database sequence: 17349.0
+>read17.456
+CGACCGTCACGACTCCAATTCGCCAACAGT
+CGACCGTCACGACTCCAATTCGCCAACAGT
+Score: 23
+Start position in database sequence: 2103.0
+End position in database sequence: 2132.0
+>read17.457
+CAGAGGTTAGTGTATGGTCGGCACAGTACT
+CAGAGGTTAGTGTATGGTCGGCACAGTACT
+Score: 23
+Start position in database sequence: 14122.0
+End position in database sequence: 14151.0
+>read17.458
+ATCAAGTAAAGAATGAGCAATCTCAGATGT
+ATCAAGTAAAGAATGAGCAATCTCAGATTT
+Score: 18
+Start position in database sequence: 10974.0
+End position in database sequence: 11003.0
+>read17.459
+TGTTCAGCCAGGAGGTCTCAAACGTTTAGA
+TGTTCAGCCAGGAGGTCTCAAACGTTTAGA
+Score: 23
+Start position in database sequence: 8181.0
+End position in database sequence: 8210.0
+>read17.460
+CACGATCCTTACATGCGCTTCGCAGAGTTC
+CACGATCCTTACATGCGCTTCGCAGAGTTC
+Score: 23
+Start position in database sequence: 13068.0
+End position in database sequence: 13097.0
+>read17.461
+TTACAACAGTACTGCAAAAAACAAATGGGA
+TTACAACAGTACTGCAAAAAACAAATGGGA
+Score: 23
+Start position in database sequence: 16995.0
+End position in database sequence: 17024.0
+>read17.462
+Query not found!!Query not found!!Score: -1
+>read17.463
+GGTGTAACTCTGGGCGCATGGCCAACCGAT
+GGTGTAACTCTGGGCGCATGGCCAACCGAT
+Score: 23
+Start position in database sequence: 16406.0
+End position in database sequence: 16435.0
+>read17.464
+GTAACCAACTCCCCCGATGGGCGTAGTTCA
+GTAACCAACTCCCCCGGTGGGCGTAGTTCA
+Score: 18
+Start position in database sequence: 17441.0
+End position in database sequence: 17470.0
+>read17.465
+CCGACCTGGAATATTGACTAGCTTGAAGGT
+CCGACCTGGAATATTGACTAGCTTGAAGGT
+Score: 23
+Start position in database sequence: 17820.0
+End position in database sequence: 17849.0
+>read17.466
+Query not found!!Query not found!!Score: -1
+>read17.467
+Query not found!!Query not found!!Score: -1
+>read17.468
+TTTATGGATCCATCTGAAGCAATCGAGGAA
+TTTATGGATCCATCTGAAGCAATCGAGGAA
+Score: 23
+Start position in database sequence: 3029.0
+End position in database sequence: 3058.0
+>read17.469
+CCGGTCGAAAAGATACCATGATGGGCTTGA
+CCGGTCGAAAAGATACCATGATGGGCTTGA
+Score: 23
+Start position in database sequence: 16797.0
+End position in database sequence: 16826.0
+>read17.470
+ACAGAGCGAATCAATCGGTGGAGATTTTGG
+ACAGAGCGAATCAATCGGTGGAGATTTTGG
+Score: 23
+Start position in database sequence: 1893.0
+End position in database sequence: 1922.0
+>read17.471
+TCTGGCGATACATATGCATGATTAGGATA
+TCTGGTGATACATATGCATGATTAGGATA
+Score: 23
+Start position in database sequence: 2932.0
+End position in database sequence: 2960.0
+>read17.472
+ACTTGCTGAGTACTTAGATAGTCTAATAAC
+ACTTGCTGAGTACTTAGATAGTCTAAAAAC
+Score: 18
+Start position in database sequence: 2226.0
+End position in database sequence: 2255.0
+>read17.473
+CCTCAGGAACCGCTAGGTCATGACTACACC
+CCTCAGGAACCGCTAGGTCATGACTACACC
+Score: 23
+Start position in database sequence: 12219.0
+End position in database sequence: 12248.0
+>read17.474
+ATGGTGCTGCAGAACGTTCTGCCTTAAACC
+ATGGTGCTGCAGAACGTTCTGCCTTAAACC
+Score: 23
+Start position in database sequence: 6420.0
+End position in database sequence: 6449.0
+>read17.475
+TACCTCGCCGTCGCCAAACTCCCCATACTC
+TACCTCGCCGTCGCCAAACTCCCCATACTC
+Score: 23
+Start position in database sequence: 19368.0
+End position in database sequence: 19397.0
+>read17.476
+TCCTATAGCCCAACTTGATGCGCTGTTGGA
+TCCTATAGCCCAACTTGATGCGCTGTTGGA
+Score: 23
+Start position in database sequence: 12994.0
+End position in database sequence: 13023.0
+>read17.477
+CATTAACTAACATAAGACCTTCTGGGTACT
+CATTAACTAACATAAGACCTTCTGGGTACT
+Score: 23
+Start position in database sequence: 16746.0
+End position in database sequence: 16775.0
+>read17.478
+GCGTAGTTCAGAGGGCACAGGCCGCTCTGA
+GCGTAGTTCAGAGGGCACAGGCCGCTCTGA
+Score: 23
+Start position in database sequence: 17461.0
+End position in database sequence: 17490.0
+>read17.479
+CAGGCAGTGTGTTGGATGCGTTAAATTGGT
+CAGGCAGTGTGTTGGATGCGTTAAATTGGT
+Score: 23
+Start position in database sequence: 5779.0
+End position in database sequence: 5808.0
+>read17.480
+AATCAGGCATGTAACCAACTCCCCCGATGG
+AATCAGGCATGTAACCAACTCCCCCGATGG
+Score: 23
+Start position in database sequence: 17431.0
+End position in database sequence: 17460.0
+>read17.481
+AGATGATAGCCACAACGCCCTTATAAAGCG
+AGATGATAGCCACAACGCCCTTATAAAGCG
+Score: 23
+Start position in database sequence: 7953.0
+End position in database sequence: 7982.0
+>read17.482
+AATCAGGCATGTAACCAACTCCCCCGATGG
+AATCAGGCATGTAACCAACTCCCCCGATGG
+Score: 23
+Start position in database sequence: 17431.0
+End position in database sequence: 17460.0
+>read17.483
+AGCAGTATGTCTGTATAGCCATTATGCTTC
+AGCAGTATGTCTGTATAGCCATTATGCTTC
+Score: 23
+Start position in database sequence: 10014.0
+End position in database sequence: 10043.0
+>read17.484
+GGAGGCCTTTTTACTTCGTTCCGAATTTCA
+GGAGGCCTTTTTACTTCGTTCCGAATTTCA
+Score: 23
+Start position in database sequence: 14222.0
+End position in database sequence: 14251.0
+>read17.485
+CGTGATTCTGTATAATCTGATGGGAGTAGC
+CGTGATTCTGTATAATCTGATGGGAGTAGC
+Score: 23
+Start position in database sequence: 15562.0
+End position in database sequence: 15591.0
+>read17.486
+AATTTAAGCGTAGAACGGAGCCGATGTTGG
+AATTTAAGCGTAGAACGGAGCCGATGTTGG
+Score: 23
+Start position in database sequence: 3765.0
+End position in database sequence: 3794.0
+>read17.487
+TGCTTAAACTAAAATAATCTACAGCCCCTA
+TGCTTAAACTAAAATAGTCTACAGCCCCTA
+Score: 18
+Start position in database sequence: 19853.0
+End position in database sequence: 19882.0
+>read17.488
+AACTTTATAAAGGGGCCACAGATCAAGTAA
+AACTTTATAAAGGGGCCACAGATCAAGTAA
+Score: 23
+Start position in database sequence: 10953.0
+End position in database sequence: 10982.0
+>read17.489
+CCCATAGGTAGTAAAGGCGGAAAGCGCCGG
+CCCATAGGTAGTAAAGGCGGAAAGCGCCGG
+Score: 23
+Start position in database sequence: 7801.0
+End position in database sequence: 7830.0
+>read17.490
+GGAGCCGATGTTGGTACATGACTTGTGTGA
+GGAGCCGATGTTGGTACATGACTTGTGTGA
+Score: 23
+Start position in database sequence: 3781.0
+End position in database sequence: 3810.0
+>read17.491
+CTACTCTGGTGCATGCATTGGTTTGAAGTG
+CTACTCTGGTGCATGCATTGGTTTGAAGTG
+Score: 23
+Start position in database sequence: 11481.0
+End position in database sequence: 11510.0
+>read17.492
+GTTTACTGGTAACCTACTGTGCGGCCAATG
+GTTTACTGGTAAGCTACTGTGCGGCCAAT-
+Score: 18
+Start position in database sequence: 483.0
+End position in database sequence: 512.0
+>read17.493
+GAACCGAGCGAACCGCTGAAAGTCCACGTA
+GAACCGAGCGAACCGCTGAAAGTCCACGTA
+Score: 23
+Start position in database sequence: 15397.0
+End position in database sequence: 15426.0
+>read17.494
+GCTTGCTATGGTGCGGGGCTGAGTGCGGGT
+GCTTGCTATGGTGCGGGGCTGAGTGCGGGT
+Score: 23
+Start position in database sequence: 19454.0
+End position in database sequence: 19483.0
+>read17.495
+GCTCCTTGGATCGAAGTGGCTCCCTGTGAT
+GCTCCTTGGATCGAAGTGTCTCCCTGTTAT
+Score: 13
+Start position in database sequence: 13110.0
+End position in database sequence: 13139.0
+>read17.496
+CCCGTCGCGCGTACCTGATATCGTAATTCA
+CCCGTCGCGCGTACCTGATATCGTAATTCA
+Score: 23
+Start position in database sequence: 15278.0
+End position in database sequence: 15307.0
+>read17.497
+TGGCCCCCCCACAGTATAGGGAAAGGTAGG
+TGGCCCCCCCACAGTATAGGGAAAGGTAGG
+Score: 23
+Start position in database sequence: 6064.0
+End position in database sequence: 6093.0
+>read17.498
+TCTGTATAATCTGATGGGAGTAGCAGGTGG
+TCTGTATAATCTGATGGGAGTAGCAGGTGG
+Score: 23
+Start position in database sequence: 15568.0
+End position in database sequence: 15597.0
+>read17.499
+CGGGCTTCAGGGTGCACCATTCCCTGCCCA
+CGGGCTTCAGGGTGCACCATTCCCTGCCCA
+Score: 23
+Start position in database sequence: 2642.0
+End position in database sequence: 2671.0
+>read17.500
+GTTCTACACAGATTCGAAGCCATCAAACAT
+GTTCTACACAGATTCGAAGCCATCAAACAT
+Score: 23
+Start position in database sequence: 263.0
+End position in database sequence: 292.0
+>read17.501
+CAAGCCTGGGAAACACTCCCAATTCTGAAG
+CAAGCCTGGGAAACACTCCCAATTCTGAAG
+Score: 23
+Start position in database sequence: 11402.0
+End position in database sequence: 11431.0
+>read17.502
+CCACTCCTTCAACACTTGTTGGTTGGTGTG
+CCACTCCTTCAACACTTGTTGGTTGGTGTG
+Score: 23
+Start position in database sequence: 14647.0
+End position in database sequence: 14676.0
+>read17.503
+ACCATGATGGGCTTGAGATATGCGAATTAA
+ACCATGATGGGCTTGAGATATGCGAATTAA
+Score: 23
+Start position in database sequence: 16811.0
+End position in database sequence: 16840.0
+>read17.504
+CTTATAATGTACGCCAGTGAGCCAGCCGAC
+CTTATAATGTACGCCAGTGAGCCAGCCGAC
+Score: 23
+Start position in database sequence: 15843.0
+End position in database sequence: 15872.0
+>read17.505
+GAAGCGAGGCCCCAATATAGGATTGCTACT
+GAAGCGAGGCCCCAATATAGGATTGCTACT
+Score: 23
+Start position in database sequence: 18692.0
+End position in database sequence: 18721.0
+>read17.506
+TGCCTTAGGATAAGCCATGAACGCATCAAA
+TGCCTTAGGATAAGCCGTGAACGCATCAAA
+Score: 18
+Start position in database sequence: 6559.0
+End position in database sequence: 6588.0
+>read17.507
+GAATAATAGAAATGAGATCAGCGCAACTAG
+GAATAATAGAAATGAGATCAGCGCAACTAG
+Score: 23
+Start position in database sequence: 19099.0
+End position in database sequence: 19128.0
+>read17.508
+TGGTGACTTTATATTGACGTGTAAAACAAG
+TGGTGACTTTATATTGACGTGTAAAACAAG
+Score: 23
+Start position in database sequence: 6960.0
+End position in database sequence: 6989.0
+>read17.509
+GTGAGTAGATAGGCTCCGATAGTCGGGTGC
+GTGAGTAGATAGGCTCCGATAGTCGGGTGC
+Score: 23
+Start position in database sequence: 11734.0
+End position in database sequence: 11763.0
+>read17.510
+GCCGTCTGAATTAATCAGTATGTACAACCT
+GCCGTCTGAATTAATCAGTATGTACAACCT
+Score: 23
+Start position in database sequence: 12947.0
+End position in database sequence: 12976.0
+>read17.511
+TGAGTTTAAGCCTGTGATGAAACTGAACCG
+TGAGTTTAAGCCTGTGATGAAACTGAACCG
+Score: 23
+Start position in database sequence: 15373.0
+End position in database sequence: 15402.0
+>read17.512
+GCTGCATACACATAACGAGTCGACCGGTAC
+GCTGCATACACATAACGAGTCGACCGGTAC
+Score: 23
+Start position in database sequence: 6818.0
+End position in database sequence: 6847.0
+>read17.513
+TCCGTCGAGTGACCAGGACGTTTTTACCTA
+TCCGTCGAGTGACCAGGACGTTTTTACCTA
+Score: 23
+Start position in database sequence: 4482.0
+End position in database sequence: 4511.0
+>read17.514
+GAAGACCTTTAGAAAGCTGCTGAGTAATCC
+GAAGACCTTTAGAAAGCTGCTGAGTAATCC
+Score: 23
+Start position in database sequence: 1997.0
+End position in database sequence: 2026.0
+>read17.515
+CCCTTATTTAACTCAGATAGAACTTTATCT
+CCCTTATTTAACTCAGATAGAACTTTATCT
+Score: 23
+Start position in database sequence: 4112.0
+End position in database sequence: 4141.0
+>read17.516
+CTGAGCGCTTTGCAATAATGGTGATGCATA
+CTGAGCGCTTTGCAATAATGGTGATGCATA
+Score: 23
+Start position in database sequence: 9126.0
+End position in database sequence: 9155.0
+>read17.517
+ATAATACTCGGGGACGGCCGGACTTTAGGA
+ATAATACTCGGGGACGGCCGGACTTTAGGA
+Score: 23
+Start position in database sequence: 17917.0
+End position in database sequence: 17946.0
+>read17.518
+CGGAAAATTACCGTTAGGTGGATACGCGAG
+CGGAAAATTACCGTTAGGTGGATACGCGAG
+Score: 23
+Start position in database sequence: 19305.0
+End position in database sequence: 19334.0
+>read17.519
+GTACAGAACAAGGGGGTTAGTGGGATGGCT
+GTACAGAACAAGGGGGTTAGTGGGATGGCT
+Score: 23
+Start position in database sequence: 8681.0
+End position in database sequence: 8710.0
+>read17.520
+TCTATAGTAACCCATAGAAGGTATGTAATA
+TCTATAGTAACCCATAGAAGGTATGTAATA
+Score: 23
+Start position in database sequence: 11956.0
+End position in database sequence: 11985.0
+>read17.521
+GGAACCTTGGCCCCCCCACAGTATAGGGAA
+GGAACCTTGGCCCCCCCACAGTATAGGGAA
+Score: 23
+Start position in database sequence: 6057.0
+End position in database sequence: 6086.0
+>read17.522
+GATACCGGGCAAGTATGGGAATCTGCCGCC
+GATACCGGGCAAGTATGGGAATCTGCCGCC
+Score: 23
+Start position in database sequence: 2741.0
+End position in database sequence: 2770.0
+>read17.523
+ATTGTGATGTTGGGACCGTAGTCCATCTTG
+ATTGTGATGTTGGGACCGTAGTCCATCTTG
+Score: 23
+Start position in database sequence: 18845.0
+End position in database sequence: 18874.0
+>read17.524
+ACAGGATTGCTCCAGGTTTAGGGTGTAGAC
+ACAGGATTGCTCCAGGTTTAGGGTGTAGAC
+Score: 23
+Start position in database sequence: 10183.0
+End position in database sequence: 10212.0
+>read17.525
+CGCATATGTCCAGACGATCTACGATTGGTG
+CGCATATGTCCAGACGATCTACGATTGGTG
+Score: 23
+Start position in database sequence: 17710.0
+End position in database sequence: 17739.0
+>read17.526
+ATCAAGCAATAGATTAATGAGCCTCGTGC
+AACAAGCAATAGATTAATGAGCCTCGTGC
+Score: 23
+Start position in database sequence: 18307.0
+End position in database sequence: 18335.0
+>read17.527
+CCATAGGTAGTAAAGGCGGAAAGCGCCGGA
+CCATAGGTAGTAAAGGCGGAAAGCGCCGGA
+Score: 23
+Start position in database sequence: 7802.0
+End position in database sequence: 7831.0
+>read17.528
+GCCTCGTGCGATGGTTTGAATACGAGAGTT
+GCCTCGTGCGATGGTTTGAATACGAGAGTT
+Score: 23
+Start position in database sequence: 18327.0
+End position in database sequence: 18356.0
+>read17.529
+TGGGGCATCTCCCTCGCGCGGACTTACTAG
+TGGGGCATCTCCCTCGCGCGGACTTACTAG
+Score: 23
+Start position in database sequence: 13663.0
+End position in database sequence: 13692.0
+>read17.530
+TGACACTCCATGCGTGAAAGGGGGCTGGAT
+TGACACTCCATGCGTGAAAGGGGGCTGGAT
+Score: 23
+Start position in database sequence: 18731.0
+End position in database sequence: 18760.0
+>read17.531
+CACTCGCGAGCTTTCGCACGCTCGATTGGG
+CACTCGCGAGCTTTCGCACGCTCGATTGGG
+Score: 23
+Start position in database sequence: 16141.0
+End position in database sequence: 16170.0
+>read17.532
+GGGTGAAAGGGCTGCAATAGCGGTGTAGAA
+GGGTGAAAGGGCTGCAATAGCGGTGTAGAA
+Score: 23
+Start position in database sequence: 5187.0
+End position in database sequence: 5216.0
+>read17.533
+TTACGCGCGCAGACAGTTTCAGGTCACTGA
+TTACGCGCGCAGACAGTTTCAGGTCACTGA
+Score: 23
+Start position in database sequence: 14748.0
+End position in database sequence: 14777.0
+>read17.534
+TCGTCCTGTCAGTATCTCAATGCATTTGAG
+TCGTCCTGTCAGTATCTCAATGCATTTGAG
+Score: 23
+Start position in database sequence: 11217.0
+End position in database sequence: 11246.0
+>read17.535
+TAGGTCATGACTACACCATAGACTGTGCGC
+TAGGTCATGACTACACCATAGACTGTGCGC
+Score: 23
+Start position in database sequence: 12232.0
+End position in database sequence: 12261.0
+>read17.536
+GGCCAATACCAGTTCTAAGTGGTTATCGGT
+GGCCAATACCAGTTCTAAGTGGTTATCGGT
+Score: 23
+Start position in database sequence: 5394.0
+End position in database sequence: 5423.0
+>read17.537
+AGCTCCAATTGGGTCTGACAGGAGTTAACA
+AGCTCCAATTGGGTCTGACAGGAGTTAACA
+Score: 23
+Start position in database sequence: 123.0
+End position in database sequence: 152.0
+>read17.538
+TACCGCCTCATTGTACACGAATTCGACGAA
+TACCGCCTCATTGTACACGAATTCGACGAA
+Score: 23
+Start position in database sequence: 6112.0
+End position in database sequence: 6141.0
+>read17.539
+CCAGGACGTTTTTACCTAGTACCAGCTTTC
+CCAGGACGTTTTTACCTAGTACCAGCTTTC
+Score: 23
+Start position in database sequence: 4494.0
+End position in database sequence: 4523.0
+>read17.540
+GGCCTTCAGTCCCAACAGGCATTGGTTAAC
+GGCCTTCAGTCCCAACAGGCATTGGTTAAC
+Score: 23
+Start position in database sequence: 18562.0
+End position in database sequence: 18591.0
+>read17.541
+AGGAAAGCTGAACCGAAGGTACTAACACGG
+AGGAAAGCTGAACCGAAGGTACTAACACGG
+Score: 23
+Start position in database sequence: 17634.0
+End position in database sequence: 17663.0
+>read17.542
+CTGGGGCGCGCTGTGGATGCTCCCTTGAAA
+CTGGGGCGCGCTGTGGATGCTCCCTTGAAA
+Score: 23
+Start position in database sequence: 3142.0
+End position in database sequence: 3171.0
+>read17.543
+ACACCTATTTCTGGATCTTATTTCGAGCCG
+ACACCTATTTCTGGATCTTATTTCGAGCCG
+Score: 23
+Start position in database sequence: 18468.0
+End position in database sequence: 18497.0
+>read17.544
+CTTTCTAATTCCGCAGGTACGCTCGAAGGG
+CTTTCTAATTCCGCAGGTACGCTCGAAGGG
+Score: 23
+Start position in database sequence: 10867.0
+End position in database sequence: 10896.0
+>read17.545
+AATCGTATTAATAGCACCCTCAACGAATCC
+AATCGTATTAATAGCACCCTCAACGAATCC
+Score: 23
+Start position in database sequence: 10342.0
+End position in database sequence: 10371.0
+>read17.546
+TTTGATTAACTTCTCCTTAATATCCTACGC
+TTTGATTAACTTCTCCTTAATATCCTACGC
+Score: 23
+Start position in database sequence: 4160.0
+End position in database sequence: 4189.0
+>read17.547
+GAGCCGTGGGCCAAAGACGGCTCGCCGTGT
+GAGCCGTGGGCCAAAGACGGCTCGCCGTGT
+Score: 23
+Start position in database sequence: 13602.0
+End position in database sequence: 13631.0
+>read17.548
+ACCCTCGAGCTTAAAGGTAAGGGTCCCACC
+ACCCTCGAGCTTAAAGGTAAGGGTCCCACC
+Score: 23
+Start position in database sequence: 3564.0
+End position in database sequence: 3593.0
+>read17.549
+CAGAGGGCACAGGCCGCTCTGAAACGAGGT
+CAGAGGGCACAGGCCGCTCTGAAACGAGGT
+Score: 23
+Start position in database sequence: 17469.0
+End position in database sequence: 17498.0
+>read17.550
+CTTCAGCCCTCCTCGTATGCAATGAGGTGC
+CTTCAGCCCTCCTCGTATGCAATGAGGTGC
+Score: 23
+Start position in database sequence: 13143.0
+End position in database sequence: 13172.0
+>read17.551
+ATACCGCTAACACAGCACTGGATCTACAAT
+ATACCGCTAACACAGCACTGGATCTACAAT
+Score: 23
+Start position in database sequence: 7335.0
+End position in database sequence: 7364.0
+>read17.552
+TTATAGGGCGTTAACGCGACTTGGAAGACC
+TTATAGGGCGTTAACGCGACTTGGAAGACC
+Score: 23
+Start position in database sequence: 1974.0
+End position in database sequence: 2003.0
+>read17.553
+TCACGGTTCGCTGTCCCGGGCCCATAAATC
+TCACGGTTCGCTGTCCCGGGCCCATAAATC
+Score: 23
+Start position in database sequence: 949.0
+End position in database sequence: 978.0
+>read17.554
+AAACTCCCCATACTCTCGCTTCGTCTCACA
+AAACTCCCCATACTCTCGCTTCGTCTCACA
+Score: 23
+Start position in database sequence: 19383.0
+End position in database sequence: 19412.0
+>read17.555
+TATTATGGATCGTGAGGACCTGCTACTGCC
+TATTATGGATCGTGAGGACCTGCTACTGCC
+Score: 23
+Start position in database sequence: 14618.0
+End position in database sequence: 14647.0
+>read17.556
+TAGAGAAGGGGTCAATTCCCCAAGGGTAGA
+TAGAGAAGGGGTCAATTCCCCAAGGGTAGA
+Score: 23
+Start position in database sequence: 18642.0
+End position in database sequence: 18671.0
+>read17.557
+TGCGATGCGGGCAGCACTCCGGTCTAGTGA
+TGCGATGCGGGCAGCACTCCGGTCTAGTGA
+Score: 23
+Start position in database sequence: 8622.0
+End position in database sequence: 8651.0
+>read17.558
+CTGCTCTAGCGCGAGATCTGCATCATGACC
+CTGCTCTAGCGCGAGATCTGCATCATGACC
+Score: 23
+Start position in database sequence: 13507.0
+End position in database sequence: 13536.0
+>read17.559
+TATCGTAACTATCCCATAAGCAAAATGGTG
+TATCGTAACTATCCCATAAGCAAAATGGTG
+Score: 23
+Start position in database sequence: 9177.0
+End position in database sequence: 9206.0
+>read17.560
+GAATGACGTGTACCGGTTTTAGGGGGTTC
+GAATGAGGTGAACCGGTTTTAGGGGGTTC
+Score: 18
+Start position in database sequence: 3886.0
+End position in database sequence: 3914.0
+>read17.561
+TCTCCCGTCAAAAGGTCGTCAAATACCACT
+TCTCCCGTCAAAAGGTCGTCAAATACCACT
+Score: 23
+Start position in database sequence: 7490.0
+End position in database sequence: 7519.0
+>read17.562
+AAGGCCCAAAACTAAGTAATGCCTCACGAG
+AAGGCCCAAAACTAAGTAATGCCTCACGAG
+Score: 23
+Start position in database sequence: 1034.0
+End position in database sequence: 1063.0
+>read17.563
+CCAGGTCGGGCCCCTTCCGTCATTTCACAA
+CCAGGTCGGGCCCCTTCCGTCATTTCACAA
+Score: 23
+Start position in database sequence: 7632.0
+End position in database sequence: 7661.0
+>read17.564
+TCACACGTATGATACCTACCTTCGGACTAA
+TCACACGTATGATACCTACCTTCGGACTAA
+Score: 23
+Start position in database sequence: 7298.0
+End position in database sequence: 7327.0
+>read17.565
+CTTAGTTAGACGTAGCAATGGTGCAAGAGA
+CTTAGTTAGACGTAGCAATGGTGCAAGAGA
+Score: 23
+Start position in database sequence: 227.0
+End position in database sequence: 256.0
+>read17.566
+TAATGACTAGACGGAGTGCTCCCGTAAGGC
+TAATGACTAGACGGAGTGCTCCCGTAAGGC
+Score: 23
+Start position in database sequence: 18356.0
+End position in database sequence: 18385.0
+>read17.567
+AATGCGTTAGAACCGAAACAATTGCATTAGG
+AATGCGTTAGAACTGAAACAATTGCATTAG-
+Score: 20
+Start position in database sequence: 19492.0
+End position in database sequence: 19522.0
+>read17.568
+AAGAGTCCGAGGCCTACGCCACCACATTGC
+AAGAGTCCGAGGCCTACGCCACCACATTGC
+Score: 23
+Start position in database sequence: 4988.0
+End position in database sequence: 5017.0
+>read17.569
+GGTTTGAGCGCACTAACATTGCTAGGTAGG
+GGTTTGAGCGCACTAACATTGCTAGGTAGG
+Score: 23
+Start position in database sequence: 15129.0
+End position in database sequence: 15158.0
+>read17.570
+AGATTTTGCCGTCGCCATCAGTTGTCATT
+AGAATTTGCCGTCGCCATCAGTTATCATT
+Score: 18
+Start position in database sequence: 8502.0
+End position in database sequence: 8530.0
+>read17.571
+TGCACGATCATAATGACGGGAGCCTCACGT
+TGCACGATCATAATGACGGGAGCCTCACGT
+Score: 23
+Start position in database sequence: 5015.0
+End position in database sequence: 5044.0
+>read17.572
+TAGCGGGGCCGGGGCTCGTAGCAATGAAAG
+TAGCGGGGCCGGGGCTCGTAGCAATGAAAG
+Score: 23
+Start position in database sequence: 10588.0
+End position in database sequence: 10617.0
+>read17.573
+ACATGCAAACTCGCGTAGCCAAAAAGACGC
+ACATGCAAACTCGCGTAGCCAAAAAGACGC
+Score: 23
+Start position in database sequence: 6852.0
+End position in database sequence: 6881.0
+>read17.574
+GCCCGTGATCCAAGCGACCTCGATTCGGA
+GCCCGTGATCCAAGCGACCTCGATTCGGA
+Score: 23
+Start position in database sequence: 19280.0
+End position in database sequence: 19308.0
+>read17.575
+CATATAGAACCGTGTTGGCTAGGATGATTA
+CATATAGAACCGTGTTGGCTAGGATGATTA
+Score: 23
+Start position in database sequence: 13537.0
+End position in database sequence: 13566.0
+>read17.576
+AGGATATGTGGTTGTGTAAGATTGCGCCCT
+AGGATATGTGGTTGTGTAAGATTGCGCCCT
+Score: 23
+Start position in database sequence: 18015.0
+End position in database sequence: 18044.0
+>read17.577
+ATTGAGACATAGATACCGGGCAAGTATGGG
+ATTGAGACATAGATACCGGGCAAGTATGTG
+Score: 18
+Start position in database sequence: 2730.0
+End position in database sequence: 2759.0
+>read17.578
+GCAACAAAACCACCGCTTCGATTTGCACCC
+GCAACAAAACCACCGCTTCGATTTGCACCC
+Score: 23
+Start position in database sequence: 17306.0
+End position in database sequence: 17335.0
+>read17.579
+CTCGGGGCGTGAAACATAAAGCACGACCGA
+CTCGGGGCGTGAAACATAAAGCACGACCGA
+Score: 23
+Start position in database sequence: 13944.0
+End position in database sequence: 13973.0
+>read17.580
+Query not found!!Query not found!!Score: -1
+>read17.581
+GTGGGCTCCGAACCGCAATCTCTTCTTCGT
+GTGGGCTCCGAACCGCAATCTCTTCTTCGT
+Score: 23
+Start position in database sequence: 16595.0
+End position in database sequence: 16624.0
+>read17.582
+ATAAGTGGATGGGATTCTAACACAGTTCCA
+ATAAGTGGATGGGATTCTAACACATTTCCA
+Score: 18
+Start position in database sequence: 2316.0
+End position in database sequence: 2345.0
+>read17.583
+ACTAGGGTACACACGACGCCGACTTTGGGA
+ACTAGGGTACACACGACGCCGACTTTGGGA
+Score: 23
+Start position in database sequence: 10271.0
+End position in database sequence: 10300.0
+>read17.584
+GGGGTACAGGCCTGCCATGATACTCCGCTA
+GGGGTACAGGCCTGCCATGATACTCCGCTA
+Score: 23
+Start position in database sequence: 11600.0
+End position in database sequence: 11629.0
+>read17.585
+GATTAGGATAGAATTAGTGAATCACCGCTC
+GATTAGGATAGAATTAGTGAATCACCGCTC
+Score: 23
+Start position in database sequence: 2951.0
+End position in database sequence: 2980.0
+>read17.586
+GAGGAAGCGAGGCCCCAATATAGGATTGCT
+GAGGAAGCGAGGCCCCAATATAGGATAGCT
+Score: 18
+Start position in database sequence: 18689.0
+End position in database sequence: 18718.0
+>read17.587
+TTGCTATTCAAAGAGTACTTCCTGCGTTAC
+TTGCTATTCAAAGAGTACTTCCTGCGTTAC
+Score: 23
+Start position in database sequence: 13344.0
+End position in database sequence: 13373.0
+>read17.588
+GGGTACTGGCGACGGAGGCGCGAGGTTTGT
+GGGTACTGGCGACGGAGGCGCGAGGTTTTT
+Score: 18
+Start position in database sequence: 15334.0
+End position in database sequence: 15363.0
+>read17.589
+CTGGTGCGCCAGTGGGCTCCGAACCGCAAT
+CTGGTGCGCCAGTGGGCTCCGAACCGCAAT
+Score: 23
+Start position in database sequence: 16584.0
+End position in database sequence: 16613.0
+>read17.590
+AGCAGCAATGCATCCCTAGATTAAATAGTT
+AGCAGCAATGCATCCCTAGATTAAATAGTT
+Score: 23
+Start position in database sequence: 1129.0
+End position in database sequence: 1158.0
+>read17.591
+GCGGATTTTAGTCAATGGTGTTTAATCGCT
+GCGGATTTTAGTCAATGGTGTTTAATCGCT
+Score: 23
+Start position in database sequence: 6.0
+End position in database sequence: 35.0
+>read17.592
+AATAAGTTTACCCCGTTAGAGTTACAGGCA
+AATAAGTTTACCCCGTTAGAGTTACAGGCA
+Score: 23
+Start position in database sequence: 2411.0
+End position in database sequence: 2440.0
+>read17.593
+AGTACTGCAACCCAACACAATGAGTACATG
+AGTACTGCAACCCAACACAAAGAGTACATG
+Score: 18
+Start position in database sequence: 3471.0
+End position in database sequence: 3500.0
+>read17.594
+TGTGAAATGTGAGACAATACATCCCGCGAA
+TGTGAAATGTGAGACAATACATCCCGCGAA
+Score: 23
+Start position in database sequence: 649.0
+End position in database sequence: 678.0
+>read17.595
+CCGGTCGAAAAGATACCATGATGGGCTTGA
+CCGGTCGAAAAGATACCATGATGGGCTTGA
+Score: 23
+Start position in database sequence: 16797.0
+End position in database sequence: 16826.0
+>read17.596
+CCCACGATCCTTACATGCGCTTCGCAGAGT
+CCCACGATCCTTACATGCGCTTCGCAGAGT
+Score: 23
+Start position in database sequence: 13066.0
+End position in database sequence: 13095.0
+>read17.597
+CCAGTCCGCAACAAAAGAATCCGAAGTACC
+CCAGTCCGCAACAAAAGAATCCGAATTACC
+Score: 18
+Start position in database sequence: 8991.0
+End position in database sequence: 9020.0
+>read17.598
+TGAAACTCATCCGAATGATGTGAAACAGAC
+TGAAACTCATCCGAATGATGTGAAACAGAC
+Score: 23
+Start position in database sequence: 5954.0
+End position in database sequence: 5983.0
+>read17.599
+GTCCCGGGCCCATAAATCGAATCAACTCCC
+GTCCCGGGCCCATAAATCGAATCAACTCCC
+Score: 23
+Start position in database sequence: 961.0
+End position in database sequence: 990.0
+>read17.600
+TGGAATATGCCCAAGAAGATTGTGATGTTG
+TGGAATATGCCCAAGAAGATTGTGATGTTG
+Score: 23
+Start position in database sequence: 18827.0
+End position in database sequence: 18856.0
+>read17.601
+AACCACCAGTTCAATTGCGAGTGCTCCGTG
+AACCACCAGTTCAATTGCGAGTGCTCCGTG
+Score: 23
+Start position in database sequence: 5458.0
+End position in database sequence: 5487.0
+>read17.602
+TACGCCAGTGAGCCAGCCGACTGCCTTAGT
+TACGCCAGTGAGCCAGCCGACTGCCTTAGT
+Score: 23
+Start position in database sequence: 15852.0
+End position in database sequence: 15881.0
+>read17.603
+TGACGATGGCCACAGAATGGTGCTGCAGA
+TGACGAGGGCCACAGAATGGTGCTGCAGA
+Score: 23
+Start position in database sequence: 6404.0
+End position in database sequence: 6432.0
+>read17.604
+TTTGGTGATTCAACATTCAAACTCTGTGGA
+TTTGGTGATTCAACATTCAAACTCTGTGGA
+Score: 23
+Start position in database sequence: 1918.0
+End position in database sequence: 1947.0
+>read17.605
+TTGAGTTCGTCGCGGACTCTTCCCCCTTCA
+TTGAGTTCGTCGCGGACTCTTCCCCCTTCA
+Score: 23
+Start position in database sequence: 1182.0
+End position in database sequence: 1211.0
+>read17.606
+CGGAAAGACTCTGCCGCTGTGCTGGGGGAG
+CGGAAAGACTCTGCCGCTGTGCTGGGGGAG
+Score: 23
+Start position in database sequence: 9783.0
+End position in database sequence: 9812.0
+>read17.607
+TGCGTTTGAGCTCCTGAGGCGAGAACCCA
+TGGGTTTGAGCTCCTGAGGCGAGAACCCA
+Score: 23
+Start position in database sequence: 4296.0
+End position in database sequence: 4324.0
+>read17.608
+CGCTTACTCGGTGCACCGTCGAATATGCGA
+CGCTTACTCGGTGCACCGTCGAATATGCGA
+Score: 23
+Start position in database sequence: 7856.0
+End position in database sequence: 7885.0
+>read17.609
+TCGCGAGCTTTCGCACGCTCGATTGGGGCT
+TCGCGAGCTTTCGCACGAGCGATTGGGGCT
+Score: 13
+Start position in database sequence: 16144.0
+End position in database sequence: 16173.0
+>read17.610
+GCAGGCCCGGTTTTGCTCCTTCAGCGAAGG
+GCAGGCCCGGTTTTGCTCCTTCAGCGAAGG
+Score: 23
+Start position in database sequence: 17564.0
+End position in database sequence: 17593.0
+>read17.611
+CGGAGTTGGTCCCAGCTATGTGCGGTATAC
+CGGAGTTGGTCCCAGCTATGTGCGGTATAC
+Score: 23
+Start position in database sequence: 16844.0
+End position in database sequence: 16873.0
+>read17.612
+GCGAGGTTTGTGTATCACGATGAGTTTAA
+GCGAGGTATGTATATCACGATGAGTTTAA
+Score: 18
+Start position in database sequence: 15353.0
+End position in database sequence: 15381.0
+>read17.613
+ACATGGTCTTGCCACTCAGGTCCTAGCGCT
+ACATGGTCTTGCCACTCAGTTCCTAGCGCT
+Score: 18
+Start position in database sequence: 17163.0
+End position in database sequence: 17192.0
+>read17.614
+CCTCCGATACCCAATAAATGAACGTAGTGT
+CCTCCGATACCCAATAAATGAACGTAGTGT
+Score: 23
+Start position in database sequence: 54.0
+End position in database sequence: 83.0
+>read17.615
+ACCGGTACGGGCACATGCAAACTCGCGTA
+ACCGGTACAGGCACATGCAAACTCGCGTA
+Score: 23
+Start position in database sequence: 6840.0
+End position in database sequence: 6868.0
+>read17.616
+ATGTTAACAGGGAGTCCCTGATACTATCTG
+ATGTTAACAGGGAGTCCCTGATACTATCTG
+Score: 23
+Start position in database sequence: 8859.0
+End position in database sequence: 8888.0
+>read17.617
+GCGTTATGCGTTTGAGCTCCTGAGGCGAGA
+GCGTTATGCGTTTGAGCTCCTGAGGCGAGA
+Score: 23
+Start position in database sequence: 4290.0
+End position in database sequence: 4319.0
+>read17.618
+AATAAAGAAGAAGTAATACAACCCGATGCA
+AATAAAGAAGAAGTAATACAACCCGATGCA
+Score: 23
+Start position in database sequence: 9878.0
+End position in database sequence: 9907.0
+>read17.619
+AACAAGAAGAGCGCTAGTCCCTAAAGGGAG
+AACAAGAAGAGCGCTAGTCCCTAAAGGGAG
+Score: 23
+Start position in database sequence: 19931.0
+End position in database sequence: 19960.0
+>read17.620
+GGCACAGTACTCCCTTCTCAGAGATGCGAG
+GGCACAGTACTCCCTTCTCAGAGATGCGAG
+Score: 23
+Start position in database sequence: 14141.0
+End position in database sequence: 14170.0
+>read17.621
+GCAACTGTCCTGCCTAGAGTCCATAGACAC
+GCAACTGTCCTGCCTAGAGTCCATAGACAC
+Score: 23
+Start position in database sequence: 4377.0
+End position in database sequence: 4406.0
+>read17.622
+TGTGAAACAGACGTGATAGGCTATTTACCT
+TGTGAAACAGACGTGATAGGCTATTTACCT
+Score: 23
+Start position in database sequence: 5972.0
+End position in database sequence: 6001.0
+>read17.623
+GGAACCTGACTTGAACTTACAGCACCAGGC
+GGAACCTGACTTGAACTTACAGCACCAGGC
+Score: 23
+Start position in database sequence: 5754.0
+End position in database sequence: 5783.0
+>read17.624
+CCTGGTAGTATCCGGGTTAAGTGCGAAGCT
+CCTGGTAGTATCCGGGTTAAGTGCGAAGCT
+Score: 23
+Start position in database sequence: 8319.0
+End position in database sequence: 8348.0
+>read17.625
+CAGGGGGTTGCTAGGGTATCTCGGAAGTGA
+CAGGGGGTTGCTAGGGTATCTCGGAAGTGA
+Score: 23
+Start position in database sequence: 9567.0
+End position in database sequence: 9596.0
+>read17.626
+CTTTTACATGAGTGGCAGGCCGCCGGCCCC
+CTTTTACATGAGTGGCAGGCCGCCGGCCCC
+Score: 23
+Start position in database sequence: 17246.0
+End position in database sequence: 17275.0
+>read17.627
+CAGGTCACTGATGGCAGCGGGTGCACGCGT
+CAGGTCACTGATGGCAGCGGGTGCACGCGT
+Score: 23
+Start position in database sequence: 14767.0
+End position in database sequence: 14796.0
+>read17.628
+ACATACACATGACAGCGTACGTAAGTCCTT
+ACATACACATGACAGCGTACGTAAGTCCTT
+Score: 23
+Start position in database sequence: 10840.0
+End position in database sequence: 10869.0
+>read17.629
+ACTAAGTCGACCTCTGACCGGCATAGCGAA
+ACTAAGTCGACCTCTGACCGGCATAGCGAA
+Score: 23
+Start position in database sequence: 15653.0
+End position in database sequence: 15682.0
+>read17.630
+CACAAAAATGGCATCTTAATTTTTTGTCTC
+CACAAAAATGGCATCTTAATTTTTTGTCTC
+Score: 23
+Start position in database sequence: 2573.0
+End position in database sequence: 2602.0
+>read17.631
+GCCATGATACTCCGCTATCTGATGTTCGAG
+GCCATGATACTCCGCTATCTGATGTTCGAG
+Score: 23
+Start position in database sequence: 11613.0
+End position in database sequence: 11642.0
+>read17.632
+TGAGAGTATATAGAACCATAAACATCATCG
+TGAGAGTATATAGAACCATAAACATCATCG
+Score: 23
+Start position in database sequence: 3595.0
+End position in database sequence: 3624.0
+>read17.633
+GGGCCCGCGCTGGGAAAGAATACTGCGGTG
+GGGCCCGCGCTGGGAAAGAATACTGCGGTG
+Score: 23
+Start position in database sequence: 14926.0
+End position in database sequence: 14955.0
+>read17.634
+ATGCTTCGGCAACAAAACCACCGCTTCGAT
+ATGCTTCGGCAACAAAACCACCGCTTCGAT
+Score: 23
+Start position in database sequence: 17298.0
+End position in database sequence: 17327.0
+>read17.635
+TCGATCTGTCTGACAAAGGATGACTGTCCC
+TCGATCTGTCTGACAAAGGATGACTGTCCC
+Score: 23
+Start position in database sequence: 2194.0
+End position in database sequence: 2223.0
+>read17.636
+ACCCCCTGGGATTAGTCTATTGGGGGCAGT
+ACCCCCTGGGATTAGTCTATTGAGGGCAGT
+Score: 18
+Start position in database sequence: 8090.0
+End position in database sequence: 8119.0
+>read17.637
+CGCATGAAGATGAACCCCTTTTTAGTTATT
+CGCATGAAGATGAACCCCTTTTTAGTTATT
+Score: 23
+Start position in database sequence: 19134.0
+End position in database sequence: 19163.0
+>read17.638
+GTGTCCCAGATACCGCGCAAGAACTTTCG
+GTGTCCCACATACCGCGCAAGAACTTTCG
+Score: 23
+Start position in database sequence: 18797.0
+End position in database sequence: 18825.0
+>read17.639
+GCATAGCGAACTACTGACGAAGCCCCGCAC
+GCATAGCGAACTACTGACGAAGCCCCGCAC
+Score: 23
+Start position in database sequence: 15673.0
+End position in database sequence: 15702.0
+>read17.640
+TCGCTCGTTACCTACGGGAGTTCAACTACT
+TCGCTCGTTACCTACGGGAGTTCAACTACT
+Score: 23
+Start position in database sequence: 13570.0
+End position in database sequence: 13599.0
+>read17.641
+CGTCCTGAACTATGTTGGCTAATTTGCTTT
+CGTCCTGAACTATGTTGGCTAATTTGCTTT
+Score: 23
+Start position in database sequence: 6617.0
+End position in database sequence: 6646.0
+>read17.642
+ACATGGAGTCGGGACCCCCCCTTGACCTGG
+ACATGGAGTCGGGACCCCCCCTTGACCTGG
+Score: 23
+Start position in database sequence: 14251.0
+End position in database sequence: 14280.0
+>read17.643
+TGTACGCGGACGGCCCTTAAATGTCATTGT
+TGTACGCGGACGGCCCTTAAATGTCATTGT
+Score: 23
+Start position in database sequence: 14533.0
+End position in database sequence: 14562.0
+>read17.644
+ACAATGAGTACATGGGTGCATGAACCCATC
+ACAATGAGTACATGGGTGCATGAACCCATC
+Score: 23
+Start position in database sequence: 3487.0
+End position in database sequence: 3516.0
+>read17.645
+GAATTGTGAGGCTTGGGCCGCGTTCAAAAG
+GAATTGTGAGGCTTGGGCCGCGTTCAAAAG
+Score: 23
+Start position in database sequence: 12910.0
+End position in database sequence: 12939.0
+>read17.646
+AAGACCTCGAATTGACGTCTCCGGCTACGC
+AAGACCTCGAATTGACGTCTCCGGCTACGC
+Score: 23
+Start position in database sequence: 19574.0
+End position in database sequence: 19603.0
+>read17.647
+CGATGCTACCACCAGGACCTATCATTCTAC
+CGATGCTACCACCAGGACCTATCTTTCTAC
+Score: 18
+Start position in database sequence: 4923.0
+End position in database sequence: 4952.0
+>read17.648
+TACGGTAAGGATCGCGATCAGAACAGTACC
+TACGGTAAGGATCGCGATCAGAACAGTACC
+Score: 23
+Start position in database sequence: 16240.0
+End position in database sequence: 16269.0
+>read17.649
+GCACTGGCAAGACCTCGAATTGACGTCTCC
+GCACTGGCAAGACCTCGAATTGACGTCTCC
+Score: 23
+Start position in database sequence: 19566.0
+End position in database sequence: 19595.0
+>read17.650
+AGTTCTACACAGATTCGAAGCCATCAAACA
+AGTTCTACACAGATTCGAAGCCATCAAACA
+Score: 23
+Start position in database sequence: 262.0
+End position in database sequence: 291.0
+>read17.651
+TTGACAAAGGCAAATAAGAGTAATTGTACGC
+TTGACAAAGGCAATTAAGAGTAATTGTACG-
+Score: 20
+Start position in database sequence: 14509.0
+End position in database sequence: 14539.0
+>read17.652
+ACTTTTAGTGAGGTGAAGGCTAGTACTTCT
+ACTTTTAGTGAGGTGAAGGCTAGTACTTCT
+Score: 23
+Start position in database sequence: 17216.0
+End position in database sequence: 17245.0
+>read17.653
+AGCAGGTTGTATTGGAACCAAATAGTTTAG
+AGCAGGTTGTATTGGAAACAAATAGTTTAG
+Score: 18
+Start position in database sequence: 1795.0
+End position in database sequence: 1824.0
+>read17.654
+ATTTTTTGTCTCCTCACATAAACTTTAGCT
+ATTTTTTGTCTCCTCACATAAACTTTAGCT
+Score: 23
+Start position in database sequence: 2591.0
+End position in database sequence: 2620.0
+>read17.655
+CCGACTATAAACAGTATTATCCGTGTACCA
+CCGACTATAAACAGTATTATCCGTGTACCA
+Score: 23
+Start position in database sequence: 8811.0
+End position in database sequence: 8840.0
+>read17.656
+GGATGGGATTCTAACACAGTTCCACTGACC
+GGATGGGATTCTAACACAGTTCCACTGACC
+Score: 23
+Start position in database sequence: 2322.0
+End position in database sequence: 2351.0
+>read17.657
+TCCCCTATAGGATCCTTCATACACTGTGCG
+TCCCCTATAGGATCCTTCATACACTGTGCG
+Score: 23
+Start position in database sequence: 13256.0
+End position in database sequence: 13285.0
+>read17.658
+AAATGCCACGTACCGTGTAGTTGGGAAGAT
+AAATGCCACGTACCGTGTATTTGGGAAGAT
+Score: 18
+Start position in database sequence: 15938.0
+End position in database sequence: 15967.0
+>read17.659
+GCGGCATGCGCTCCTCGGGGCTTGTATGGC
+GCGGCATGCGCTCCTCGGGGCTTGTATGGC
+Score: 23
+Start position in database sequence: 19673.0
+End position in database sequence: 19702.0
+>read17.660
+GACAATATGCGCAGCATCGCTACGAGCTGA
+GACAATATGCGCAGCATCGCTACGAGCTGA
+Score: 23
+Start position in database sequence: 1499.0
+End position in database sequence: 1528.0
+>read17.661
+GTTTACGTCTCATTATGTTCGGGAGAGTA
+GTTTGCGTCTCATTATGTTCGGGAGAGTA
+Score: 23
+Start position in database sequence: 3398.0
+End position in database sequence: 3426.0
+>read17.662
+TTGCCGACTAGAGTGTGGTCCCACTCTCCC
+TTGCCGACTAGAGTGTGGTCCCACTCTCCC
+Score: 23
+Start position in database sequence: 14847.0
+End position in database sequence: 14876.0
+>read17.663
+TACGTAAGTCCTTTCTAATTCCGCAGGTAC
+TACGTAAGTCCTTTCTAATTCCGCAGGTAC
+Score: 23
+Start position in database sequence: 10857.0
+End position in database sequence: 10886.0
+>read17.664
+GTCGCCATCAGTTGTCATTCATTTCGAATC
+GTCGCCATCAGTTGTCATTCATTTCGAATC
+Score: 23
+Start position in database sequence: 8512.0
+End position in database sequence: 8541.0
+>read17.665
+ACGTCGAGATGAGTATTCACCTAATGGTGC
+ACGTCGAGATGAGTATTCACCTAATGGTGC
+Score: 23
+Start position in database sequence: 7707.0
+End position in database sequence: 7736.0
+>read17.666
+TGAACCGACGTAGGCATAACTCACTATTAC
+TGAACCGACGTAGGCATAACTCACTATTAC
+Score: 23
+Start position in database sequence: 5609.0
+End position in database sequence: 5638.0
+>read17.667
+CTTCGATTTGCACCCCCCGTAGCCGCAAGA
+CTTCGATTTGCACCCCCCGTAGCCGCAAGA
+Score: 23
+Start position in database sequence: 17321.0
+End position in database sequence: 17350.0
+>read17.668
+TACTTTGCCGCTTCCCACTTGTTTCTTTCC
+TACTTTGCCGCTTCCCACTTGTTTCTTTCC
+Score: 23
+Start position in database sequence: 16357.0
+End position in database sequence: 16386.0
+>read17.669
+TTTTCCTGGCCCTCTATGATAAAGCTTGAG
+TTTTCCTGGCCCTCTATGATAAAGCTTGAG
+Score: 23
+Start position in database sequence: 1561.0
+End position in database sequence: 1590.0
+>read17.670
+AGAGATAGACAATAATGGGCTATACTGCGA
+AGAGATAGACAATAATGGGCTATACTGCGA
+Score: 23
+Start position in database sequence: 12567.0
+End position in database sequence: 12596.0
+>read17.671
+CCAACCATATGGGGTACAGGCCTGCCATGA
+CCAACCATATGGGGTACAGGCCTGCCATGA
+Score: 23
+Start position in database sequence: 11590.0
+End position in database sequence: 11619.0
+>read17.672
+CTACTGGCGATATAACTCCATAATGCTGTG
+CTACTGGCGATATAACTCCATAATGCTGTG
+Score: 23
+Start position in database sequence: 4674.0
+End position in database sequence: 4703.0
+>read17.673
+CACTGATGGCAGCGGGTGCACGCGTGCAGC
+CACTGATGGCAGCGGGTGCACGCGTGCAGC
+Score: 23
+Start position in database sequence: 14772.0
+End position in database sequence: 14801.0
+>read17.674
+CGAACAACTTCTTTGGCTCCTTGTTACTAT
+CGAACAACTTCTTTGGCTCCTTGTTACTAT
+Score: 23
+Start position in database sequence: 7379.0
+End position in database sequence: 7408.0
+>read17.675
+TGTGGTTTCGAACGCTTCTTCGCCGATCCT
+TGTGGTTTCGAACGCTTCTTCGCCGATCCT
+Score: 23
+Start position in database sequence: 1695.0
+End position in database sequence: 1724.0
+>read17.676
+CGCCGGCATCATTAGCTCAATTGAAGTTGC
+CGCCGGCATCATTAGCTCAATTGAAGTTGC
+Score: 23
+Start position in database sequence: 12864.0
+End position in database sequence: 12893.0
+>read17.677
+TTGCGCCCCATGGGATCACGTATAGATTTT
+TTGCGCCCCATGGGATCACGTATAGATGTT
+Score: 18
+Start position in database sequence: 8479.0
+End position in database sequence: 8508.0
+>read17.678
+AGGACCATCTCTTATCACAGCGGAGGTTTC
+AGGACCATCTCTTATCACAGCGGAGGTTTC
+Score: 23
+Start position in database sequence: 19234.0
+End position in database sequence: 19263.0
+>read17.679
+CTACCCTCGTTTTGTGCTAAGTACAGAACA
+CTACCCTCGTTTTGTGCTAAGTACAGAACA
+Score: 23
+Start position in database sequence: 8661.0
+End position in database sequence: 8690.0
+>read17.680
+AGATTCGAAGCCATCAAACATGTGATAACC
+AGATTCGAAGCCATCAAACATGTGATAACC
+Score: 23
+Start position in database sequence: 272.0
+End position in database sequence: 301.0
+>read17.681
+TGACGAGTGCCACTGAGTAACATTGCCCA
+TGACCAGTGCCACTGAGTAACATTGCCCA
+Score: 23
+Start position in database sequence: 11564.0
+End position in database sequence: 11592.0
+>read17.682
+CTGAACTATGTTGGCTAATTTGCTTTACC
+CTGAACTATGATGGCTAATTTGCTTTACC
+Score: 23
+Start position in database sequence: 6621.0
+End position in database sequence: 6649.0
+>read17.683
+ACTACACCATAGACTGTGCGCTCAACAGCC
+ACTACACCATAGACTGTGCGCTCAACAGCC
+Score: 23
+Start position in database sequence: 12241.0
+End position in database sequence: 12270.0
+>read17.684
+AAACGAGGAACCTGACTTGAACTTACAGCA
+AAACGAGGAACCTGACTTGAACTTACAGCA
+Score: 23
+Start position in database sequence: 5748.0
+End position in database sequence: 5777.0
+>read17.685
+CTTCCTGCTATAGAAAAATGCCCATACGGG
+CTTCCTGCTATAGAAAAATGCCCATACGGG
+Score: 23
+Start position in database sequence: 19817.0
+End position in database sequence: 19846.0
+>read17.686
+TAAGATCAGGATCAAAGCGAAGCAGTATGT
+TAAGATCAGGATCAAAGCGAAGCAGTATGT
+Score: 23
+Start position in database sequence: 9994.0
+End position in database sequence: 10023.0
+>read17.687
+ATAGTCGGGTGCGTGCGCAAAAGGCGCGGT
+ATAGTCGGGTGCGTGCGCAAAAGGCGCGGT
+Score: 23
+Start position in database sequence: 11752.0
+End position in database sequence: 11781.0
+>read17.688
+CACCAGTTCAATTGCGAGTGCTCCGTGGGT
+CACCAGTTCAATTGCGAGTGCTCCGTGGGT
+Score: 23
+Start position in database sequence: 5461.0
+End position in database sequence: 5490.0
+>read17.689
+TCCGAATTGCCTCACCGTTCGTTTTGACCT
+TCCGAATTGCCTCACCGTTCGTTTTGACCT
+Score: 23
+Start position in database sequence: 827.0
+End position in database sequence: 856.0
+>read17.690
+TTGTAGGTCTCTATAGTAACCCATAGAAGG
+TTGTAGGTCTCTATAGTAACCCATAGAAGG
+Score: 23
+Start position in database sequence: 11947.0
+End position in database sequence: 11976.0
+>read17.691
+GAGAAGGGGTCAATTCCCCAAGGGTAGATA
+GAGAAGGGGTCAATTCCCCAAGGGTAGATA
+Score: 23
+Start position in database sequence: 18644.0
+End position in database sequence: 18673.0
+>read17.692
+GCGGTGGCCGTGCAGGAGGCAACGTCTAAT
+GCGGTGGCCGTGCAGGAGGCATCGTCTAAT
+Score: 18
+Start position in database sequence: 6896.0
+End position in database sequence: 6925.0
+>read17.693
+AAGTGGATGGGATTCTAACACAGTTCCACT
+AAGTGGATGGGATTCTAACACAGTTCCACT
+Score: 23
+Start position in database sequence: 2318.0
+End position in database sequence: 2347.0
+>read17.694
+GCTCGTAGCAATGAAAGGACACGATGGCGC
+GCTCGTAGCAATGAAAGGACACGATGGCGC
+Score: 23
+Start position in database sequence: 10601.0
+End position in database sequence: 10630.0
+>read17.695
+TCATCCAGTAGGCTTTCAGATTCACGCATT
+TCATCCAGTAGGCTTTCAGATTCACGCATT
+Score: 23
+Start position in database sequence: 14057.0
+End position in database sequence: 14086.0
+>read17.696
+AATGTGGTAGTCTGCTCTAGCGCGAGATCT
+AATGTGGTAGTCTGCTCTAGCGCGAGATCT
+Score: 23
+Start position in database sequence: 13496.0
+End position in database sequence: 13525.0
+>read17.697
+TGGGTACATCCCACGTTCACTTGATGTATT
+TGGGTACATCCCACGTTCACTTGATGTATT
+Score: 23
+Start position in database sequence: 14278.0
+End position in database sequence: 14307.0
+>read17.698
+AGCTGAGTTAAATGGCTACGCGGTGTATTA
+AGCTGAGTTAAATGGCTACGCGGTCTATTA
+Score: 18
+Start position in database sequence: 8345.0
+End position in database sequence: 8374.0
+>read17.699
+CCACACCTGTATCCCTCTCCAATGACGATG
+CCACACCTGTATCCCTCTCCAATGACGATG
+Score: 23
+Start position in database sequence: 6382.0
+End position in database sequence: 6411.0
+>read17.700
+ATGGAGACTTCGGCAGGTTACAACAGTACT
+ATGGAGACTTCGGCAGGTTACAACAGTACT
+Score: 23
+Start position in database sequence: 16978.0
+End position in database sequence: 17007.0
+>read17.701
+Query not found!!Query not found!!Score: -1
+>read17.702
+TGATATGCTCTCGCGATGGTCGGCTATGT
+TGCTATGCTCTCGCGATGGTCGGCTATGT
+Score: 23
+Start position in database sequence: 4235.0
+End position in database sequence: 4263.0
+>read17.703
+TAGTCCGCGCCTACAATGATACTCGAAAT
+TAGTCCGCGTCTACAATGATACTCGAAAT
+Score: 23
+Start position in database sequence: 15222.0
+End position in database sequence: 15250.0
+>read17.704
+AAGTGATTACCTGGTTCGTTCGAAGCCGT
+AAGTGATTTCCTGGTTCGTTCGAAGCCGT
+Score: 23
+Start position in database sequence: 9591.0
+End position in database sequence: 9619.0
+>read17.705
+GAACCAACGTACCGGAGGGGTCGAGCGATG
+GAACCAACGTACCGGAGGGGTCGAGCGATG
+Score: 23
+Start position in database sequence: 8721.0
+End position in database sequence: 8750.0
+>read17.706
+TATCGGTGAAGGGAACAAATGGGGCAAACA
+TATCGGTGAAGGGAACAAATGGGGCAAACA
+Score: 23
+Start position in database sequence: 5417.0
+End position in database sequence: 5446.0
+>read17.707
+GGTACTGGCACCCGCGACCCCGAGGTTCCG
+GGTACTGGCACCCGCGACCCCGAGGTTCCG
+Score: 23
+Start position in database sequence: 16770.0
+End position in database sequence: 16799.0
+>read17.708
+AGAGTTACAGGCACGTTTGTCGTGGCACTT
+AGAGTTACAGGCACGTTTGTCGTGGCACTT
+Score: 23
+Start position in database sequence: 2428.0
+End position in database sequence: 2457.0
+>read17.709
+AGGAGTGCCTTTTCGACTAAGACTAAGGTT
+AGGAGTGCCTTTTCGACTAAGACTAAGGTT
+Score: 23
+Start position in database sequence: 1066.0
+End position in database sequence: 1095.0
+>read17.710
+TGCGCAAAAGGCGCGGTCAGGCGGGTATGC
+TGCGCAAAAGGCGCGGTCAGGCGGGTATGC
+Score: 23
+Start position in database sequence: 11765.0
+End position in database sequence: 11794.0
+>read17.711
+TACGGCTCTGGTCCGGTTACCCGGACCCTT
+TACGGCTCTGGTCCGGTTACCCGGACCCTT
+Score: 23
+Start position in database sequence: 769.0
+End position in database sequence: 798.0
+>read17.712
+TAACGCACGCACTGGCAAGACCTCGAATTG
+TAACGCACGCACGGGCAAGACCTCGAATT-
+Score: 18
+Start position in database sequence: 19558.0
+End position in database sequence: 19587.0
+>read17.713
+ACTCCCGGGGGGCGTCACTATGGAGCGCGC
+ACTCCCGGGGGGCGTCACTATGGAGCCCGC
+Score: 18
+Start position in database sequence: 19621.0
+End position in database sequence: 19650.0
+>read17.714
+GCTTTGTGGCACGTTCTAGGTTCCTACTCT
+GCTTTGTGGCACGTTCTAGGTTCCTACTCT
+Score: 23
+Start position in database sequence: 19789.0
+End position in database sequence: 19818.0
+>read17.715
+CCTGATTGCACCCACGACCAAAGGCTAAGT
+CCTGATTGCACCCACGACCAAAGGCTAAGT
+Score: 23
+Start position in database sequence: 1722.0
+End position in database sequence: 1751.0
+>read17.716
+ATAAAGCTTGAGACTCTACAGAAATACTGA
+ATAAAGCTTGAGACTCTACAGAAATACTGA
+Score: 23
+Start position in database sequence: 1579.0
+End position in database sequence: 1608.0
+>read17.717
+CTTGTTTCTTTCCCATAAATGTACCTGTAA
+CTTGTTTCTTTCCCATAAATGTACCTGTAA
+Score: 23
+Start position in database sequence: 16374.0
+End position in database sequence: 16403.0
+>read17.718
+GCCAGGCCCTCACCACTTAAGCCGAGTGAA
+GCCAGGCCCTCATCACTTAAGCCGAGTGA-
+Score: 18
+Start position in database sequence: 12760.0
+End position in database sequence: 12789.0
+>read17.719
+GGGGCAAACACTCAGCGCGCGAACCACCAG
+GGGGCAAACACTCAGCGCGCGAACCACCAG
+Score: 23
+Start position in database sequence: 5437.0
+End position in database sequence: 5466.0
+>read17.720
+AATGCCGGAAAAGCCACTCGCTACAAGTAT
+AATGCCGGAAAAGCCACTCGCTACAAGTAT
+Score: 23
+Start position in database sequence: 16527.0
+End position in database sequence: 16556.0
+>read17.721
+CGTAGCAATGGTGCAAGAGAATGCCAGTTC
+CGTAGCAATGGTGCAAGAGAATGCCAGTTC
+Score: 23
+Start position in database sequence: 237.0
+End position in database sequence: 266.0
+>read17.722
+TCGGCTTGCTCTTAACTTGTGGTCGAGTC
+TCGACTTGCTCTTAACTTGTGGTCGAGTC
+Score: 23
+Start position in database sequence: 11086.0
+End position in database sequence: 11114.0
+>read17.723
+GCTCATGCGCGTGCTTACGCGGTAGTTACG
+GCTCATGCGCGTGCTTACGCGGTAGTTACG
+Score: 23
+Start position in database sequence: 15534.0
+End position in database sequence: 15563.0
+>read17.724
+CACGTTGAACAAACGATTCTGATCTTTCTT
+CACGTTGAACAAACGATTCTGATCTTTCTT
+Score: 23
+Start position in database sequence: 14712.0
+End position in database sequence: 14741.0
+>read17.725
+GTGAGGCGTTAGTAATACCGCCTCATTGTA
+GTGAGGCGTTAGTAATACCACCTCATTGTA
+Score: 18
+Start position in database sequence: 6097.0
+End position in database sequence: 6126.0
+>read17.726
+ACTCCACCCCTTGCTATTCAAAGAGTACTT
+ACTCCACCCCTTGCTATTCAAAGAGTACTT
+Score: 23
+Start position in database sequence: 13334.0
+End position in database sequence: 13363.0
+>read17.727
+TTGACGGTCATAGCACTCCAAAGTCCCTGC
+TTGACGGTCATAGCACTCCAAAGTCCCTGC
+Score: 23
+Start position in database sequence: 699.0
+End position in database sequence: 728.0
+>read17.728
+AGGCGGGTATGCTGTGACCTTGGCCACAAA
+AGGCGGGTATGCTGTGACCTTGGCCACAAA
+Score: 23
+Start position in database sequence: 11783.0
+End position in database sequence: 11812.0
+>read17.729
+CGGGTCACTACTATCCGTAGGACCATCTCT
+CGGGTCACTACTATCCGTAGGACCATATCT
+Score: 18
+Start position in database sequence: 19216.0
+End position in database sequence: 19245.0
+>read17.730
+CAGAATGGCAGACATGCATGTTTGCTAAC
+CAGAACGGCAGACATGCATGTTTGCTAAC
+Score: 23
+Start position in database sequence: 3522.0
+End position in database sequence: 3550.0
+>read17.731
+TGTATTAACTATGGTGGTCGGTGGGGTGCC
+TGTATTAACTATGGTGGTCGGTGGGGTGCC
+Score: 23
+Start position in database sequence: 8368.0
+End position in database sequence: 8397.0
+>read17.732
+CCCCCTAGAAAACTGGATACACAGAAACAG
+CCCCCTAGAAAACTGGATACACAGAAACAG
+Score: 23
+Start position in database sequence: 6147.0
+End position in database sequence: 6176.0
+>read17.733
+CTGGTGACTACGAACTGCGGAAATTGCTTG
+CTGGTGACTACGAACTGCGGAAATTGCTTG
+Score: 23
+Start position in database sequence: 14018.0
+End position in database sequence: 14047.0
+>read17.734
+GATTGGTGACATAGGAGCCGAATGGTTAAC
+GATTGGTGACATAGGAGCCGAATGGTTAAC
+Score: 23
+Start position in database sequence: 9452.0
+End position in database sequence: 9481.0
+>read17.735
+TGCAGCGGTCGTACTTGGCATTCTTACTT
+TGCAGAGGTCGTACTTGGCATTCTGACTT
+Score: 18
+Start position in database sequence: 14796.0
+End position in database sequence: 14824.0
+>read17.736
+GTCCAGCGAAAATAGCATCGGCGAAATACA
+GTCCAGCGAAAATAGCATCGGCGCAATACA
+Score: 18
+Start position in database sequence: 18413.0
+End position in database sequence: 18442.0
+>read17.737
+TTTGCTAGAAGAGTTAGGCGGCGAAGGCAC
+TTTGCTAGAAGAGTTAGGCGGCGAAGGCAC
+Score: 23
+Start position in database sequence: 9825.0
+End position in database sequence: 9854.0
+>read17.738
+CGATCATGTATACTCCTTTGACCGGGGGCT
+CGATCATGTATATTCCTTTGACCGGGGGC-
+Score: 18
+Start position in database sequence: 17055.0
+End position in database sequence: 17084.0
+>read17.739
+TCAAACTCTGTGGATGGGCCGACGCGAAC
+TCAAACTCCGTGGATGGGCCGACGCGAAC
+Score: 23
+Start position in database sequence: 1934.0
+End position in database sequence: 1962.0
+>read17.740
+GCACCATTCCCTGCCCACCTCCTCCTAGAA
+GCACCATTCCCTGCCCACCTCCTCCTAGAA
+Score: 23
+Start position in database sequence: 2655.0
+End position in database sequence: 2684.0
+>read17.741
+CAATGAGCGCTGATAGATGATTCCAGCAGA
+CAATGAGCGCTGATAGATGATTCCAGCAGA
+Score: 23
+Start position in database sequence: 14479.0
+End position in database sequence: 14508.0
+>read17.742
+ACTACACCATAGACTGTGCGCTCAACAGCC
+ACTACACCATAGACTGTGCGCTCAACAGCC
+Score: 23
+Start position in database sequence: 12241.0
+End position in database sequence: 12270.0
+>read17.743
+CCTGTGATGTTCTTCAGCCCTCCTCGTATG
+CCTGTGATGTTCTTCAGCCCTCCTCGTATG
+Score: 23
+Start position in database sequence: 13132.0
+End position in database sequence: 13161.0
+>read17.744
+CCGTTTTCTGACCTTCACCCCGCAGTGTGT
+CCGTTTTCTGACCTTCACCCCGCAGTTTGT
+Score: 18
+Start position in database sequence: 868.0
+End position in database sequence: 897.0
+>read17.745
+AGCCCCTACTTCGACGAAGGATCCGAGAAG
+AGCCCCTACTTCGACGAAGGATCCGAGAAG
+Score: 23
+Start position in database sequence: 19875.0
+End position in database sequence: 19904.0
+>read17.746
+CACAGAAACAGCCACCCGAGCTGCAAGCTT
+CACAGAAACAGCCACCCGAGCTGCAAGCTT
+Score: 23
+Start position in database sequence: 6166.0
+End position in database sequence: 6195.0
+>read17.747
+ATACCGCGTTAGTCTGCGGATTATTGAAGT
+ATACCGCGTTAGTCTGCGGATTATTGAAGT
+Score: 23
+Start position in database sequence: 15723.0
+End position in database sequence: 15752.0
+>read17.748
+CACCAGGATTGCGCCCCATGGGATCACGTA
+CACCAGGATTGCGCCCCATGGGATCACGTA
+Score: 23
+Start position in database sequence: 8471.0
+End position in database sequence: 8500.0
+>read17.749
+ATCAGGGCAGTGGTATCTTCCGCCCGCGCG
+ATCAGGGCAGTGGTATCTTCCGCCCGCGCG
+Score: 23
+Start position in database sequence: 1608.0
+End position in database sequence: 1637.0
+>read17.750
+CTATAACGTGCACCCCACATTAGACCGTTG
+CTATAACGTGCACCCCACATTAGACCGTTG
+Score: 23
+Start position in database sequence: 12186.0
+End position in database sequence: 12215.0
+>read17.751
+GAACATCTGTACAAAGCATTTGGACATGAA
+GAACATCTGTACAAAGCATTTGGACATGAA
+Score: 23
+Start position in database sequence: 17761.0
+End position in database sequence: 17790.0
+>read17.752
+CGCTTACTCGGTGCACCGTCGAATATGCGA
+CGCTTACTCGGTGCACCGTCGAATATGCGA
+Score: 23
+Start position in database sequence: 7856.0
+End position in database sequence: 7885.0
+>read17.753
+CAATGATCCAATGGCTTCATGGGTGCGGAA
+CAATGATCCAATGGCTTCATGGGTGCGGAA
+Score: 23
+Start position in database sequence: 8283.0
+End position in database sequence: 8312.0
+>read17.754
+TGGCCAGGCCCTCACCACTTAAGCCGAGT
+TGGCCTGGCCCTCACCACTTAAGCCGAGT
+Score: 23
+Start position in database sequence: 12758.0
+End position in database sequence: 12786.0
+>read17.755
+CCGATAACTGATCCCGACACCAACGTTAAC
+CCGATAACTGATCCCGACACCAACGTTAAC
+Score: 23
+Start position in database sequence: 15008.0
+End position in database sequence: 15037.0
+>read17.756
+CTTGGTGGCTAGACAGCGCTTACAGCTACT
+CTTGGTGGCTAGACAGCGCTTACAGCTACT
+Score: 23
+Start position in database sequence: 11456.0
+End position in database sequence: 11485.0
+>read17.757
+CGGCCCCATTATTTTATAGGTTTTCTCAAC
+CGGCCCCATTATTTTATAGGTTTTCTCAAC
+Score: 23
+Start position in database sequence: 3707.0
+End position in database sequence: 3736.0
+>read17.758
+TTGGTATGGATGTCAGGAGTCAACTGCCTA
+TTGGTATGGATGTCAGGAGTCAACTGCCTA
+Score: 23
+Start position in database sequence: 11152.0
+End position in database sequence: 11181.0
+>read17.759
+GTCGATTATTGACGGTCATAGCACTCCAAA
+GTCGATTATTGACGGTCATAGCACTCCAAA
+Score: 23
+Start position in database sequence: 691.0
+End position in database sequence: 720.0
+>read17.760
+CAACTGATGTCATTATAGTAAGATTTCATA
+CAACTGATGTCATTATAGTAAGATTTCATA
+Score: 23
+Start position in database sequence: 12332.0
+End position in database sequence: 12361.0
+>read17.761
+TTTACCCTGGGTAAGGTTTGCAGGGGGTTG
+TTTACCCTGGGTAAGGTTTGCAGGGGGTTG
+Score: 23
+Start position in database sequence: 9547.0
+End position in database sequence: 9576.0
+>read17.762
+GTGTTCCAGTGGCCGCCCGACCATCTCTAT
+GTGTTCCAGTGGCCGCCCGACCATCTCTAT
+Score: 23
+Start position in database sequence: 16716.0
+End position in database sequence: 16745.0
+>read17.763
+GTACCAACAGACTCAAGGACGGCGGTGTTG
+GTACCAACAGACTCAATGACGGCGGTGTTG
+Score: 18
+Start position in database sequence: 5520.0
+End position in database sequence: 5549.0
+>read17.764
+GCTAAGTACAGAACAAGGGGGTTAGTGGGA
+GCTAAGTACAGAACAAGGGGGTTAGTGGGA
+Score: 23
+Start position in database sequence: 8676.0
+End position in database sequence: 8705.0
+>read17.765
+AGCACCAGGCAGTGTGTTGGATGCGTTAAA
+AGCACCAGGCAGTGTGTTGGATGCGTTAAA
+Score: 23
+Start position in database sequence: 5774.0
+End position in database sequence: 5803.0
+>read17.766
+GGAGTGGCGTCGGACGGCGGATTGTATAGG
+GGAGTGGCGTCGGACGGCGGATTGTATAGG
+Score: 23
+Start position in database sequence: 576.0
+End position in database sequence: 605.0
+>read17.767
+CTATGTGCCCGTCAGCTGGTGGATCTCGTG
+CTATGTGCCCGTCAGCTGGTGGATCTCGTG
+Score: 23
+Start position in database sequence: 11699.0
+End position in database sequence: 11728.0
+>read17.768
+ATGACAGCGTACGTAAGTCCTTTCTAATTC
+ATGACAGCGTACGTAAGTCCTTTCTAATTC
+Score: 23
+Start position in database sequence: 10848.0
+End position in database sequence: 10877.0
+>read17.769
+AACGTTCCCTATTATAGGGCGTTAACGCGA
+AACGTTCCCTATTATAGGGCGTTAACGCGA
+Score: 23
+Start position in database sequence: 1963.0
+End position in database sequence: 1992.0
+>read17.770
+CGTCCAGATTCAGGGGAGTTGCTATGTACA
+CGTCCAGATTCAGGGGAGTTGCTATGTACA
+Score: 23
+Start position in database sequence: 3346.0
+End position in database sequence: 3375.0
+>read17.771
+TTGATATCATGGAGGCCTTTTTACTTCGTT
+TTGATATCATGGAGGCCTTTTTACTTCGTT
+Score: 23
+Start position in database sequence: 14212.0
+End position in database sequence: 14241.0
+>read17.772
+AACTGTCCTGCCTAGAGTCCATAGACACTG
+AACTGTCCTGCCTAGAGTCCATAGACACTG
+Score: 23
+Start position in database sequence: 4379.0
+End position in database sequence: 4408.0
+>read17.773
+GGCGGGAATGGGGGACTACTGCGGGCGGA
+GGGGGGAATGGGGGACTACTGCCGGCGGA
+Score: 18
+Start position in database sequence: 18252.0
+End position in database sequence: 18280.0
+>read17.774
+GACCTCCCGAGGGAGGCCTCCGAGTCAGGC
+GACCTCCCGAGGGAGGCCTCCGAGTCAGGC
+Score: 23
+Start position in database sequence: 16184.0
+End position in database sequence: 16213.0
+>read17.775
+CCCGTCGAGCATCCAAGCTCAACTGATGTC
+CCCGTCGAGCATCCAAGCTCAACTGATGTC
+Score: 23
+Start position in database sequence: 12313.0
+End position in database sequence: 12342.0
+>read17.776
+TTCGGCAGGTTACAACAGTACTGCAAAAAA
+TTCGGCAGGTTACAACAGTACTGCAAAAAA
+Score: 23
+Start position in database sequence: 16986.0
+End position in database sequence: 17015.0
+>read17.777
+TGAGTCCCAAGGCCCATCTCTTTGTCTTTC
+TGAGTCCCAAGGCCCATCTCTTTGTCTTTC
+Score: 23
+Start position in database sequence: 18105.0
+End position in database sequence: 18134.0
+>read17.778
+ACAGAATGGTGCTGCAGAACGTTCTGCCTT
+ACAGAATGGTGCTGCAGAACTTTCTGCCTT
+Score: 18
+Start position in database sequence: 6415.0
+End position in database sequence: 6444.0
+>read17.779
+ACAGATTCGAAGCCATCAAACATGTGATAA
+ACAGATTCGAAGCCATCAAACATGTGATAA
+Score: 23
+Start position in database sequence: 270.0
+End position in database sequence: 299.0
+>read17.780
+CAGATCCCACGATCCTTACATGCGCTTCGC
+CAGATCCCACGATCCTTACATGCGCTTCGC
+Score: 23
+Start position in database sequence: 13061.0
+End position in database sequence: 13090.0
+>read17.781
+TTATCGCTGCTGAACGAAAGGAAGAGTCCG
+TTATCGCTGCTGAACGAAAGGAAGAGTCCG
+Score: 23
+Start position in database sequence: 4967.0
+End position in database sequence: 4996.0
+>read17.782
+GCTCGTTGACGTGGGTCGATGGAACTATCT
+GCTCGTTGACGTGGGTCGATGGAACTATCT
+Score: 23
+Start position in database sequence: 6995.0
+End position in database sequence: 7024.0
+>read17.783
+AATACGACCTCCCGAGGGAGGCCTCCGAGT
+AATACGACCTCCCGAGGGAGGCCTCCGAGT
+Score: 23
+Start position in database sequence: 16179.0
+End position in database sequence: 16208.0
+>read17.784
+ATCAAGGCCCGACGCTGAGATAGAAAATCT
+ATCAAGGCCCGACGCTGAGATAGAAAATCT
+Score: 23
+Start position in database sequence: 16316.0
+End position in database sequence: 16345.0
+>read17.785
+CAGGCCGGTAGCAGGTTGTATTGGAACCAA
+CAGGCCGGTAGCAGGTTGTATTGGAACCAA
+Score: 23
+Start position in database sequence: 1786.0
+End position in database sequence: 1815.0
+>read17.786
+AGATCGACAAGATACAGAACATGTCGCTGA
+AGATCGACAAGATACAGAACATGTCGCTGA
+Score: 23
+Start position in database sequence: 16046.0
+End position in database sequence: 16075.0
+>read17.787
+AATAAATGAACGTAGTGTACTGCATAGTAT
+AATAAATGAACGTAGTGTACTGCATAGTAT
+Score: 23
+Start position in database sequence: 66.0
+End position in database sequence: 95.0
+>read17.788
+CGGCTATCCAAATGTCCGGGCTTCAGGGTG
+CGGCTATCCAAATGTCCGGGCTTCAGGGTG
+Score: 23
+Start position in database sequence: 2626.0
+End position in database sequence: 2655.0
+>read17.789
+TCCGTGGGTAAACGGTCCACACAGCGCTCA
+TCCGTGGGTAAACGGTCCACACAGCGCTCA
+Score: 23
+Start position in database sequence: 5482.0
+End position in database sequence: 5511.0
+>read17.790
+AACACAGCACTGGATCTACAATAGGCAGAT
+AACACAGCACTGGATCTACAGTAGGCAGAT
+Score: 18
+Start position in database sequence: 7343.0
+End position in database sequence: 7372.0
+>read17.791
+GTACGCCAGTGAGCCAGCCGACTGCCTTAG
+GTACGCCAGTGAGCCAGCCGACTGCCTTAG
+Score: 23
+Start position in database sequence: 15851.0
+End position in database sequence: 15880.0
+>read17.792
+GCCCAATTCTAATCTGTATAGGAGGTGAGT
+GCCCAATTCTAATCTGTATAGGAGGTGAGT
+Score: 23
+Start position in database sequence: 2854.0
+End position in database sequence: 2883.0
+>read17.793
+GTTACAGGCACGTTTGTCGTGGCACTTTAG
+GTTACAGGCACGTTTGTCGTGGCACTTTAG
+Score: 23
+Start position in database sequence: 2431.0
+End position in database sequence: 2460.0
+>read17.794
+AGTTTACAATCGCGGCTAAGCTGGGGCATC
+AGTTTACAATCGCGGCTAAGCTGGGGCATC
+Score: 23
+Start position in database sequence: 13642.0
+End position in database sequence: 13671.0
+>read17.795
+TGTATAACCTATGAGTTTACAATCGCGGCT
+TGTATAACCTATGAGTCTACAATCGCGGCT
+Score: 18
+Start position in database sequence: 13629.0
+End position in database sequence: 13658.0
+>read17.796
+CATCATCGGGATCTGCATAGGACTTCACAT
+CATCATCGGGATCTGCATAGGACTTCACAT
+Score: 23
+Start position in database sequence: 8431.0
+End position in database sequence: 8460.0
+>read17.797
+CAAAGCAACTGCGTTACTGCCTTAGGATAA
+CAAAGCAACTGCGTTACTGCCTTAGGATAA
+Score: 23
+Start position in database sequence: 6542.0
+End position in database sequence: 6571.0
+>read17.798
+GCTAAGTACAGAACAAGGGGGTTAGTGGG
+GCTCAGTACAGAACAAGGGGGTTAGTGGG
+Score: 23
+Start position in database sequence: 8676.0
+End position in database sequence: 8704.0
+>read17.799
+TTCCGTCATTTCACAACGCACCGAACGAG
+TTACGTCATTTCACAACGCACCGAACGAG
+Score: 23
+Start position in database sequence: 7646.0
+End position in database sequence: 7674.0
+>read17.800
+GGCAGCCGTTCTAATTCATTCTCTTCTTCT
+GGCAGCCGTTCTAATTCATTCTCTTCTTCT
+Score: 23
+Start position in database sequence: 3664.0
+End position in database sequence: 3693.0
+>read17.801
+TTAGAAAAGGTCCGCTATAAATCGTTCAAG
+TTAGAAAAGGTCCGCTATAAATCGTTCAAG
+Score: 23
+Start position in database sequence: 431.0
+End position in database sequence: 460.0
+>read17.802
+TGTTAAGCAATAACAATAACGCGATCATGT
+TGTTAAGCAATAACAATAACGCGATCATGT
+Score: 23
+Start position in database sequence: 17034.0
+End position in database sequence: 17063.0
+>read17.803
+TGAAACGAGGTGGTTGAGTTGGCTTATACA
+TGAAACGAGGTGGTTGAGTTGGCTTATACA
+Score: 23
+Start position in database sequence: 17488.0
+End position in database sequence: 17517.0
+>read17.804
+GCTCTGTAAAACCGCATATACGCCGATTCG
+GCTCTGTAAAACCGCATATACGCCGATTCG
+Score: 23
+Start position in database sequence: 9490.0
+End position in database sequence: 9519.0
+>read17.805
+CAATTCTGAAGTGGCTCTTGACATCTGAGA
+CAATTCTGAAGTGGCTCTTGACATCTGAGA
+Score: 23
+Start position in database sequence: 11421.0
+End position in database sequence: 11450.0
+>read17.806
+CTGGTAGTATCCGGGTTAAGTGCGAAGCTG
+CTGGTAGTATCCGGGTTAAGTGCGAAGCTG
+Score: 23
+Start position in database sequence: 8320.0
+End position in database sequence: 8349.0
+>read17.807
+GATGGGCGCAGAGGTTAGTGTATGGTCGGC
+GATGGGCGCAGAGGTTAGTGTATGGTCGGC
+Score: 23
+Start position in database sequence: 14114.0
+End position in database sequence: 14143.0
+>read17.808
+GTGATAGCGATACGACATCCCATTGTGAGT
+GTGATAGCGATACGACATCCCATTGTGAGT
+Score: 23
+Start position in database sequence: 1377.0
+End position in database sequence: 1406.0
+>read17.809
+GATCTCTACACCGTCGATTATTGACGGTCA
+GATCTCTACACCGTCGATTATTGACGGTCA
+Score: 23
+Start position in database sequence: 679.0
+End position in database sequence: 708.0
+>read17.810
+AAGGATATGTGGTTGTGTAAGATTGCGCC
+AAGGAGATGTGGTTGTGTAAGATTGCGCC
+Score: 23
+Start position in database sequence: 18014.0
+End position in database sequence: 18042.0
+>read17.811
+GCTTGAGATATGCGAATTAAGTGCGGAGTT
+GCTTGAGATATGCGAATTAAGTGCGGAGTT
+Score: 23
+Start position in database sequence: 16821.0
+End position in database sequence: 16850.0
+>read17.812
+AAGTAATACAACCCGATGCATTCCGTCATA
+AAGTAATACAACCCGATGCATTCCGTCATA
+Score: 23
+Start position in database sequence: 9888.0
+End position in database sequence: 9917.0
+>read17.813
+GGATGATGGGCATAAGGCCTCAAAAACCAC
+GGATGATGGGCATAAGGCCTCAAAAACCAC
+Score: 23
+Start position in database sequence: 14685.0
+End position in database sequence: 14714.0
+>read17.814
+AACCCAACACAATGAGTACATGGGTGCATG
+AACCCAACACAATGAGTACATGGGTGCATG
+Score: 23
+Start position in database sequence: 3479.0
+End position in database sequence: 3508.0
+>read17.815
+GAGGACGTGGGGTAATCGCCGGCACTGTTA
+GAGGACGTGGGGTAATCGCCGGCACTGTTA
+Score: 23
+Start position in database sequence: 4414.0
+End position in database sequence: 4443.0
+>read17.816
+TCATAACCGCTAGGGATCGGTTAAGAGCAA
+TCATAACCGCTAGGGATCGGTTAAGAGCAA
+Score: 23
+Start position in database sequence: 12357.0
+End position in database sequence: 12386.0
+>read17.817
+Query not found!!Query not found!!Score: -1
+>read17.818
+TCCGTAAGCCAAAGGCTCCTTGGATCGAAG
+TCCGTAAGCCAAAGGCTCCTTGGATCGAAG
+Score: 23
+Start position in database sequence: 13096.0
+End position in database sequence: 13125.0
+>read17.819
+GGGGGGAACCTTCGCGGCCCGTCGCGCGTA
+GGGGGGAACCTTCGCGGCCCGTCGCGCGTA
+Score: 23
+Start position in database sequence: 15261.0
+End position in database sequence: 15290.0
+>read17.820
+TCGTAGAAACGAGGAACCTGACTTGAACTT
+TCGTAGAAACGAGGAACCTGACTTGAACTT
+Score: 23
+Start position in database sequence: 5742.0
+End position in database sequence: 5771.0
+>read17.821
+TGTCTGATGTCCCGTCGGTACGGGCGTAAG
+TGTCTGATGTCCCGTCGGTACGGGCGTAAG
+Score: 23
+Start position in database sequence: 7197.0
+End position in database sequence: 7226.0
+>read17.822
+GGTAAGGGTCCCACCTTGAGAGTATATAGA
+GGTAAGGGTCCCACCTTGAGAGTATATAGA
+Score: 23
+Start position in database sequence: 3579.0
+End position in database sequence: 3608.0
+>read17.823
+TAGATACCGGGCAAGTATGGGAATCTGCCG
+TAGATACCGGGCAAGTATGGGAATCTGCCG
+Score: 23
+Start position in database sequence: 2739.0
+End position in database sequence: 2768.0
+>read17.824
+TTTTCCCGCTCTTTAGCGCTCGCGCCACTT
+TTTTCCCGCTCTTTAGCGCTCGCGCCACTT
+Score: 23
+Start position in database sequence: 3957.0
+End position in database sequence: 3986.0
+>read17.825
+GCGCAAGAACTTTCGCTGGAATATGCCCA
+GCGCAAGATCTTTCGCTGGAATATGCCCA
+Score: 23
+Start position in database sequence: 18811.0
+End position in database sequence: 18839.0
+>read17.826
+CACGGTTCGCTGTCCCGGGCCCATAAATCG
+CACGGTTCGCTGTCCCGGGCCCATAAATCG
+Score: 23
+Start position in database sequence: 950.0
+End position in database sequence: 979.0
+>read17.827
+TGGGCGGCGCCGCGGTAGCCGCTGCATACA
+TGGGCGGCGCCGCGGTAGCCGCTGCATACA
+Score: 23
+Start position in database sequence: 6798.0
+End position in database sequence: 6827.0
+>read17.828
+GCTGGGGCATCTCCCTCGCGCGGACTTACT
+GCTGGGGCATCTCCCTCGCGCGGACTTACT
+Score: 23
+Start position in database sequence: 13661.0
+End position in database sequence: 13690.0
+>read17.829
+TTATAATGTACGCCAGTGAGCCAGCCGACT
+TTATAATGTACGCCAGTGAGCCAGCCGACT
+Score: 23
+Start position in database sequence: 15844.0
+End position in database sequence: 15873.0
+>read17.830
+GCTGTGAAATGTGAGACAATACATCCCGCG
+GCTGTGAAATGTGAGACAATACATCCCGCG
+Score: 23
+Start position in database sequence: 647.0
+End position in database sequence: 676.0
+>read17.831
+ACGGGCGTAAGAGGTTCTTTCCAACAGTTT
+ACGGGCGTAAGAGGTTCTTTCCAACAGTTT
+Score: 23
+Start position in database sequence: 7216.0
+End position in database sequence: 7245.0
+>read17.832
+CCCTATCGCTCTTTCGCCCCGTCGAGCATC
+CCCTATCGCTCTTTCGCCCCGTCGAGCATT
+Score: 18
+Start position in database sequence: 12296.0
+End position in database sequence: 12325.0
+>read17.833
+GTGGATCTCGTGGCACCGTGAGTAGATAGG
+GTGGATCTCGTGGCACCGTGAGTAGATAGG
+Score: 23
+Start position in database sequence: 11717.0
+End position in database sequence: 11746.0
+>read17.834
+TTACAAATGCAGTGTAAGAGTAACTGATAA
+TTACAAATGCAGTGTAAGAGTAACTGATAA
+Score: 23
+Start position in database sequence: 18052.0
+End position in database sequence: 18081.0
+>read17.835
+GAGAGATGAAGATCCGAACCGAACGAGCGT
+GAGAGATGAAGATCCGAACCGAACGAGCGT
+Score: 23
+Start position in database sequence: 17595.0
+End position in database sequence: 17624.0
+>read17.836
+CGGTGTAGAAGGCCGGCGGACTACTCGCAC
+CGGTGTAGAAGGCCGGCGGACTACTCGCAC
+Score: 23
+Start position in database sequence: 5207.0
+End position in database sequence: 5236.0
+>read17.837
+TTCAACATTCAAACTCTGTGGATGGGCCGA
+TTCAACATTCAAACTCTGTGTATGGGCCGA
+Score: 18
+Start position in database sequence: 1926.0
+End position in database sequence: 1955.0
+>read17.838
+TCATCCAACGGGATGGTCATCGTCGACCAA
+TCATCCAACGGGATGGTCATCGTCGACCAA
+Score: 23
+Start position in database sequence: 3227.0
+End position in database sequence: 3256.0
+>read17.839
+TAGCGTAATAATATGCACTCACACGTATGA
+TAGCGTAATAATATGCACTCACACGTATGA
+Score: 23
+Start position in database sequence: 7280.0
+End position in database sequence: 7309.0
+>read17.840
+TCGGCCAATACCAGTTCTAAGTGGTTATCG
+TCGGCCAATACCAGTTCTAAGTGGTTATCG
+Score: 23
+Start position in database sequence: 5392.0
+End position in database sequence: 5421.0
+>read17.841
+CCGTAACGGATAAGACTTCCCCCGAGATT
+CCGTAACGGGTAAGACTTCCCCCGAGATT
+Score: 23
+Start position in database sequence: 7580.0
+End position in database sequence: 7608.0
+>read17.842
+CCCCTAGCTCACAACAGAGACCGATCCAAC
+CCCCTAGCTCACAACAGAGACCGATCCAAC
+Score: 23
+Start position in database sequence: 11660.0
+End position in database sequence: 11689.0
+>read17.843
+TGGCGCTGCGGCCCAGGAGCGAGTACGATC
+TGGCGCTGCGGCCCAGGAGCGAGTATGATC
+Score: 18
+Start position in database sequence: 12604.0
+End position in database sequence: 12633.0
+>read17.844
+ATACTGCCGCGAGGGACTTGTTGGGGCATG
+ATACTGCCGCGAGGGACTTGTTGGGGCATG
+Score: 23
+Start position in database sequence: 6212.0
+End position in database sequence: 6241.0
+>read17.845
+TCCCGGGCCCATAAATCGAATCAACTCCCA
+TCCCGGGCCCATAAATCGAATCAACTCCCA
+Score: 23
+Start position in database sequence: 962.0
+End position in database sequence: 991.0
+>read17.846
+TTCTGTCTGCTCCCTGCAGGATCCAATGAA
+TTCTGTCTGCTCCCTGCAGGATCCAATGAA
+Score: 23
+Start position in database sequence: 19162.0
+End position in database sequence: 19191.0
+>read17.847
+TAGGTCATGACTACACCATAGACTGTGCGC
+TAGGTCATGACTACACCATAGACTGTGCGC
+Score: 23
+Start position in database sequence: 12232.0
+End position in database sequence: 12261.0
+>read17.848
+AAACTGGTACCGTATCGTATGCCCCCTATC
+AAACTGGTACCGTATCGTATGCCCCCTATC
+Score: 23
+Start position in database sequence: 7540.0
+End position in database sequence: 7569.0
+>read17.849
+CATCTTAATTTTTTGTCTCCTCACATAAAC
+CATCTTAATTTTTTGTCTCCTCACATAAAC
+Score: 23
+Start position in database sequence: 2584.0
+End position in database sequence: 2613.0

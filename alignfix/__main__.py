@@ -9,16 +9,16 @@ import sys
 import time
 def print_error(msg):
     """
-   Writing an error message
+    Writing an error message
 
-   Parameters
-   ----------
-   msg : string
-       the error message to be printed
-   Returns
-   -------
-   void
-   """
+    Parameters
+    ----------
+    msg : string
+        the error message to be printed
+    Returns
+    -------
+    void
+    """
     sys.stderr.write("[ERROR]: {msg}\n".format(msg=msg))
     sys.exit(1)
 def output_benchmark(file, time_reading, time_aligning, query_count, query_failures):
@@ -57,7 +57,7 @@ def output_benchmark(file, time_reading, time_aligning, query_count, query_failu
         f.write('Total Time: {:.2f} seconds\n'.format(time_reading + time_aligning))
         f.write('Number of queries that failed: {:d}\n'.format(query_failures))
         f.write('Percent of queries that aligned: {:.2f}\n'.format(percent_aligned))
-    print(total_time)
+    print(f"Runtime: {total_time}")
     return
 
 def extractDatabase(file):
@@ -82,7 +82,7 @@ def extractDatabase(file):
                 continue
             database += line.strip()
     return database
-def write_alignment(o_file, name, alignment, query_count, start, end):
+def write_alignment(o_file, name, alignment, counter, start, end):
     """
     Writing an alignment to an output file
 
@@ -106,7 +106,7 @@ def write_alignment(o_file, name, alignment, query_count, start, end):
         print_error("Directory {directory} does not exist".format(directory=directory))
         sys.exit(1)
 
-    if query_count == 1:
+    if counter == 1:
         with open(o_file, "w") as f:
             f.write(">" + name + "\n")
             f.write(alignment[2] + "\n")
@@ -126,7 +126,7 @@ def write_alignment(o_file, name, alignment, query_count, start, end):
         f.write("End position in database sequence: " + str(end) + '\n')
     f.close()
     return
-def write_failure(o_file, name, query_count):
+def write_failure(o_file, name, counter):
     """
     Writing a failing alignment to an output file (query not found)
 
@@ -148,7 +148,7 @@ def write_failure(o_file, name, query_count):
         print_error("Directory {directory} does not exist".format(directory=directory))
         sys.exit(1)
 
-    if query_count == 1:
+    if counter == 1:
         with open(o_file, "w") as f:
             f.write(">" + name + "\n")
             f.write("Query not found!!")
@@ -204,7 +204,6 @@ def main():
     # start time for reading
     start_reading = time.time()
 
-
     # queries -> pyfaidx
     if not os.path.exists(args.query):
         print_error("The input query file does not exist!")
@@ -222,9 +221,7 @@ def main():
     start_alignment = time.time()
 
     for query in queries.keys():
-
         query_count += 1
-
         seeds = None
         for i in range(0, len(queries[query]) - 15 + 1):
             seeds = sa.Seeds(str(queries[query][i:i + 15]))
@@ -232,14 +229,12 @@ def main():
                 continue
             else:
                 break
-
+        
         # check seed exists
         if seeds is None:
             query_name = query
-            write_failure(args.output, query_name, query_count)
-            query_failures += 1
             continue
-
+        
         # calculating the optimal alignment given our set of seeds
         max_score = -9999
         best_alignment = None
@@ -261,10 +256,8 @@ def main():
 
             if a.upper_alignment == -1:
                 query_name = query
-                write_failure(args.output, query_name, query_count)
-                query_failures += 1
                 continue
-
+            
             results = a.Align()
             if results[0] > max_score:
                 best_alignment = results

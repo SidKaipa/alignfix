@@ -1,0 +1,284 @@
+>read3.0
+GCAATTGAACCACTGCTGTCGGCGCATCGC
+GCAATTGAACCACTGCTGTCGGCGCATCGC
+Score: 23
+Start position in database sequence: 12044.0
+End position in database sequence: 12073.0
+>read3.1
+GGGGTGGTACAAAGGGCTGATGATTGGCGA
+GGGGTGGTACAAAGGGCTGATGATTGGCGA
+Score: 23
+Start position in database sequence: 495.0
+End position in database sequence: 524.0
+>read3.2
+GGACTGAGCAGGTATCCCATAGATATACGC
+GGACTGAGCAGGTATCCCATAGATATACGC
+Score: 23
+Start position in database sequence: 602.0
+End position in database sequence: 631.0
+>read3.3
+AGATCGTGCGCAGTGAGGACGCTAAGATCA
+AGATCGTGCGCAGTGAGGACGCTAAGATCA
+Score: 23
+Start position in database sequence: 9579.0
+End position in database sequence: 9608.0
+>read3.4
+TAGATACACTCATGATTACCATAGGGTTCA
+TAGATACACTCATGATTACCATAGGGTTCA
+Score: 23
+Start position in database sequence: 3951.0
+End position in database sequence: 3980.0
+>read3.5
+GATTGGCTAGAGTCAGAAAAGTGTACTGT
+GATTGTCTAGAGTCAGAAAAGTGTACTGT
+Score: 23
+Start position in database sequence: 10811.0
+End position in database sequence: 10839.0
+>read3.6
+Query not found!!Query not found!!Score: -1
+>read3.7
+CCACATGTAGCCCTTAGCACAGTCTATTA
+CCACATGTAGCTCTTAGCACAGTCTATTA
+Score: 23
+Start position in database sequence: 12412.0
+End position in database sequence: 12440.0
+>read3.8
+GCAATAAGGAAGTTAAGATATTCGCTCCCC
+GCAATAAGGAAGTTAAGATATTCGCTCCCC
+Score: 23
+Start position in database sequence: 7034.0
+End position in database sequence: 7063.0
+>read3.9
+TTAATCCTAGGACACCCGGCAGGTAGTGGC
+TTAATCCTAGGACACCCGGCAGGTAGTGGC
+Score: 23
+Start position in database sequence: 63.0
+End position in database sequence: 92.0
+>read3.10
+AACAGTCTATTTATGAGTTTGTAGGTCAGC
+AACAGTCTATTTATGAGTTTGTAGGTCAGC
+Score: 23
+Start position in database sequence: 18629.0
+End position in database sequence: 18658.0
+>read3.11
+Query not found!!Query not found!!Score: -1
+>read3.12
+AGCACTCGAGTTCCGGTAAAAATAACTAG
+AGCACTCGAGGTCCGGTAAAAATAACTAG
+Score: 23
+Start position in database sequence: 2936.0
+End position in database sequence: 2964.0
+>read3.13
+AGCGACTAACAATCACATGACCAGGGCTC
+AGCTACTAACAATCACATGACCATGGCTC
+Score: 18
+Start position in database sequence: 16783.0
+End position in database sequence: 16811.0
+>read3.14
+CTGCCATATCAGGTTGTGGTTAGGTATCC
+CTGCCATATCTGGTTGTGGTTAGGTATCC
+Score: 23
+Start position in database sequence: 12870.0
+End position in database sequence: 12898.0
+>read3.15
+CTCCGGCTCCGTCAGCTAACAGTCTATTTA
+CTCCGGCTCCGTCAGCTAACAGTCTATTTA
+Score: 23
+Start position in database sequence: 18612.0
+End position in database sequence: 18641.0
+>read3.16
+AACCTCGAAGCTCTATACACAACTGCTCTG
+AACCTCGAAGCTCTATACACAACTGCTCTG
+Score: 23
+Start position in database sequence: 13060.0
+End position in database sequence: 13089.0
+>read3.17
+TATTATCATGGGGGGTCGGGGGAGAGAAGT
+TATTATCATGGGGGGTCGGGGGAGAGAAGT
+Score: 23
+Start position in database sequence: 5007.0
+End position in database sequence: 5036.0
+>read3.18
+GGAAGTCGCGGTCCCCACCCGCGGTAGTGT
+GGAAGTCGCGGTCCCCACACGCGGTAGTGT
+Score: 18
+Start position in database sequence: 1852.0
+End position in database sequence: 1881.0
+>read3.19
+GGCGCCGCTCCAAGCAAAACCAAGGTGAAA
+GGCGCCGCTCCAAGCAAAACCTAGGTGAAA
+Score: 18
+Start position in database sequence: 7619.0
+End position in database sequence: 7648.0
+>read3.20
+CTCTTCAACAGTATCGCGCGAATTTACGAC
+CTCTTCAACAGTATCGCGCGTATTTACGAC
+Score: 18
+Start position in database sequence: 6503.0
+End position in database sequence: 6532.0
+>read3.21
+Query not found!!Query not found!!Score: -1
+>read3.22
+GGACTGAGTTGTTCGCATCGCGCGATCTAG
+GGACTGAGTTGTTCGCATCGGGCGATCTAG
+Score: 18
+Start position in database sequence: 12499.0
+End position in database sequence: 12528.0
+>read3.23
+GCCCGTGGTGTACGTCCTCTTACACAGTTC
+GCCCGTGGTGTACGTCCTCATACACAGTTC
+Score: 18
+Start position in database sequence: 18574.0
+End position in database sequence: 18603.0
+>read3.24
+GCCTGAGCAGGTCTTAGGTGATGGATCAA
+GCCTGAGCAGATCTTAGGTGATGGATCAA
+Score: 23
+Start position in database sequence: 17014.0
+End position in database sequence: 17042.0
+>read3.25
+GTTTACGGGCCAGCATCTCTAGCCCTTCTC
+GTTTACGGGCCAGCATCTCTAGCCCTTCTC
+Score: 23
+Start position in database sequence: 2307.0
+End position in database sequence: 2336.0
+>read3.26
+CAGCACATTCTTGAGTCGAACAGCTTCACA
+CAGCACATTCTTGAGTCGAATAGCTTCACA
+Score: 18
+Start position in database sequence: 1418.0
+End position in database sequence: 1447.0
+>read3.27
+CCCTATGCGCATTGGCCACTTCAGCAGCTG
+CCCTATGCGCATTGGCCACTTCAGCAGCTG
+Score: 23
+Start position in database sequence: 18138.0
+End position in database sequence: 18167.0
+>read3.28
+Query not found!!Query not found!!Score: -1
+>read3.29
+TCGCGCTCGCAGAATATCTGTAATTCTACC
+TCGCGCTCGCAGAATATCTGTAATTCTACC
+Score: 23
+Start position in database sequence: 10214.0
+End position in database sequence: 10243.0
+>read3.30
+AACTCGTTCAAACGTGTTAGGGGACTCAA
+AACTCGGTCAAACGTGTTAGGGGACTCAA
+Score: 23
+Start position in database sequence: 10169.0
+End position in database sequence: 10197.0
+>read3.31
+ACGTCTGCACAAGCCCCTAGACTTACCATC
+ACGTCTGCACAAGCCCCTAGACTTACCATC
+Score: 23
+Start position in database sequence: 14065.0
+End position in database sequence: 14094.0
+>read3.32
+ACTTGGCAGATCAAGCGCCATCAGGGTATG
+ACTTGGCAGATCAAGCGCCATTAGGGTATG
+Score: 18
+Start position in database sequence: 6032.0
+End position in database sequence: 6061.0
+>read3.33
+TCTGCTTGTACTTTAGTGTTCCTCGGTCTG
+TCTGCTTGTACTTTAGTGTTCCTCGGTCTG
+Score: 23
+Start position in database sequence: 17075.0
+End position in database sequence: 17104.0
+>read3.34
+CTATATGGCGTCGTTCCATTGCTACTGCAA
+CTATATGGCGTCGTTCCATTGCTACTGCAA
+Score: 23
+Start position in database sequence: 11377.0
+End position in database sequence: 11406.0
+>read3.35
+GACTAACCGGGTAAGTTACTCGTCCATACT
+GACTAACCGGGTAAGTTACTCGTCCATACT
+Score: 23
+Start position in database sequence: 9767.0
+End position in database sequence: 9796.0
+>read3.36
+ATGCGGGCAACTTCAGCGACAAAGTCCTAG
+ATGCGGGCAACTTCAGCGACAAAGTCCTAG
+Score: 23
+Start position in database sequence: 15818.0
+End position in database sequence: 15847.0
+>read3.37
+GATTATCTCATTAGACCATTTCCGAACAT
+GATTATGTCATTAGACCATTTCCGAAAAT
+Score: 18
+Start position in database sequence: 14146.0
+End position in database sequence: 14174.0
+>read3.38
+GTTCCATTGCTACTGCAAGACTTCTTAGA
+GTTCCATTGCCGCTGCAAGACTTCTTAGA
+Score: 18
+Start position in database sequence: 11389.0
+End position in database sequence: 11417.0
+>read3.39
+ACGCCAGAGTGGGGTCAATCGGGGTGACC
+ATGCCAGAGTGGGGTCAATCGGGGTGACC
+Score: 23
+Start position in database sequence: 15297.0
+End position in database sequence: 15325.0
+>read3.40
+ACAGTTTAGGTCTGTATAGGACAAGAAAGT
+ACAGTTTAGGTCTGTATAGGACAAGAAAGT
+Score: 23
+Start position in database sequence: 15470.0
+End position in database sequence: 15499.0
+>read3.41
+CGAACCCGAACGGAGTCCACCAAGGAAAAT
+CGAACCCGAACGGAGTCCACCAAGGAAAAT
+Score: 23
+Start position in database sequence: 15675.0
+End position in database sequence: 15704.0
+>read3.42
+GGCTGCGCCCGCATCTATCGGAAAATCCTT
+GGCTGCGCCCGCATCTATCGGAAAATCCTT
+Score: 23
+Start position in database sequence: 1973.0
+End position in database sequence: 2002.0
+>read3.43
+CTACCGGTTAGGGATATAAGCTGTAGAATA
+CTACCGGTTAGGGATATAAGCTGTAGAATA
+Score: 23
+Start position in database sequence: 16876.0
+End position in database sequence: 16905.0
+>read3.44
+CCAGATTACGTTCATTGGTACTCCTCGACA
+CCAGATTACGTTCATTGGTACTCCTCGACA
+Score: 23
+Start position in database sequence: 14307.0
+End position in database sequence: 14336.0
+>read3.45
+GTCCTATAGCATCTTACCCTCCGTATGAC
+GTCCTAGAGCATCTTACCCTCCGTATGAC
+Score: 23
+Start position in database sequence: 11271.0
+End position in database sequence: 11299.0
+>read3.46
+CGGGACCCGCTCAGTAACCACCCTCGGATA
+CGGGACCCGCTCAGTAACCACCCTCGGATA
+Score: 23
+Start position in database sequence: 2694.0
+End position in database sequence: 2723.0
+>read3.47
+TCGCAAATATGTTACTATAATCAGGTGTGG
+TCGCAAATATGTTACTATAATCAGGTGTGG
+Score: 23
+Start position in database sequence: 11455.0
+End position in database sequence: 11484.0
+>read3.48
+ACTGAGTCGATGTTTACATCTTCATTGAAA
+ACTGAGTCGATGTTTACATCTTCATTGAAA
+Score: 23
+Start position in database sequence: 4622.0
+End position in database sequence: 4651.0
+>read3.49
+GGTACATCGGTGAATTGCAAACGAGCTCAC
+GGTACATCGGTGAATTGCAAACGAGCTCAC
+Score: 23
+Start position in database sequence: 13394.0
+End position in database sequence: 13423.0

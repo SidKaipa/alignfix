@@ -1,0 +1,156 @@
+>read17.0
+ACGAGCAAAAAGATGGTCAACCCGAGGTCG
+ACGAGCAAAAAGATGGTCAACGCGAGGTCG
+Score: 18
+Start position in database sequence: 5649.0
+End position in database sequence: 5678.0
+>read17.1
+Query not found!!Query not found!!Score: -1
+>read17.2
+Query not found!!Query not found!!Score: -1
+>read17.3
+Query not found!!Query not found!!Score: -1
+>read17.4
+Query not found!!Query not found!!Score: -1
+>read17.5
+GAACTAAAGTATGCACTAAGTGTGCTGAGG
+GAACTAAAGTATGCACTAATTGTGCTGAGG
+Score: 18
+Start position in database sequence: 13749.0
+End position in database sequence: 13778.0
+>read17.6
+Query not found!!Query not found!!Score: -1
+>read17.7
+Query not found!!Query not found!!Score: -1
+>read17.8
+TAGGGCGTACTTCAGCTTGAACATTTGATA
+TAGGGCGTACTTCAGCTTGACCATTTGAAA
+Score: 13
+Start position in database sequence: 18040.0
+End position in database sequence: 18069.0
+>read17.9
+CGACGGTCGGTCCACTAAAGTTTATGACA
+CGACGCTCGGTCCACTAAAGTTTAGGACA
+Score: 18
+Start position in database sequence: 16230.0
+End position in database sequence: 16258.0
+>read17.10
+Query not found!!Query not found!!Score: -1
+>read17.11
+Query not found!!Query not found!!Score: -1
+>read17.12
+GCTATCGATAGTCTGTACCTTGCGTATTT
+ACTATCGAAAGTCTGTACCTTGCGTATTT
+Score: 13
+Start position in database sequence: 7421.0
+End position in database sequence: 7449.0
+>read17.13
+AGCAACACGCAATACTTACCACGAGAATG
+AGCAACACGCACTACTTACCACGAGAATC
+Score: 18
+Start position in database sequence: 12371.0
+End position in database sequence: 12399.0
+>read17.14
+Query not found!!Query not found!!Score: -1
+>read17.15
+GAACAGGGGCGAAGCGAATTACATTTCTG
+GCACAGGGGCGAAGCGAATTTCATTTCTG
+Score: 18
+Start position in database sequence: 14634.0
+End position in database sequence: 14662.0
+>read17.16
+Query not found!!Query not found!!Score: -1
+>read17.17
+Query not found!!Query not found!!Score: -1
+>read17.18
+Query not found!!Query not found!!Score: -1
+>read17.19
+TCCTTGTTCATTCGCGAAGGTTACGACTG
+TTCCTGTTCATTCGCGAAGGTTACGACGG
+Score: 13
+Start position in database sequence: 941.0
+End position in database sequence: 969.0
+>read17.20
+GGTTGGACCATCACCGTCACACCTGAATC
+GGTTGGACCATCACCGTCACACCCGAATC
+Score: 18
+Start position in database sequence: 18202.0
+End position in database sequence: 18230.0
+>read17.21
+ACTGTAAGGGTTGGACCATCACCGTCACA
+ACTGTAAGGGTTGGACCATCACCGTCACA
+Score: 23
+Start position in database sequence: 18194.0
+End position in database sequence: 18222.0
+>read17.22
+Query not found!!Query not found!!Score: -1
+>read17.23
+Query not found!!Query not found!!Score: -1
+>read17.24
+Query not found!!Query not found!!Score: -1
+>read17.25
+Query not found!!Query not found!!Score: -1
+>read17.26
+Query not found!!Query not found!!Score: -1
+>read17.27
+Query not found!!Query not found!!Score: -1
+>read17.28
+Query not found!!Query not found!!Score: -1
+>read17.29
+Query not found!!Query not found!!Score: -1
+>read17.30
+CTGTTGTTCGCATGAACTCAATTATTGAT
+GTGTTGTTCGCATGAACTCAATTATTGAT
+Score: 23
+Start position in database sequence: 15909.0
+End position in database sequence: 15937.0
+>read17.31
+Query not found!!Query not found!!Score: -1
+>read17.32
+Query not found!!Query not found!!Score: -1
+>read17.33
+Query not found!!Query not found!!Score: -1
+>read17.34
+Query not found!!Query not found!!Score: -1
+>read17.35
+Query not found!!Query not found!!Score: -1
+>read17.36
+Query not found!!Query not found!!Score: -1
+>read17.37
+Query not found!!Query not found!!Score: -1
+>read17.38
+Query not found!!Query not found!!Score: -1
+>read17.39
+Query not found!!Query not found!!Score: -1
+>read17.40
+TTGGGCGTCTAATGGGCATAAGTACTCTT
+TTGGTCGTCTAATGGGCATAAGTACTCTC
+Score: 18
+Start position in database sequence: 8052.0
+End position in database sequence: 8080.0
+>read17.41
+Query not found!!Query not found!!Score: -1
+>read17.42
+Query not found!!Query not found!!Score: -1
+>read17.43
+Query not found!!Query not found!!Score: -1
+>read17.44
+Query not found!!Query not found!!Score: -1
+>read17.45
+Query not found!!Query not found!!Score: -1
+>read17.46
+TCTTCTAGGTTAGTAACCCTAGGAAAGGC
+TATTCTAGGTTAGTAACCCTAGGAAAAGC
+Score: 18
+Start position in database sequence: 6539.0
+End position in database sequence: 6567.0
+>read17.47
+Query not found!!Query not found!!Score: -1
+>read17.48
+TTTACTACATCACATATACGACTTTGGTTA
+TTTACTACATCACATATACAACTTTGGTTA
+Score: 18
+Start position in database sequence: 1724.0
+End position in database sequence: 1753.0
+>read17.49
+Query not found!!Query not found!!Score: -1
